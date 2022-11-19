@@ -1,0 +1,26 @@
+[
+  {
+    "op": "add",
+    "path": "/converse/novakid/arcanian",
+    "value": [
+		"Your kind seems t' be very intelligent. Has any of your peers considered joinin' us, the Relic Seekers?",
+		"We've got a lot o' knowledge to share, mark my words!",
+		"Learnin' about the races that came before us is excitin' and disturbin' at the same time. How many of 'em were out there?",
+		"Do you have your own mech? I thought it ain't easy to afford.",
+		"Hello, fellow spacer! Got anything unusual? Some ancient relics, maybe?",
+		"Don't mean to be rude but I forgot what your species is. You're human, right?",
+		"Ever heard of K'Rakoths? Their race's been puzzlin' us for a while.",
+		"For now our insight into different types of essences is shallow. But it only means that we have more to learn and discover!",
+		"You know there's an elder race of aquatic squids out there? Forgot their name, though... again...",
+		"We Novakids don't have well-written history books, so it's our duty to finally record everything right.",
+		"An Arcanian, I suppose. Pleased to meet you. I've heard many good things 'bout your scholars.",
+		"Once we're finished with K'Rakoths, we ought to explore the Celestial Corridors. In theory, they should give us more information about the Ancients.",
+		"Space is kinda empty and dispiritin' at times, but if you search long enough, you'll always find somethin' wonderful.",
+		"There are so many strange worlds that intrigue us. They seem to be affected by greater cosmic powers.",
+		"Howdy, my name is <selfname>. Pleased to meet yet another curious spacefarer!",
+		"The Ruin's true origin is shrouded in myths. Go figure how it was really born.",
+		"Have your people found anythin' notable on Arcane planets? Like, any ancient ruins?",
+		"Your people must've better memory than us Novakids. Why not join us? You can help us a lot on our journey."
+    ]
+  }
+]

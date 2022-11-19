@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "atprk_aeonbattery", "count" : 1}
+  ],
+  "output" : {
+    "item" : "arcana_essence_electricEssence",
+    "count" : 14
+  },
+  "duration" : 0.6,
+  "groups" : [ "arcana_crafting_essenceExtractor", "arcana_essence_electricEssence" ]
+}

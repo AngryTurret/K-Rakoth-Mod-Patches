@@ -1,0 +1,34 @@
+{
+  "objectName" : "atprk_arcanablisteringpin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of a blistering planet.",
+  "shortdescription" : "Blistering Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "Blistering planets can be easily mined for magifire crystals.",
+  "avianDescription" : "A hot, blistering planet known for its precious magifire crystals and scorched ruins.",
+  "floranDescription" : "It rainsss ash and fire on blissstering planetss. Floran wishesss to sstay away.",
+  "glitchDescription" : "Greedy. I wonder how valuable magifire crystals really are. There are many of them on blistering planets after all...",
+  "humanDescription" : "A pin of a blistering planet. Quite a hot place, if you ask me.",
+  "hylotlDescription" : "A shiny pin of a blistering world. Some say such planets are infused with ancient fire magic.",
+  "novakidDescription" : "Yet another blisterin' planet. Watch out for rainin' ashes, or else they'll burn your skin!",
+
+  "inventoryIcon" : "atprk_arcanablisteringpin.png",
+  "orientations" : [
+    {
+      "dualImage" : "atprk_arcanablisteringpin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+[
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_arcanablisteringpin" },
+			"prerequisiteQuest" : "hylotl_mission1"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_arcanatundrapin" },
+			"prerequisiteQuest" : "avian_mission1"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_arcanawindsweptpin" },
+			"prerequisiteQuest" : "avian_mission1"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_arcanaanimuspin" },
+			"prerequisiteQuest" : "apex_mission1"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_arcanaardentpin" },
+			"prerequisiteQuest" : "apex_mission1"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_arcanadesolatepin" },
+			"prerequisiteQuest" : "apex_mission1"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_arcanaevoaquaticpin" },
+			"prerequisiteQuest" : "apex_mission1"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_arcanaferociouspin" },
+			"prerequisiteQuest" : "apex_mission1"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_arcanagoldenforestpin" },
+			"prerequisiteQuest" : "apex_mission1"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_arcanailluminatedpin" },
+			"prerequisiteQuest" : "apex_mission1"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_arcanasanguinepin" },
+			"prerequisiteQuest" : "apex_mission1"
+		}
+	}
+]

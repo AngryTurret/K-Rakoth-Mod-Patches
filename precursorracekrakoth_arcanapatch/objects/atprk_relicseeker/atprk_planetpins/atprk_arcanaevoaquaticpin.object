@@ -1,0 +1,34 @@
+{
+  "objectName" : "atprk_arcanaevoaquaticpin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of an evoaquatic planet.",
+  "shortdescription" : "Evoaquatic Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "It is very convenient to mine morphosis shards from the surface of evoaquatic planets.",
+  "avianDescription" : "Evoaquatic worlds are home to all sorts of exotic living creatures, including large evolved Poptops.",
+  "floranDescription" : "One of the bessst planet typess for hunting. Evoaquatic worldss have lotsss and lotsss of tasssty prey.",
+  "glitchDescription" : "Relieved. Even if you get bit by wild beasts, you can always heal your wounds in evoaquatic springs.",
+  "humanDescription" : "A wild evoaquatic planet where many fierce creatures lurk in thick foliage.",
+  "hylotlDescription" : "Thanks to healing springs, evoaquatic worlds can sustain a broad variety of exotic lifeforms.",
+  "novakidDescription" : "If it weren't for colossal Poptops, evoaquatic lands would be perfect for a vacation home.",
+
+  "inventoryIcon" : "atprk_arcanaevoaquaticpin.png",
+  "orientations" : [
+    {
+      "dualImage" : "atprk_arcanaevoaquaticpin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}
