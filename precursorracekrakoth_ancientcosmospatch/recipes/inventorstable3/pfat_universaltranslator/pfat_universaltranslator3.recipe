@@ -1,0 +1,12 @@
+{
+  "input" : [
+	{ "item" : "pf_woodtranslationtable", "count" : 1 },
+	{ "item" : "atprk_translator", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "pfat_universaltranslator3",
+    "count" : 1
+  },
+  "duration" : 2,
+  "groups" : [ "inventorstable3", "craftingstations", "all", "mod" ]
+}

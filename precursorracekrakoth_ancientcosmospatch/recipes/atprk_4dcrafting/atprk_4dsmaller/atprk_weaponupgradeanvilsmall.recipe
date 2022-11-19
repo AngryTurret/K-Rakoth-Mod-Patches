@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "weaponupgradeanvil", "count" : 1}
+  ],
+  "output" : {
+    "item" : "atprk_weaponupgradeanvilsmall",
+    "count" : 1
+  },
+  "groups" : [ "atprk_4dcrafting", "atprk_4dsmaller", "mod" ]
+}
