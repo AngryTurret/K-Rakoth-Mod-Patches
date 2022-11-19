@@ -1,0 +1,24 @@
+{
+  "id" : "atprk_deadbeatreport",
+  "species" : "other",
+  "title" : "Simulation Report",
+  "description" : "A report on some kind of simulation the Deadbeats made before the collapse of their civilization.",
+  "icon" : "atprk_deadbeatreport.png",
+  "contentPages" : [
+  "Simulacrum group: A
+Status: Terminated - simulation deemed a failure due to hivemind model not accurately emulating society.
+
+Simulacrum group: B
+Status: Extinct - simulacrum eventually realized their true nature and elected to collectively self-terminate.",
+
+"Simulacrum group: C
+Status: Extinct - simulation achieved technological level comparable to ours. Suffered societal collapse from over-extended logistics brought on by excessive colonization.
+
+Simulacrum group: D
+Status: Active - unforeseen programming error led to inability to advance technologically beyond early stage. Patching deemed too costly and impractical. Considering adaptation into a control group to save on funding."
+  ],
+    "itemConfig" : {
+    "rarity" : "rare",
+    "price" : 25
+  }
+}

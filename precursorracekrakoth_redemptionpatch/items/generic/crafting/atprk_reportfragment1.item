@@ -1,0 +1,13 @@
+{
+  "itemName" : "atprk_reportfragment1",
+  "price" : 100,
+  "rarity" : "Uncommon",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "atprk_reportfragment1.png",
+  "description" : "A degraded data fragment of an ancient Deadbeat report.",
+  "shortdescription" : "Data Fragment 1",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [
+    "atprk_deadbeatreport-codex"
+  ]
+}

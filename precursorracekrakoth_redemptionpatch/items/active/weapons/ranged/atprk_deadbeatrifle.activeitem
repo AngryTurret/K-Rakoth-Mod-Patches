@@ -1,0 +1,133 @@
+{
+  "itemName" : "atprk_deadbeatrifle",
+  "price" : 1000,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "Despite its name, this once cutting-edge rifle predates the fall of Deadbeat society.",
+  "shortdescription" : "Scavenger Rifle",
+  "tooltipKind" : "base",
+  "category" : "uniqueWeapon",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","ranged"],
+  
+  "level" : 6,
+
+  "inventoryIcon" : [
+    { "image" : "atprk_deadbeatrifle.png" }
+  ],
+
+  "animation" : "atprk_deadbeatrifle.animation",
+  "animationParts" : {
+    "middle" : "atprk_deadbeatrifle.png",
+    "middleFullbright" : "atprk_deadbeatriflefullbright.png",
+    "middleFullbrightFiring" : "atprk_deadbeatriflefullbrightfiring.png",
+    "muzzleFlash" : "atprk_deadbeatmuzzleflash.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : ["/sfx/gun/plasma_ar3.ogg"]
+    },
+    "lights" : {
+      "muzzleFlash" : {
+        "color" : [95, 186, 236]
+      }
+    }
+  },
+
+  "baseOffset" : [0.25, 0.125],
+  "muzzleOffset" : [2.25, 0.25],
+
+  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+
+  "elementalType" : "physical",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+    "class" : "GunFire",
+
+    "fireTime" : 0.14,
+    "baseDps" : 11,
+    "energyUsage" : 27,
+    "projectileCount" : 1,
+    "inaccuracy" : 0.02,
+    "fireType" : "auto",
+
+    "projectileType" : "atprk_deadbeatriflebullet",
+    "projectileParameters" : {
+      "knockbackRange" : [10, 40]
+    },
+    "muzzleFlashVariants" : 1,
+
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 2,
+        "weaponRotation" : 2,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "cooldown" : {
+        "duration" : 0.05,
+        "armRotation" : 2,
+        "weaponRotation" : 2,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  },
+
+"altAbility" : {
+    "name" : "Shotgun",
+    "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+    "class" : "GunFire",
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 2,
+        "weaponRotation" : 2,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "cooldown" : {
+        "duration" : 0.05,
+        "armRotation" : 2,
+        "weaponRotation" : 2,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    },
+    "projectileCount" : 3,
+    "fireTime" : 1.5,
+    "baseDps" : 3.5,
+    "energyUsage" : 37.,
+    "inaccuracy" : 0.12,
+    "fireType" : "auto",
+    "projectileType" : "atprk_deadbeatrifleshock"
+    },
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

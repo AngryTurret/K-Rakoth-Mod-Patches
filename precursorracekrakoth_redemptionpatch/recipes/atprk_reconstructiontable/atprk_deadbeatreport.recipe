@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "atprk_reportfragment1", "count" : 1},
+    { "item" : "atprk_reportfragment2", "count" : 1},
+    { "item" : "atprk_reportfragment3", "count" : 1},
+    { "item" : "atprk_reportfragment4", "count" : 1}
+  ],
+  "output" : {
+    "item" : "atprk_deadbeatreport-codex",
+    "count" : 1
+  },
+  "groups" : [ "atprk_reconstructiontable" ]
+}

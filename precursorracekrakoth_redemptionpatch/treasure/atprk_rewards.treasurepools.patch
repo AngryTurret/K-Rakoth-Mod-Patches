@@ -1,0 +1,47 @@
+[
+ {"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "minidef-codex"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "avianmythos-codex"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "unioncodex-codex"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "hylotuscodex-codex"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "novakidlife-codex"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "novakidphys-codex"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "novakidpsych-codex"}
+  },
+  {"op" : "add",
+	"path" : "/atprk_unpackedfossilgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "deadbeatskull"}
+  },
+  {"op" : "add",
+	"path" : "/atprk_unpackedfossilgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "novakidbrand"}
+  }
+]

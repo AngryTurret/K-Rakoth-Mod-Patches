@@ -1,0 +1,18 @@
+[
+{
+    "op": "add","path": "/scorchedcityTreasure/0/1/pool/-",
+    "value":   {"weight" : 0.25, "item" : "atprk_reportfragment1"}
+  },
+{
+    "op": "add","path": "/scorchedcityTreasure/0/1/pool/-",
+    "value":   {"weight" : 0.25, "item" : "atprk_reportfragment2"}
+  },
+{
+    "op": "add","path": "/scorchedcityTreasure/0/1/pool/-",
+    "value":   {"weight" : 0.25, "item" : "atprk_reportfragment3"}
+  },
+{
+    "op": "add","path": "/scorchedcityTreasure/0/1/pool/-",
+    "value":   {"weight" : 0.25, "item" : "atprk_reportfragment4"}
+  }
+]

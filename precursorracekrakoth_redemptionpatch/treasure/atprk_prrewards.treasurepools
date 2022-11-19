@@ -1,0 +1,16 @@
+{
+
+  // ================================
+  //       Relic Exchange Packs
+  // ================================
+
+  "atprk_relicpackdeadbeat" : [
+    [1, {
+      "fill" : [
+        {"item" : [ "atprk_deadbeatrifle", 1]},
+        {"item" : [ "atprk_rewarddeadbeatcomputer", 1]},
+        {"item" : [ "money", 4000]}
+      ]
+    }]
+  ]
+}
