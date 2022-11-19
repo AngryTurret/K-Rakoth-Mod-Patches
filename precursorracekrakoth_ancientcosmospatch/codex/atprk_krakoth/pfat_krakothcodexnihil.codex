@@ -1,0 +1,36 @@
+{
+  "id" : "pfat_krakothcodexnihil",
+  "title" : "Cursed Planets",
+  "description" : "A diary of a K'Rakothan priest on cosmic planets.",
+  "icon" : "pfat_krakothcodexnihilicon.png",
+  "contentPages" : [
+    "Some planets are doomed to be eternal battlefields for the Inevitable and the Vehement. Their surface is plagued by a horrible amalgam of light and darkness, infecting everything it touches.
+
+We have never seen realms more chaotic and desolate than those that orbit black holes.",
+
+"Most of those abominable worlds are guarded by ^cyan;the Ancients^white;. What causes them to abandon their safe homes to move there is a mystery to us. It could be that the elder gods corrupt their minds and lure them with their cosmic traps, but we cannot be sure. We may never know.
+
+There is something we know, however: not even our disbelieving brethren dare bothering those dire planets.",
+
+"Unlike them though, we, the venerable followers of the Prophecy of Ri'shaan, could not ignore corruption. So we decided to settle on a few cosmic planets, the blinded Ancients notwithstanding.
+
+We tried to bring Ri'shaan's blessing upon these warped lands. We tried to save them with our faith. We even brought materials to erect the Beacons.
+
+And it yielded no results.",
+
+"Not only were we forced to conceal our presence from the Ancients, those brainwashed heretics, we also had to fight against the cosmic elements themselves.
+
+Ark'esh unleashed rains of stars and lightning straight from the heavens, taking down our shuttles. Nii'lah obscured our path, drowning everything in a vicious purple tint. What was even worse is that land itself seemed to surrender to this constant chaos.",
+
+"Vast rivers of unholy liquids split cosmic plains in half, and whatever tried to enter them seemed to disappear forever. We lost many brethren that way: even our memories on them vanished into oblivion, and only notes we wrote prior remind us of those poor, forgotten souls.
+
+Our disbelieving brethren were right all along. We should have stayed away. For now we are too weak to overcome this, and so are the Seeds.",
+
+"Until Ri'shaan grows powerful enough, forget these misbegotten planets, for the curses of the Inevitable and the Vehement are too potent to reverse with our current efforts."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "legendary",
+    "price" : 50
+  }
+}

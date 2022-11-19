@@ -1,0 +1,35 @@
+[
+  {
+    "op" : "add",
+    "path" : "/surfacePlaceables/items/-",
+    "value" : {
+        "mode" : "floor",
+        "priority" : 1.0,
+        "variants" : 1,
+        "distribution" : "/biomes/distributions.config:rareClumpyLarge",
+
+        "type" : "tree",
+        "treeFoliageHueShiftMax" : 0,
+        "treeStemHueShiftMax" : 0,
+        "treeStemList" : [ "pf_ancient" ],
+        "treeFoliageList" : [ "" ]
+    } 
+  },
+  {
+    "op" : "add",
+    "path" : "/surfacePlaceables/items/-",
+    "value" : {
+        "mode" : "floor",
+        "priority" : 1.0,
+        "variants" : 1,
+        "distribution" : "/biomes/distributions.config:rareClumpySmall",
+
+        "type" : "object",
+        "objectSets" : [
+          {
+            "pool" : [ [0.35, "pf_astralarch" ], [0.35, "pf_astralobelisk" ], [0.35, "pf_astralruin" ] ]
+          }
+        ]
+    }
+  }
+]

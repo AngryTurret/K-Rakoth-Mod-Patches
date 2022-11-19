@@ -1,0 +1,68 @@
+{
+  "metadata" : {
+    "name" : "pfat_krakothcosmicencounters",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+
+    "anchor" : [ "pfat_dimensionpond", "pfat_failedbeacon", "pfat_junkpit1", "pfat_junkpit2", "pfat_krakothaltar", "pfat_krakothpod1", "pfat_krakothpod2" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "pfat_dimensionpond",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "pfat_dimensionpond.json" ]
+    },
+    {
+      "name" : "pfat_failedbeacon",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "pfat_failedbeacon.json" ]
+    },
+    {
+      "name" : "pfat_junkpit1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "pfat_junkpit1.json" ]
+    },
+    {
+      "name" : "pfat_junkpit2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "pfat_junkpit2.json" ]
+    },
+    {
+      "name" : "pfat_krakothaltar",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "pfat_krakothaltar.json" ]
+    },
+    {
+      "name" : "pfat_krakothpod1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "pfat_krakothpod1.json" ]
+    },
+    {
+      "name" : "pfat_krakothpod2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "pfat_krakothpod2.json" ]
+    }
+  ]
+}

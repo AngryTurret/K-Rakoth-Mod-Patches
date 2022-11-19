@@ -1,0 +1,22 @@
+{
+  "id" : "pfat_ancientcodex_krakoth2",
+  "title" : "Hope for Nothing",
+  "description" : "A strange, unmarked Ancient tablet detailing some \"Lords of the Cosmos\".",
+  "icon" : "pfat_ancientcodex_krakoth.png",
+  "contentPages" : [
+    "These Lords of the Cosmos have really made a name for themselves amongst the fools. Yelling words of heresy and absolutely horrible rhetoric. Their mythology is much more sophisticated than the others, the darkness being part of it.",
+
+"This is a grand revelation, that others are seeing the Cosmic Truth. However, their methods are foolish, bringing forth destruction is simply changing the leader, not fixing the issue. A universe with either is simply ^red;{HELL}[1]
+
+[1] Warning: Outside interference detected.^white;",
+
+"Although, if they are able to bring it forth strongly yet weakly enough, they may be able to ^red;{DATA LOST}[2]^white;. The Cosmic Truth can finally be made manifest. We shall see their plans and see if they are truly as foolish as we think. 
+
+^red;[2] {THESE WORDS}: {FOREVER LOST}.^white;"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "legendary",
+    "price" : 750
+  }
+}

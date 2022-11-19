@@ -1,0 +1,13 @@
+{
+  "itemName" : "pfat_krakothtextnihil",
+  "price" : 25,
+  "rarity" : "Legendary",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "pfat_krakothtextnihil.png",
+  "description" : "An entry about cosmic planet exploration. ^red;Requires translation.^white;",
+  "shortdescription" : "K'Rakoth Codex Nihil",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [
+    "pfat_krakothcodexnihil-codex"
+  ]
+}

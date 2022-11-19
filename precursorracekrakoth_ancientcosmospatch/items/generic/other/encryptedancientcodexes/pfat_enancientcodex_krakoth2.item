@@ -1,0 +1,10 @@
+{
+  "itemName" : "pfat_enancientcodex_krakoth2",
+  "price" : 135,
+  "rarity" : "Legendary",
+  "category" : "Encrypted Codex",
+  "inventoryIcon" : "pfat_ancienttablet_krakoth.png",
+  "description" : "A strange tablet engraved with ancient runes. Must be translated before reading.",
+  "shortdescription" : "  ",
+  "itemTags" : [ "reagent" ]
+}

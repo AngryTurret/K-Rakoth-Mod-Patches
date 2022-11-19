@@ -1,0 +1,22 @@
+{
+  "id" : "pfat_ancientcodex_krakoth1",
+  "title" : "The False Lords",
+  "description" : "A recount by a high standing member of the Ancients on the K'Rakoth race.",
+  "icon" : "pfat_ancientcodex_krakoth.png",
+  "contentPages" : [
+    "In my time, I have never met a more prideful race than the K'Rakoths. While they have surpassed many races, they are nothing more than heretics to the order of the universe. The progenitors of Entropy I say, merely a race that has fallen under the prophecy.",
+
+"The Cultivator has told us much about the forces of such, destructive, corrupting, leaving nothing in its wake. They do nothing but cause devastation where they go, they want to be the powerful ones, but power doesn't come from the forces of the one they call \"Ri'shaan\", the progenitor of chaos.",
+
+"We shall never help these heretics, these \"Lords of the Cosmos\". For they will leave nothing in their wake if they grow too strong. As the Cultivator wills that this should never come to pass, we shall watch them and intervene should they ever grow too strong.
+
+-Prophet ^red;{DATA LOST}[1]
+
+[1] Internal Error: Unable to translate correctly.^white;"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "legendary",
+    "price" : 750
+  }
+}
