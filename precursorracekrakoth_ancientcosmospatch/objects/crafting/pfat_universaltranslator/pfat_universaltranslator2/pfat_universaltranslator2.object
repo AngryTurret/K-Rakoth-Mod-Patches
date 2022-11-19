@@ -1,0 +1,59 @@
+{
+  "objectName" : "pfat_universaltranslator2",
+  "colonyTags" : ["commerce"],
+  "rarity" : "Legendary",
+  "description" : "The ultimate tool to translate ancient texts and blueprints.",
+  "shortdescription" : "^violet;Universal Translator^white;",
+  "subtitle" : "Translate ancient texts",
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : 1800,
+  "objectType" : "container",
+  "printable" : false,
+  "health" : 1.5,
+
+  "apexDescription" : "Deciphering the undecipherable, if theres anyone todo it, its the Apex.",
+  "avianDescription" : "I just wish I could use this for Avoscript, I always wanted to read those.",
+  "floranDescription" : "Desssk allow Floran to become sssmart as greenfinger.",
+  "glitchDescription" : "Excited. I finally have my own scribe desk! But mine is much more fancy.",
+  "humanDescription" : "Finally, I can translate stuff. Where did those wheel pieces even come from anyways?",
+  "hylotlDescription" : "Ah the art of translating, its frustrating, and everyone will yell at your dubs.",
+  "novakidDescription" : "I have a feelin' that I won't need this much... but, I was never the smart one.",
+
+  "inventoryIcon" : "pfat_universaltranslator2icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "pfat_universaltranslator2.png:<color>.<frame>", "fullbright" : true }, { "image" : "pfat_universaltranslator2lit.png:<color>.<frame>" } ],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "imagePosition" : [-26, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "pfat_universaltranslator2.png:<color>.<frame>", "fullbright" : true }, { "image" : "pfat_universaltranslator2lit.png:<color>.<frame>" } ],
+      "direction" : "right",
+
+      "imagePosition" : [-26, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "statusEffects" : [ ],
+
+  "recipeGroup" : "pfat_universaltranslator",
+  "openSounds" : [ "/sfx/interface/nav_computer_on.ogg" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/objectcrafting/pf_translator.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

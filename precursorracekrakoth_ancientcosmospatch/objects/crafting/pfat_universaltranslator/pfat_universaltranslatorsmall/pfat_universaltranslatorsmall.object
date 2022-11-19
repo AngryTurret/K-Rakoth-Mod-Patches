@@ -1,0 +1,63 @@
+{
+  "objectName" : "pfat_universaltranslatorsmall",
+  "colonyTags" : ["crafting","electronic"],
+  "rarity" : "Legendary",
+  "description" : "Translate ancient texts anywhere!",
+  "shortdescription" : "Portable Translator",
+  "subtitle" : "Translate ancient texts",
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : 1250,
+  "objectType" : "container",
+  "printable" : false,
+  "health" : 1.5,
+
+  "apexDescription" : "Deciphering the undecipherable, if there's anyone to do it, it's the Apex.",
+  "avianDescription" : "The knowledge of two elder races in one package. It would be a perfect gift for a Stargazer.",
+  "floranDescription" : "Floran hasss cool computer. Floran can read old ssstuff and become very ssmart.",
+  "glitchDescription" : "Intrigued. What kind of ancient knowledge can I learn with this powerful computer?",
+  "humanDescription" : "Huh. Turns out I don't really need a whole desk to translate stuff. Neat!",
+  "hylotlDescription" : "Ah the art of translating, its frustrating, and everyone will yell at your dubs.",
+  "novakidDescription" : "A fancy computer that knows at least two ol' languages.",
+
+  "inventoryIcon" : "pfat_universaltranslatorsmallicon.png",
+  "orientations" : [
+    {
+
+      "imageLayers" : [ { "image" : "pfat_universaltranslatorsmall.png:<color>", "fullbright" : true }, { "image" : "pfat_universaltranslatorsmalllit.png:<color>" } ],
+      "flipImages" : true,
+      "direction" : "left",
+      "lightPosition" : [-1, 1],
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.4,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+
+      "imageLayers" : [ { "image" : "pfat_universaltranslatorsmall.png:<color>", "fullbright" : true }, { "image" : "pfat_universaltranslatorsmalllit.png:<color>" } ],
+      "direction" : "right",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.4,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "statusEffects" : [ ],
+
+  "recipeGroup" : "pfat_universaltranslator",
+  "openSounds" : [ "/sfx/interface/nav_computer_on.ogg" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/objectcrafting/pf_translator.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

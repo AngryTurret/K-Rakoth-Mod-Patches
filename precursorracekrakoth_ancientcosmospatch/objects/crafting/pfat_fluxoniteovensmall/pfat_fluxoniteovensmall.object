@@ -1,0 +1,60 @@
+{
+  "objectName" : "pfat_fluxoniteovensmall",
+  "colonyTags" : ["pretty", "commerce"],
+  "rarity" : "Legendary",
+  "description" : "Use the power of a million dying suns to cook your food automatically.",
+  "shortdescription" : "Fluxonite Microwave",
+  "subtitle" : "Cook your food with astronomical efficiency",
+  "race" : "generic",
+  "category": "storage",
+  "price" : 625,
+  "objectType" : "container",
+  "printable" : false,
+  "health" : 1.5,
+
+  "apexDescription" : "An amazing sight, the power of spacetime, within a microwave.",
+  "avianDescription" : "A fire that burns brighter than no other... in a microwave to heat up my food.",
+  "floranDescription" : "Floran hatesss fire, but lovesss food. Thisss makesss them both the sstrongesst.",
+  "glitchDescription" : "Appalled. How is this thing not burning food, my temperature readings show an error.",
+  "humanDescription" : "Gotta love shoving the Big Bang into a really fancy microwave to heat up my food.",
+  "hylotlDescription" : "Brilliant technology, strange make, amazing results, frightening to everyone.",
+  "novakidDescription" : "Me an' this microwave really have somethin in common, hotter than a Mooshi's behind after a bad day.",
+
+  "inventoryIcon" : "pfat_fluxoniteovensmallicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "pfat_fluxoniteovensmall.png:<color>.<key>", "fullbright" : true }, { "image" : "pfat_fluxoniteovensmalllit.png:<color>.<key>" } ],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.3,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "pfat_fluxoniteovensmall.png:<color>.<key>", "fullbright" : true }, { "image" : "pfat_fluxoniteovensmalllit.png:<color>.<key>" } ],
+      "direction" : "right",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.3,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "statusEffects" : [ ],
+
+  "recipeGroup" : "campfire",
+  "openSounds" : [ "/sfx/objects/shippingcontainer_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/shippingcontainer_close.ogg" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/objectcrafting/pf_fluxoniteoven.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown": 3600
+
+}

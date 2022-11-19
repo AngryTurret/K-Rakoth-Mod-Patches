@@ -1,0 +1,12 @@
+[
+{"op":"add",
+	"path":"/astralAncientLore/0/1/pool/-",
+	"value":
+        {"weight" : 1.0, "item" : "pfat_enancientcodex_krakoth1"}
+},
+{"op":"add",
+	"path":"/astralAncientLore/0/1/pool/-",
+	"value":
+        {"weight" : 0.1, "item" : "pfat_enancientcodex_krakoth2"}
+}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "pfat_cosmicpin" },
+			"prerequisiteQuest" : "pf_astralstory5"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "pfat_artificialpin" },
+			"prerequisiteQuest" : "pf_astralstory5"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "pfat_darkgardenpin" },
+			"prerequisiteQuest" : "pf_astralstory5"
+		}
+	}
+]

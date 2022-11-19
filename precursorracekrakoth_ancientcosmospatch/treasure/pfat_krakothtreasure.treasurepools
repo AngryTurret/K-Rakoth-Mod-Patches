@@ -1,0 +1,26 @@
+{
+  // ================================
+  //              K'Rakothan Microdungeons
+  // ================================
+
+  "pfat_krakothCosmicTreasure" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.05, "pool" : "astralAncientBasic"},
+        {"weight" : 0.20, "item" : "pfat_krakothtextnihil"},
+        {"weight" : 0.20, "item" : [ "atprk-gildedidol", 1]},
+        {"weight" : 0.10, "item" : [ "atprk_aeonbattery", 1]},
+        {"weight" : 0.10, "item" : [ "atprk_chthonicscraps", 1]},
+        {"weight" : 0.20, "item" : [ "atprk_krakothtextcorruptedgold", 1]},
+        {"weight" : 0.20, "item" : [ "atprk_eldertech", 1]}
+      ],
+      "poolRounds" : [
+        [0.50, 1],
+        [0.40, 2],
+        [0.10, 3],
+        [0.05, 4]
+      ],
+      "allowDuplication" : false
+    }]
+  ]
+}

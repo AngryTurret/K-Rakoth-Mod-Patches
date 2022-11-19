@@ -1,0 +1,12 @@
+[
+    {
+      "op": "add",
+      "path": "/learnBlueprintsOnPickup/-",
+      "value": "pfat_universaltranslatorsmall"
+    },
+    {
+      "op": "add",
+      "path": "/learnBlueprintsOnPickup/-",
+      "value": "pfat_ancientworkbenchsmall"
+    }
+]

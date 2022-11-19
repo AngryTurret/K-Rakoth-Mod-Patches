@@ -1,0 +1,67 @@
+{
+  "objectName" : "pfat_ancientworkbenchsmall",
+  "colonyTags" : ["crafting","ancient"],
+  "rarity" : "Legendary",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/pf_ancientworkbench.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "  ^violet;ESSENCE ASSEMBLER^white;",
+        "subtitle" : "  An ancient crafter, repair station, and deconstructor"
+      }
+    }
+  },
+
+  "printable" : false,
+  "description" : "Although smaller, this device retains all functions of the Ancient Workbech. Unlocks more recipes.",
+  "shortdescription" : "Essence Assembler",
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : 1250,
+
+  "learnBlueprintsOnPickup" : [
+    "atprk_weaponupgradeanvilsmall",
+    "pfat_fluxoniteovensmall"
+  ],
+
+  "lightColor" : [175, 50, 246],
+
+  "apexDescription" : "Hard to believe this thing works, there are no moving parts in it. Imagine the Miniknog with this kind of tech... wait no, bad idea.",
+  "avianDescription" : "This device is absolutely amazing, able to manipulate Ancient materials in an instant.",
+  "floranDescription" : "A crafting ssstation for ancient thingsss.",
+  "glitchDescription" : "Excited. I am finally able to manipulate the technology of the Ancients. Now I can make swords from stone, heh.",
+  "humanDescription" : "I'm finally able to manipulate ancient tech. If the Protectorate was still a presence, I would be killed for this.",
+  "hylotlDescription" : "The beauty of Ancient technology, no garish moving parts, all energy.",
+  "novakidDescription" : "Never thought me o' all people would be able to use this tech.",
+
+  "inventoryIcon" : "pfat_ancientworkbenchsmallicon.png",
+
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "pfat_ancientworkbenchsmall.png:<color>.<frame>", "fullbright" : true }, { "image" : "pfat_ancientworkbenchsmalllit.png:<color>.<frame>" } ],
+      "imagePosition" : [-8, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "frames" : 8,
+      "animationCycle" : 0.8,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "pfat_ancientworkbenchsmall.png:<color>.<frame>", "fullbright" : true }, { "image" : "pfat_ancientworkbenchsmalllit.png:<color>.<frame>" } ],
+      "imagePosition" : [-8, 0],
+
+      "direction" : "right",
+
+      "frames" : 8,
+      "animationCycle" : 0.8,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}
