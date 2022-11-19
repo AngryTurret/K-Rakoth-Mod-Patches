@@ -1,0 +1,13 @@
+[
+  {"op" : "add",
+	"path" : "/atprk_fukrakothtech", 
+	"value" : 
+	  [
+		{
+		  "containers" : [ "atprk-krakothstasiscanister" ],
+		  "treasurePool" : "atprk_fukrakothtechTreasure",
+		  "minimumLevel" : 0
+		}
+	  ]
+  }
+]

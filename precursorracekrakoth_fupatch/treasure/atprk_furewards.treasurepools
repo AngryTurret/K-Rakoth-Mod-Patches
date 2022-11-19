@@ -1,0 +1,269 @@
+{
+
+  // ================================
+  //       Relic Exchange Packs
+  // ================================
+
+  "atprk_furelicpackprecursor" : [
+    [1, {
+      "fill" : [
+        {"item" : [ "precursorterminal", 1]},
+        {"item" : [ "protheonshard", 1]},
+        {"item" : [ "money", 4000]},
+        {"item" : [ "fuscienceresource", 3000]}
+      ]
+    }]
+  ],
+
+  // ================================
+  //       Unpacked Goods
+  // ================================
+
+  "atprk_fuunpackedmineralgoods" : [
+    [1, {
+      "fill" : [
+        {"pool" : "atprk_fuunpackedmineralgoodspool"},
+        {"pool" : "atprk_fuunpackedmineralgoodspool"},
+        {"item" : [ "stonerubble", 10]}
+      ]
+    }]
+  ],
+  "atprk_fuunpackedmineralgoodspool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.10, "item" : [ "coalore", 10]},
+        {"weight" : 0.05, "item" : [ "coalore", 15]},
+        {"weight" : 0.02, "item" : [ "coalore", 20]},
+        {"weight" : 0.10, "item" : [ "lead", 5]},
+        {"weight" : 0.05, "item" : [ "lead", 10]},
+        {"weight" : 0.02, "item" : [ "lead", 15]},
+        {"weight" : 0.10, "item" : [ "copperore", 5]},
+        {"weight" : 0.05, "item" : [ "copperore", 10]},
+        {"weight" : 0.02, "item" : [ "copperore", 15]},
+        {"weight" : 0.10, "item" : [ "silverore", 5]},
+        {"weight" : 0.05, "item" : [ "silverore", 10]},
+        {"weight" : 0.02, "item" : [ "silverore", 15]},
+        {"weight" : 0.10, "item" : [ "goldore", 5]},
+        {"weight" : 0.05, "item" : [ "goldore", 10]},
+        {"weight" : 0.02, "item" : [ "goldore", 15]},
+        {"weight" : 0.10, "item" : [ "corefragmentore", 4]},
+        {"weight" : 0.05, "item" : [ "corefragmentore", 6]},
+        {"weight" : 0.02, "item" : [ "corefragmentore", 8]},
+        {"weight" : 0.08, "item" : [ "moonstoneore", 5]},
+        {"weight" : 0.04, "item" : [ "moonstoneore", 10]},
+        {"weight" : 0.02, "item" : [ "moonstoneore", 15]},
+        {"weight" : 0.10, "item" : [ "ironore", 5]},
+        {"weight" : 0.05, "item" : [ "ironore", 10]},
+        {"weight" : 0.02, "item" : [ "ironore", 15]},
+        {"weight" : 0.10, "item" : [ "tungstenore", 5]},
+        {"weight" : 0.05, "item" : [ "tungstenore", 10]},
+        {"weight" : 0.02, "item" : [ "tungstenore", 15]},
+        {"weight" : 0.10, "item" : [ "titaniumore", 6]},
+        {"weight" : 0.05, "item" : [ "titaniumore", 9]},
+        {"weight" : 0.02, "item" : [ "titaniumore", 12]},
+        {"weight" : 0.08, "item" : [ "durasteelore", 6]},
+        {"weight" : 0.04, "item" : [ "durasteelore", 9]},
+        {"weight" : 0.02, "item" : [ "durasteelore", 12]},
+        {"weight" : 0.08, "item" : [ "triangliumore", 6]},
+        {"weight" : 0.04, "item" : [ "triangliumore", 9]},
+        {"weight" : 0.02, "item" : [ "triangliumore", 12]},
+        {"weight" : 0.06, "item" : [ "aegisaltore", 6]},
+        {"weight" : 0.03, "item" : [ "aegisaltore", 8]},
+        {"weight" : 0.01, "item" : [ "aegisaltore", 10]},
+        {"weight" : 0.06, "item" : [ "feroziumore", 6]},
+        {"weight" : 0.03, "item" : [ "feroziumore", 8]},
+        {"weight" : 0.01, "item" : [ "feroziumore", 10]},
+        {"weight" : 0.06, "item" : [ "violiumore", 6]},
+        {"weight" : 0.03, "item" : [ "violiumore", 8]},
+        {"weight" : 0.01, "item" : [ "violiumore", 10]},
+        {"weight" : 0.04, "item" : [ "solariumore", 4]},
+        {"weight" : 0.02, "item" : [ "solariumore", 6]},
+        {"weight" : 0.01, "item" : [ "solariumore", 8]},
+        {"weight" : 0.02, "item" : [ "diamond", 2]},
+        {"weight" : 0.01, "item" : [ "diamond", 5]},
+        {"weight" : 0.04, "item" : [ "uraniumore", 3]},
+        {"weight" : 0.02, "item" : [ "uraniumore", 6]},
+        {"weight" : 0.01, "item" : [ "uraniumore", 9]},
+        {"weight" : 0.04, "item" : [ "neptuniumore", 3]},
+        {"weight" : 0.02, "item" : [ "neptuniumore", 6]},
+        {"weight" : 0.01, "item" : [ "neptuniumore", 9]},
+        {"weight" : 0.04, "item" : [ "plutoniumore", 3]},
+        {"weight" : 0.02, "item" : [ "plutoniumore", 6]},
+        {"weight" : 0.01, "item" : [ "plutoniumore", 9]}
+      ]
+    }]
+  ],
+
+  "atprk_fuunpackedchemicalgoods" : [
+    [1, {
+      "fill" : [
+        {"pool" : "atprk_fuunpackedchemicalgoodspool"},
+        {"pool" : "atprk_fuunpackedchemicalgoodspool"},
+        {"item" : [ "ff_mercury", 10]}
+      ]
+    }]
+  ],
+  "atprk_fuunpackedchemicalgoodspool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.10, "item" : "fu_hydrogen"},
+        {"weight" : 0.05, "item" : [ "fu_hydrogen", 3]},
+        {"weight" : 0.02, "item" : [ "fu_hydrogen", 5]},
+        {"weight" : 0.01, "item" : [ "fu_hydrogen", 8]},
+        {"weight" : 0.10, "item" : "ff_plastic"},
+        {"weight" : 0.05, "item" : [ "ff_plastic", 3]},
+        {"weight" : 0.02, "item" : [ "ff_plastic", 5]},
+        {"weight" : 0.01, "item" : [ "ff_plastic", 8]},
+        {"weight" : 0.06, "item" : "calciumnitrate"},
+        {"weight" : 0.02, "item" : [ "calciumnitrate", 3]},
+        {"weight" : 0.01, "item" : [ "calciumnitrate", 5]},
+        {"weight" : 0.04, "item" : "fu_hydrogenmetallic"},
+        {"weight" : 0.02, "item" : [ "fu_hydrogenmetallic", 3]},
+        {"weight" : 0.01, "item" : [ "fu_hydrogenmetallic", 5]},
+        {"weight" : 0.10, "item" : [ "agaranichor", 2]},
+        {"weight" : 0.05, "item" : [ "agaranichor", 4]},
+        {"weight" : 0.10, "item" : [ "biofuelcannister", 3]},
+        {"weight" : 0.05, "item" : [ "biofuelcannister", 5]},
+        {"weight" : 0.02, "item" : [ "biofuelcannister", 8]},
+        {"weight" : 0.06, "item" : [ "biofuelcannisteradv", 3]},
+        {"weight" : 0.04, "item" : [ "biofuelcannisteradv", 5]},
+        {"weight" : 0.02, "item" : [ "biofuelcannisteradv", 8]},
+        {"weight" : 0.08, "item" : [ "endomorphicjelly", 2]},
+        {"weight" : 0.04, "item" : [ "endomorphicjelly", 4]},
+        {"weight" : 0.06, "item" : [ "ff_resin", 4]},
+        {"weight" : 0.04, "item" : [ "ff_resin", 6]},
+        {"weight" : 0.04, "item" : [ "fugeneticmaterial", 10]},
+        {"weight" : 0.02, "item" : [ "fugeneticmaterial", 15]},
+        {"weight" : 0.01, "item" : [ "fugeneticmaterial", 20]},
+        {"weight" : 0.01, "item" : "aliencompound"}
+      ]
+    }]
+  ],
+
+  "atprk_fuunpackedluxurygoods" : [
+    [1, {
+      "fill" : [
+        {"pool" : "atprk_fuunpackedluxurygoodspool"},
+        {"pool" : "atprk_fuunpackedluxurygoodspool"},
+        {"item" : [ "diamondblockmaterial", 10]}
+      ]
+    }]
+  ],
+  "atprk_fuunpackedluxurygoodspool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.10, "item" : "moneybagshead"},
+        {"weight" : 0.10, "item" : "moneybagschest"},
+        {"weight" : 0.10, "item" : "moneybagspants"},
+        {"weight" : 0.10, "item" : "venetianmaskhead"},
+        {"weight" : 0.10, "item" : "wighead"},
+        {"weight" : 0.10, "item" : "wedding1chest"},
+        {"weight" : 0.10, "item" : "wedding1legs"},
+        {"weight" : 0.10, "item" : "wedding2head"},
+        {"weight" : 0.10, "item" : "wedding2chest"},
+        {"weight" : 0.10, "item" : "wedding2legs"},
+        {"weight" : 0.10, "item" : "fedorahead"},
+        {"weight" : 0.10, "item" : "berethead"},
+        {"weight" : 0.10, "item" : "floppyhathead"},
+        {"weight" : 0.10, "item" : "ladyhathead"},
+        {"weight" : 0.10, "item" : "summerchest"},
+        {"weight" : 0.10, "item" : "summerpants"},
+        {"weight" : 0.10, "item" : "valorouschest"},
+        {"weight" : 0.10, "item" : "valoroushead"},
+        {"weight" : 0.10, "item" : "valorouspants"},
+        {"weight" : 0.10, "item" : "beachball"},
+        {"weight" : 0.10, "item" : "noveltybanana"},
+        {"weight" : 0.10, "item" : "diamonddisplay"},
+        {"weight" : 0.10, "item" : "goldenegg"},
+        {"weight" : 0.10, "item" : "genericpainting1"},
+        {"weight" : 0.10, "item" : "venusdepixel"},
+        {"weight" : 0.10, "item" : "shroomstatue"},
+        {"weight" : 0.10, "item" : "rainbowunicornstatue"},
+        {"weight" : 0.10, "item" : "rainbowpainting"},
+        {"weight" : 0.10, "item" : "fugoldchest"},
+        {"weight" : 0.10, "item" : "peglacishippainting"},
+        {"weight" : 0.10, "item" : "fugoldmedievalarmor"},
+        {"weight" : 0.08, "item" : "voxel1k"},
+        {"weight" : 0.06, "item" : "voxel2k"},
+        {"weight" : 0.04, "item" : "voxel5k"},
+        {"weight" : 0.02, "item" : "voxel10k"},
+        {"weight" : 0.01, "item" : "vinapainting"}
+      ]
+    }]
+  ],
+
+  "atprk_fuunpackedemptygoods" : [
+    [1, {
+      "fill" : [
+        {"pool" : "atprk_fuunpackedemptygoodspool"}
+      ]
+    }]
+  ],
+  "atprk_fuunpackedemptygoodspool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.10, "item" : "atprk_goodscrate1"},
+        {"weight" : 0.04, "item" : "atprk_goodscrate2"},
+        {"weight" : 0.01, "item" : "atprk_fuunpackedemptygoods"},
+        {"weight" : 0.005, "item" : "fuemptygoods"},
+        {"weight" : 0.005, "item" : "dubloon"},
+        {"weight" : 0.005, "item" : "atprk_kitchensponge"},
+        {"weight" : 0.01, "item" : [ "soggypaper", 2]},
+        {"weight" : 0.005, "item" : [ "soggypaper", 4]},
+        {"weight" : 0.001, "item" : "perfectlygenericitem"}
+      ]
+    }]
+  ],
+
+  "atprk_fuunpackedcontrabandgoods" : [
+    [1, {
+      "fill" : [
+        {"pool" : "atprk_fuunpackedcontrabandgoodspool"},
+        {"pool" : "atprk_fuunpackedcontrabandgoodspool"},
+        {"item" : [ "fleshblock", 5]}
+      ]
+    }]
+  ],
+  "atprk_fuunpackedcontrabandgoodspool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.08, "item" : "killpod"},
+        {"weight" : 0.04, "item" : [ "killpod", 2]},
+        {"weight" : 0.10, "item" : "wrappedbody"},
+        {"weight" : 0.05, "item" : [ "wrappedbody", 2]},
+        {"weight" : 0.02, "item" : [ "wrappedbody", 3]},
+        {"weight" : 0.08, "item" : "wrappedbodyputrid"},
+        {"weight" : 0.04, "item" : [ "wrappedbodyputrid", 2]},
+        {"weight" : 0.02, "item" : [ "wrappedbodyputrid", 3]},
+        {"weight" : 0.06, "item" : "wrappedbodybirb"},
+        {"weight" : 0.03, "item" : [ "wrappedbodybirb", 2]},
+        {"weight" : 0.02, "item" : [ "wrappedbodybirb", 3]},
+        {"weight" : 0.03, "item" : "wrappedbodyalien"},
+        {"weight" : 0.02, "item" : [ "wrappedbodyalien", 2]},
+        {"weight" : 0.01, "item" : [ "wrappedbodyalien", 3]},
+        {"weight" : 0.01, "item" : "atprk_fucadaverkrakoth"},
+        {"weight" : 0.005, "item" : [ "atprk_fucadaverkrakoth", 2]},
+        {"weight" : 0.06, "item" : "brainyummy"},
+        {"weight" : 0.03, "item" : [ "brainyummy", 2]},
+        {"weight" : 0.04, "item" : "severedheadplatter"},
+        {"weight" : 0.01, "item" : "greghead"},
+        {"weight" : 0.04, "item" : "bloodycorpsewaffles"},
+        {"weight" : 0.06, "item" : "sanityleech"},
+        {"weight" : 0.04, "item" : [ "sanityleech", 2]},
+        {"weight" : 0.08, "item" : "orphanpaste"},
+        {"weight" : 0.04, "item" : [ "orphanpaste", 2]},
+        {"weight" : 0.02, "item" : [ "orphanpaste", 4]},
+        {"weight" : 0.08, "item" : "soylentgnome"},
+        {"weight" : 0.04, "item" : [ "soylentgnome", 2]},
+        {"weight" : 0.05, "item" : [ "fumadnessresource", 15]},
+        {"weight" : 0.02, "item" : [ "fumadnessresource", 30]},
+        {"weight" : 0.01, "item" : [ "fumadnessresource", 60]},
+        {"weight" : 0.02, "item" : "bizarrefiction"},
+        {"weight" : 0.02, "item" : "bizarreerotica"},
+        {"weight" : 0.01, "item" : "severedhandinabagaugment"},
+        {"weight" : 0.01, "item" : "devilsbargain"},
+        {"weight" : 0.01, "item" : "gnomefactory"}
+      ]
+    }]
+  ]
+}

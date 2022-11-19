@@ -1,0 +1,43 @@
+[
+	{
+		"op" : "add",
+		"path": "/itemMapRocks/atprk_spongeblock",
+		"value" :
+			{
+				"aliencompound": ["rarest", 2],
+
+				"cellmatter": ["rare", 3],
+				"coralfragment": ["rare", 2],
+				"liquidoil": ["rare", 2],
+
+				"sand": ["uncommon", 1],
+
+				"fu_salt": ["common", 3],
+				"algaegreen": ["common", 3],
+				"biospore": ["common", 3]
+			}
+	},
+	{
+		"op" : "add",
+		"path": "/itemMapRocks/atprk_amberblock",
+		"value" :
+			{
+				"tungstenore": ["rarest", 2],
+				"goldore": ["rarest", 2],
+				"atprk_amberinsect1": ["rarest", 1],
+				"atprk_amberinsect2": ["rarest", 1],
+				"atprk_amberinsect3": ["rarest", 1],
+
+				"fu_salt": ["rare", 2],
+				"liquidoil": ["rare", 3],
+				"cellmatter": ["rare", 2],
+
+				"waxchunk": ["uncommon", 1],
+				"bone": ["uncommon", 3],
+				"goldenleaves": ["uncommon", 3],
+
+				"fuamberchunk": ["common", 3],
+				"copperore": ["common", 3]
+			}
+	}
+]

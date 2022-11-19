@@ -1,0 +1,49 @@
+{
+  "objectName" : "atprk_fukrakothpatroldronecraft",
+  "rarity" : "legendary",
+  "description" : "A heavy drone of K'Rakothan design. Will keep you protected from a distance.",
+  "shortdescription" : "Major Eldrone",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 2550,
+  "printable" : false,
+
+  "inventoryIcon" : "/objects/spawners/atprk_fukrakothpatroldronecraft/atprk_fukrakothpatroldronecrafticon.png",
+  "orientations" : [
+    {
+
+      "imageLayers" : [ { "image" : "atprk_fukrakothpatroldronecraft.png:<color>", "fullbright" : true }, { "image" : "atprk_fukrakothpatroldronecraftlit.png:<color>" } ],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 0.4,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+
+      "imageLayers" : [ { "image" : "atprk_fukrakothpatroldronecraft.png:<color>", "fullbright" : true }, { "image" : "atprk_fukrakothpatroldronecraftlit.png:<color>" } ],
+      "direction" : "right",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 0.4,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+  
+  "botspawner" : {
+      "type" : "atprk_krakothpatroldrone",
+	  "monsterImage":"/monsters/dungeon/atprk_krakothpatroldrone/atprk_krakothpatroldrone.png:idle.1?"
+  },
+  
+  "scripts" : [ 
+    "/spawners/fubotspawner.lua"
+  ],
+  "scriptDelta" : 5
+}

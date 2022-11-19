@@ -1,0 +1,24 @@
+{
+  // ================================
+  //              K'Rakothan Technologies
+  // ================================
+
+  "atprk_fukrakothtechTreasure" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.2, "item" : "atprk_fukrakothbattery-recipe"},
+        {"weight" : 0.2, "item" : "atprk_fukrakothfuelpurifier-recipe"},
+        {"weight" : 0.2, "item" : "atprk_fuassistantdrone-recipe"},
+        {"weight" : 0.2, "item" : "atprk_fukrakothpatroldronecraft-recipe"},
+        {"weight" : 0.2, "item" : "atprk_fubiofuelcannisterplus-recipe"}
+      ],
+      "poolRounds" : [
+        [0.75, 1],
+        [0.25, 2],
+        [0.05, 3],
+        [0.01, 4]
+      ],
+      "allowDuplication" : false
+    }]
+  ]
+}

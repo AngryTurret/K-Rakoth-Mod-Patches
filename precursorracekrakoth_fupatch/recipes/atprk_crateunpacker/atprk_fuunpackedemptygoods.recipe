@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "dubloon", "count" : 1 },
+    { "item" : "fuemptygoods", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "atprk_fuunpackedemptygoods",
+    "count" : 1
+  },
+  "groups" : [ "atprk_crateunpacker", "nouncrafting" ]
+}

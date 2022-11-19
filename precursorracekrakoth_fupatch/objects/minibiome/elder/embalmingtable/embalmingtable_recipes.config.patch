@@ -1,0 +1,22 @@
+[
+  {
+    "op": "add",
+    "path": "/-",
+    "value":
+		{
+				"inputs": {"atprk_fucadaverkrakoth":1},
+				"outputs": {"rawfish":2, "fubrain":1, "fuheartalien":1, "fuscienceresource":15, "fumadnessresource":10, "liquidorganicsoup":40},
+				"time": 8.0
+		}
+  },
+  {
+    "op": "add",
+    "path": "/-",
+    "value":
+		{
+				"inputs": {"atprk_exoticstarfish":1},
+				"outputs": {"rawfish":1, "fuscienceresource":5, "liquidpus":1, "cellmatter":1},
+				"time": 1.0
+		}
+  }
+]

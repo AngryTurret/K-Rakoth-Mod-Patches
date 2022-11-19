@@ -1,0 +1,14 @@
+{
+  "input" : [
+	{ "item" : "atprk_aeonbattery", "count" : 2 },
+	{ "item" : "atprk_4dcube", "count" : 1 },
+	{ "item" : "fu_fuelpurifiert4", "count" : 1 },
+	{ "item" : "atprk_chthonicalloy", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "atprk_fukrakothfuelpurifier",
+    "count" : 1
+  },
+  "groups" : [ "prototyper3", "fu_shipcrafting", "functional", "all" ],
+  "duration" : 1
+}

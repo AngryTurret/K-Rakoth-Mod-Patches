@@ -1,0 +1,173 @@
+[
+  {
+    "op": "add",
+    "path": "/-",
+    "value":
+		{
+				"inputs": {"atprk_spongeblock": 50},
+				"outputs": {"cellmatter":[1,2,4], "biosample": [1,2,2]}
+		}
+  },
+	{
+		"op": "add",
+		"path": "/-",
+		"value":
+		{
+				"inputs": {"atprk_amberblock" : 50},
+				"outputs": {"bone":[2,2,3], "bugshell":[1,1,4], "fuamberchunk": [3,3,3]}
+		}
+	},
+	{
+		"op": "add",
+		"path": "/-",
+		"value":
+		{
+				"inputs": {"atprk_radiotrophicwood" : 20},
+				"outputs": {"fu_carbondioxide":[1,2,3], "toxicwaste": [1,2,3]}
+		}
+	},
+  {
+    "op": "add",
+    "path": "/-",
+    "value":
+		{
+				"inputs": {"atprk_exoticstarfish": 10},
+				"outputs": {"cellmatter":[1,2,4]}
+		}
+  },
+  {
+    "op": "add",
+    "path": "/-",
+    "value":
+		{
+				"inputs": {"atprk_amberinsect1": 1},
+				"outputs": {"fugeneticmaterial":[5,10,15], "fuscienceresource": [2,5,8]}
+		}
+  },
+  {
+    "op": "add",
+    "path": "/-",
+    "value":
+		{
+				"inputs": {"atprk_amberinsect2": 1},
+				"outputs": {"fugeneticmaterial":[5,10,15], "fuscienceresource": [2,5,8]}
+		}
+  },
+  {
+    "op": "add",
+    "path": "/-",
+    "value":
+		{
+				"inputs": {"atprk_amberinsect3": 1},
+				"outputs": {"fugeneticmaterial":[5,10,15], "fuscienceresource": [2,5,8]}
+		}
+  },
+  {
+    "op": "add",
+    "path": "/-",
+    "value":
+		{
+				"inputs": {"atprk_traproot": 1},
+				"outputs": {"fu_mulch":[1,1,2]}
+		}
+  },
+  {
+    "op": "add",
+    "path": "/-",
+    "value":
+		{
+				"inputs": {"atprk_ruinousfiber": 30},
+				"outputs": {"cellmatter":[1,2,2], "slew":[2,4,6], "fu_mulch": [1,2,3], "fumadnessresource": [1,1,1]}
+		}
+  },
+  {
+    "op": "add",
+    "path": "/-",
+    "value":
+		{
+				"inputs": {"atprk_ruinousbulb": 1},
+				"outputs": {"endomorphicjelly":[1,2,4], "fumadnessresource": [1,2,2]}
+		}
+  },
+  {
+    "op": "add",
+    "path": "/-",
+    "value":
+		{
+				"inputs": {"atprk_ancientshards": 2},
+				"outputs": {"essence":[1,1,2], "fuscienceresource": [5,10,15]}
+		}
+  },
+  {
+    "op": "add",
+    "path": "/-",
+    "value":
+		{
+				"inputs": {"atprk_terraformercore": 1},
+				"outputs": {"essence":[5,10,20], "fuscienceresource": [20,30,40]}
+		}
+  },
+  {
+    "op": "add",
+    "path": "/-",
+    "value":
+		{
+				"inputs": {"atprk_reliccircuitry": 1},
+				"outputs": {"ff_silicon":[1,1,1], "wire":[2,2,3], "fuscienceresource":[4,4,6]}
+		}
+  },
+  {
+    "op": "add",
+    "path": "/-",
+    "value":
+		{
+				"inputs": {"atprk_4dgoods": 1},
+				"outputs": {"atprk_4dparticle":[1,1,2], "atprk_chthonicscraps":[1,1,1]}
+		}
+  },
+  {
+    "op": "add",
+    "path": "/-",
+    "value":
+		{
+				"inputs": {"atprk_4dparticle": 10},
+				"outputs": {"fuscienceresource":[4,6,8]}
+		}
+  },
+  {
+    "op": "add",
+    "path": "/-",
+    "value":
+		{
+				"inputs": {"atprk_4dcube": 1},
+				"outputs": {"atprk_4dparticle":[2,4,6]}
+		}
+  },
+  {
+    "op": "add",
+    "path": "/-",
+    "value":
+		{
+				"inputs": {"atprk_chthonicalloy": 1},
+				"outputs": {"solariumore":[1,2,2], "atprk_chthonicscraps":[1,1,1]}
+		}
+  },
+  {
+    "op": "add",
+    "path": "/-",
+    "value":
+		{
+				"inputs": {"atprk_chthonicscraps": 2},
+				"outputs": {"atprk_eldertech":[1,1,1]}
+		}
+  },
+  {
+    "op": "add",
+    "path": "/-",
+    "value":
+		{
+				"inputs": {"atprk_eldertech": 2},
+				"outputs": {"atprk_4dcube":[1,1,1], "atprk_aeonbattery":[1,1,1], "fuscienceresource": [15,20,25]}
+		}
+  }
+]

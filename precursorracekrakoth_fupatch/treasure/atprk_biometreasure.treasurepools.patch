@@ -1,0 +1,22 @@
+[
+{"op":"add",
+	"path":"/atprk_amberTreasure/0/1/pool/-",
+	"value":
+        {"weight" : 0.1, "item" : "fuamberchunk"}
+},
+{"op":"add",
+	"path":"/atprk_boilingoceanfloorTreasure/0/1/pool/-",
+	"value":
+        {"weight" : 0.01, "item" : "atprk_fucadaverkrakoth"}
+},
+{"op":"add",
+	"path":"/atprk_chthoniccomplexTreasure/0/1/pool/-",
+	"value":
+        {"weight" : 0.02, "item" : "atprk_fucadaverkrakoth"}
+},
+{"op":"add",
+	"path":"/atprk_navalminefieldTreasure/0/1/pool/-",
+	"value":
+        {"weight" : 0.05, "item" : "atprk_fucadaverkrakoth"}
+}
+]

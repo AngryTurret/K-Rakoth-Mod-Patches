@@ -1,0 +1,222 @@
+[
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "elduukhar2-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "elduukhar7-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "elduukhar8-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "elduukhar9-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "elduukhar10-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "fenerox1-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "fenerox3-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "fenerox4-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "fupeglacigiants-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "fupeglaciorigins-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "fupeglacisongs-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "kirhos1-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "kirhos2-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "kirhos3-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "kirhos5-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "kirhos6-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "mantizi3-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "mantizi5-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "mantizi6-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "funightarhistory3-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "funightarhistory4-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "funightarhistory6-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "funightarhistory7-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "pharitu1-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "pharitu4-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "pharitu5-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "pharitu7-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "radien2-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "radien3-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "radien6-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "radien8-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.05, "item" : "radien11-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.05, "item" : "shadow3-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.05, "item" : "shadow4-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "skathhistory1-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "skathhistory2-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "skathhistory4-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "skathhistory5-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "skathhistory6-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "skathhomeworld-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "veluuish3-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "veluuish4-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.05, "item" : "agarans-codex"}
+},
+{"op":"add",
+	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value":
+        {"weight" : 0.01, "item" : "greg1-codex"}
+}
+]

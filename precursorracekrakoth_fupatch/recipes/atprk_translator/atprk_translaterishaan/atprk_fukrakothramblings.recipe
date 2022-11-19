@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "atprk_fukrakothtextdzhe", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "atprk_fukrakothramblings",
+    "count" : 1
+  },
+  "groups" : [ "atprk_translator", "atprk_translaterishaan" ]
+}

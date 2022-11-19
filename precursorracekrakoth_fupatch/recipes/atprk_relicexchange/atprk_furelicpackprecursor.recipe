@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "spacetimeobeliskinactive", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "atprk_furelicpackprecursor",
+    "count" : 1
+  },
+  "groups" : [ "atprk_relicexchange", "nouncrafting" ]
+}

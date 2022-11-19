@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "liquidorganicsoup", "count" : 1},
+    { "item" : "fu_salt", "count" : 1 },
+    { "item" : "blobbushjelly", "count" : 4 },
+    { "item" : "fu_hydrogen", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "atprk_fubiofuelcannisterplus",
+    "count" : 1
+  },
+  "groups" : [ "chemlab3", "chemical", "all" ], "duration" : 0.01
+}

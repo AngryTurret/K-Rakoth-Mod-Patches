@@ -1,0 +1,37 @@
+[
+{"op":"add",
+	"path":"/atprk_apexarea48Krakoth/0/1/pool/-",
+	"value":
+        {"weight" : 0.05, "item" : "atprk_fucadaverkrakoth"}
+},
+{"op":"add",
+	"path":"/atprk_krakothruinsRareTreasure/0/1/pool/-",
+	"value":
+        {"weight" : 0.02, "item" : "atprk_fucadaverkrakoth"}
+},
+{"op":"add",
+	"path":"/atprk_krakothlabRareTreasure/0/1/pool/-",
+	"value":
+        {"weight" : 0.02, "item" : "atprk_fucadaverkrakoth"}
+},
+{"op":"add",
+	"path":"/atprk_krakothRadiotrophicTreasure/0/1/pool/-",
+	"value":
+        {"weight" : 0.05, "item" : "atprk_fucadaverkrakoth"}
+},
+{"op":"add",
+	"path":"/atprk_krakothchurchLore/0/1/pool/-",
+	"value":
+        {"weight" : 0.10, "item" : "atprk_fukrakothtextdzhe"}
+},
+{"op":"add",
+	"path":"/atprk_krakothMidnightTreasure/0/1/pool/-",
+	"value":
+        {"weight" : 0.05, "item" : "atprk_fukrakothtextdzhe"}
+},
+{"op":"add",
+	"path":"/atprk_krakothchurchLore/0/1/pool/-",
+	"value":
+        {"weight" : 0.25, "item" : "atprk_fukrakothtextduo"}
+}
+]

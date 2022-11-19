@@ -1,0 +1,13 @@
+{
+  "input" : [
+	{ "item" : "nicepaper", "count" : 42 },
+	{ "item" : "atprk_fukrakothramblings", "count" : 1 },
+	{ "item" : "leather", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "atprk_fukrakothramblingsadv",
+    "count" : 2
+  },
+  "groups" : [ "tomedais1", "books", "all" ],
+  "duration" : 5
+}
