@@ -1,0 +1,23 @@
+{
+  "itemName" : "atprk_fuunpackedchemicalgoods",
+  "price" : 100,
+  "level" : 2,
+  "rarity" : "Common",
+  "category" : "mysteriousReward",
+  "description" : "Open this crate to get some chemical compounds.",
+  "shortdescription" : "Unpacked Chemicals",
+  "twoHanded" : true,
+
+  "inventoryIcon" : "atprk_fuunpackedchemicalgoods.png",
+  "animation" : "atprk_fuunpackedchemicalgoods.animation",
+  "animationCustom" : {},
+  "scripts" : ["atprk_fuunpackedchemicalgoods.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "atprk_fuunpackedchemicalgoods",
+    "level" : 2
+  }
+}

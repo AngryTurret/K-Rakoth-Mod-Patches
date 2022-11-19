@@ -1,0 +1,98 @@
+[
+  {
+    "op": "add",
+    "path": "/converse/novakid/precursor",
+    "value": [
+		"It cannot be... A livin' Precursor! We've been searchin' for you for a while! We've got so many questions!",
+		"Mind answerin' some questions 'bout the galaxy? I'll try not to bother you too much.",
+		"Oh my Cultivator, a real Precursor! Can I get your autograph?",
+		"Welcome aboard, the Old One... I hope it's not offensive t' call you like that, is it?",
+		"So, has your kind ever dealt with K'Rakoths? We'd like t' learn about them as much as about the Precursors.",
+		"You know there's an elder race of aquatic squids out there? Forgot their name, though... again...",
+		"Ever heard of K'Rakoths? Their race's been puzzlin' us for a while.",
+		"Space is kinda empty and dispiritin' at times, but if you search long enough, you'll always find somethin' wonderful.",
+		"Y'know, you look very familiar. Have we met before or somethin'?",
+		"We Novakids don't have well-written history books, so it's our duty to finally record everything right.",
+		"What's up with Cyber Spheres? Did your race build 'em, or was it someone else? The Ancients? K'Rakoths? Some other beings we should know about?",
+		"There are so many strange worlds that intrigue us. They seem to be affected by greater cosmic powers.",
+		"I can't imagine how a powerful, galaxy-spanning empire could collapse. Just what kind of calamity would cause that?",
+		"The more we look into the mysteries of our Universe, the darker it gets. Some of my fellow Relic Seekers lose their mind after prolonged studies.",
+		"Learnin' about the races that came before us is excitin' and disturbin' at the same time. How many of 'em were out there?",
+		"Why do many space anomalies turn out t' be mundane stations or asteroids? They give us nothin' new and waste our time.",
+		"I can't believe how much the elder races've left behind. As if they didn't care about their property at all.",
+		"Your people must've better memory than us Novakids. Why not join us? You can help us a lot on our journey."
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/novakid/shadow",
+    "value": [
+		"No offense, but for a while I thought you Shadow people couldn't talk at all. Turns out I'm wrong.",
+		"According to our data on K'Rakoths, they disliked the Tenebrhae for religious reasons. You're lucky they aren't around anymore.",
+		"Our galaxy's indeed full of mysteries and wonders. You never know what you'll find on other planets!",
+		"We Novakids don't have well-written history books, so it's our duty to finally record everything right.",
+		"All that stuff 'bout K'Rakoth race still confuses me. What's up with those hypercrates or whatever?",
+		"You know there's an elder race of aquatic squids out there? Forgot their name, though... again...",
+		"We weren't given anythin' by the Cultivator, yet there're still Novakid faces on Ancient Gates... Interesting, right?",
+		"Space is kinda empty and dispiritin' at times, but if you search long enough, you'll always find somethin' wonderful.",
+		"Wanna join the Relic Seekers? We're lookin' for artifacts t' learn the full history of our Universe and such.",
+		"We already were puzzled by Midnight planets, and now we discover even darker ones! What kind of space sorcery is this?",
+		"The more we look into the mysteries of our Universe, the darker it gets. Some of my fellow Relic Seekers lose their mind after prolonged studies.",
+		"Howdy, my name is <selfname>. Pleased to meet yet another curious spacefarer!",
+		"So many planets devoid of light... What mysteries do they conceal behind the darkness? Should we gaze into the abyss?",
+		"A Tenebrhae, right? We don't see your folks very often, let alone talk with 'em. Mind tellin' us somethin' about your history?",
+		"Learnin' about the races that came before us is excitin' and disturbin' at the same time. How many of 'em were out there?",
+		"Ah!... Oh, sorry, for a second I thought there's a small black hole on our ship.",
+		"I can't believe how much the elder races've left behind. As if they didn't care about their property at all.",
+		"Your people must've better memory than us Novakids. Why not join us? You can help us a lot on our journey."
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/novakid/radien",
+    "value": [
+		"Pleased t' see a X'i again. There were some of your folks back in my town. Or was it the one next t' it? I forgot.",
+		"Are your people sure that the Cultivator's not real? That only makes the Ancients' history more complicated.",
+		"Many planets have those small ruins on their surface... Who exactly built them, anyway?",
+		"Do you have your own mech? I thought it ain't easy to afford.",
+		"We weren't given anythin' by the Cultivator, yet there're still Novakid faces on Ancient Gates... Interesting, right?",
+		"We Novakids don't have well-written history books, so it's our duty to finally record everything right.",
+		"Greetings, it's always pleasant to see a X'i. Have you got any stories to tell?",
+		"Wanna join the Relic Seekers? We're lookin' for artifacts t' learn the full history of our Universe and such.",
+		"Your people must've better memory than us Novakids. Why not join us? You can help us a lot on our journey.",
+		"The more we look into the mysteries of our Universe, the darker it gets. Some of my fellow Relic Seekers lose their mind after prolonged studies.",
+		"I ain't 'member much, but I'm determined to learn a lot about the past!",
+		"Howdy, my name is <selfname>. Pleased to meet yet another curious spacefarer!",
+		"You know there's an elder race of aquatic squids out there? Forgot their name, though... again...",
+		"All that stuff 'bout K'Rakoth race still confuses me. What's up with those hypercrates or whatever?",
+		"Ever heard of K'Rakoths? Their race's been puzzlin' us for a while.",
+		"Sorry, we ain't got any radioactive materials here, only erchius 'n relics. Didn't expect X'i visitors, y'know.",
+		"I can't believe how much the elder races've left behind. As if they didn't care about their property at all.",
+		"We belive that Proto Worlds ain't natural. Could they be created by an elder race, similar t' Cyber Spheres?"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/novakid/fupeglaci",
+    "value": [
+		"We'd like to learn more about the Wanderers once the right time comes. For now we're busy with other elder races.",
+		"Perhaps we should cooperate with Peglaci more often. Your kind seems to have better insight into our galaxy's past.",
+		"How do Peglaci view the Ancients? Has your people ever interacted with them? Were the Wanderers against that?",
+		"Do you have your own mech? I thought it ain't easy to afford.",
+		"We weren't given anythin' by the Cultivator, yet there're still Novakid faces on Ancient Gates... Interesting, right?",
+		"We Novakids don't have well-written history books, so it's our duty to finally record everything right.",
+		"The Wanderers... What were their goals, and what caused their civilization to disappear?",
+		"Wanna join the Relic Seekers? We're lookin' for artifacts t' learn the full history of our Universe and such.",
+		"Your people must've better memory than us Novakids. Why not join us? You can help us a lot on our journey.",
+		"The more we look into the mysteries of our Universe, the darker it gets. Some of my fellow Relic Seekers lose their mind after prolonged studies.",
+		"I ain't 'member much, but I'm determined to learn a lot about the past!",
+		"Howdy, my name is <selfname>. Pleased to meet yet another curious spacefarer!",
+		"You know there's an elder race of aquatic squids out there? Forgot their name, though... again...",
+		"All that stuff 'bout K'Rakoth race still confuses me. What's up with those hypercrates or whatever?",
+		"Ever heard of K'Rakoths? Their race's been puzzlin' us for a while.",
+		"You know why I joined the Relic Seekers? There're so many gaps in Novakid history that I doubt it's even real.",
+		"There're some similarities between the Wanderers and K'Rakoths, but we doubt they're related. We're not even sure if they were aware of each other.",
+		"We belive that Proto Worlds ain't natural. Could they be created by an elder race, similar t' Cyber Spheres?"
+    ]
+  }
+]

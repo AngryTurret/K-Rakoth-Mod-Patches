@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "Fossilized tree resin. You can even spot ancient bugs in it!\n^green;Extractable^reset;, ^orange;Crushable^reset;."
+    }
+]

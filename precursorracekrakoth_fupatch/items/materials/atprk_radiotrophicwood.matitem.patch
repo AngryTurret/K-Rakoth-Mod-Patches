@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "A piece of alien radiotrophic wood.\n^green;Extractable^reset;."
+    }
+]

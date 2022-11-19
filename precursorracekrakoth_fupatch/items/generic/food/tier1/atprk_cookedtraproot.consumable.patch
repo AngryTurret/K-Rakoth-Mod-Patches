@@ -1,0 +1,16 @@
+[
+  {
+    "op": "add",
+    "path": "/effects",
+    "value": [
+      [
+        "plant_food"
+      ]
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "It may taste stale but now it's safe to consume. ^green;Type: Herbivore^reset;"
+  }
+]

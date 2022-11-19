@@ -1,0 +1,23 @@
+{
+  "itemName" : "atprk_fuunpackedcontrabandgoods",
+  "price" : 200,
+  "level" : 2,
+  "rarity" : "Rare",
+  "category" : "mysteriousReward",
+  "description" : "Open this crate to get some totally legal stuff.",
+  "shortdescription" : "Unpacked Contraband",
+  "twoHanded" : true,
+
+  "inventoryIcon" : "atprk_fuunpackedcontrabandgoods.png",
+  "animation" : "atprk_fuunpackedcontrabandgoods.animation",
+  "animationCustom" : {},
+  "scripts" : ["atprk_fuunpackedcontrabandgoods.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "atprk_fuunpackedcontrabandgoods",
+    "level" : 2
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "itemName" : "atprk_fucadaverkrakoth",
+  "rarity" : "legendary",
+  "price" : 1240,
+  "maxStack": 1000,
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "atprk_fucadaverkrakoth.png",
+  "description" : "The remains of a K'Rakoth, ready to investigate via autopsy.",
+  "shortdescription" : "K'Rakoth Cadaver",
+  "itemTags" : [ "reagent" ]
+}

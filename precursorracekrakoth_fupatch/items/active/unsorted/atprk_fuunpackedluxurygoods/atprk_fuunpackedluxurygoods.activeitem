@@ -1,0 +1,23 @@
+{
+  "itemName" : "atprk_fuunpackedluxurygoods",
+  "price" : 100,
+  "level" : 2,
+  "rarity" : "Common",
+  "category" : "mysteriousReward",
+  "description" : "Open this crate to get some luxorious trinkets.",
+  "shortdescription" : "Unpacked Luxury Goods",
+  "twoHanded" : true,
+
+  "inventoryIcon" : "atprk_fuunpackedluxurygoods.png",
+  "animation" : "atprk_fuunpackedluxurygoods.animation",
+  "animationCustom" : {},
+  "scripts" : ["atprk_fuunpackedluxurygoods.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "atprk_fuunpackedluxurygoods",
+    "level" : 2
+  }
+}

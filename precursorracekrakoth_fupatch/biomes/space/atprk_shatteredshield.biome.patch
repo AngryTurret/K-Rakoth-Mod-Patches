@@ -1,0 +1,13 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+        "select" : 2,
+        "pool" : [ 
+          [ 0.05, "nanoswarm" ],
+          [ 0.05, "omnicannon" ],
+          [ 0.05, "asteroidscandroid" ],
+          [ 0.05, "atprk_krakothsmalldrone" ]
+        ]
+      }
+}
+]

@@ -1,0 +1,23 @@
+{
+  "itemName" : "atprk_fuunpackedmineralgoods",
+  "price" : 100,
+  "level" : 2,
+  "rarity" : "Common",
+  "category" : "mysteriousReward",
+  "description" : "Open this crate to get some minerals.",
+  "shortdescription" : "Unpacked Minerals",
+  "twoHanded" : true,
+
+  "inventoryIcon" : "atprk_fuunpackedmineralgoods.png",
+  "animation" : "atprk_fuunpackedmineralgoods.animation",
+  "animationCustom" : {},
+  "scripts" : ["atprk_fuunpackedmineralgoods.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "atprk_fuunpackedmineralgoods",
+    "level" : 2
+  }
+}

@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "A soft sponge block. No, it doesn't absorb water.\n^green;Extractable^reset;, ^orange;Crushable^reset;."
+    }
+]

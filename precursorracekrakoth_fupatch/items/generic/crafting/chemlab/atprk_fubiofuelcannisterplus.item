@@ -1,0 +1,11 @@
+{
+  "itemName": "atprk_fubiofuelcannisterplus",
+  "rarity": "legendary",
+  "category": "fuel",
+  "price": 440,
+  "inventoryIcon": "atprk_fubiofuelcannisterplus.png",
+  "description": "A highly advanced form of biofuel.\n^blue;+^white;35 ^blue;Fuel^reset;",
+  "shortdescription": "Chthonic Fuel Canister",
+  "fuelAmount": 35,
+  "itemTags": ["reagent"]
+}

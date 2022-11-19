@@ -1,0 +1,23 @@
+{
+  "itemName" : "atprk_fuunpackedemptygoods",
+  "price" : 25,
+  "level" : 2,
+  "rarity" : "Common",
+  "category" : "mysteriousReward",
+  "description" : "Are you sure you want to spend a whole dubloon on nothing?",
+  "shortdescription" : "Unpacked Empty Crate",
+  "twoHanded" : true,
+
+  "inventoryIcon" : "atprk_fuunpackedemptygoods.png",
+  "animation" : "atprk_fuunpackedemptygoods.animation",
+  "animationCustom" : {},
+  "scripts" : ["atprk_fuunpackedemptygoods.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "atprk_fuunpackedemptygoods",
+    "level" : 2
+  }
+}

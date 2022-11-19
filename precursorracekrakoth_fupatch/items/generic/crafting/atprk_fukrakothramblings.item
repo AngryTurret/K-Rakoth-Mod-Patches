@@ -1,0 +1,13 @@
+{
+  "itemName" : "atprk_fukrakothramblings",
+  "price" : 50,
+  "rarity" : "Legendary",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "atprk_fukrakothramblings.png",
+  "description" : "Sadly, all you can read is a stream of zealous rambling. Perhaps you should take ^green;a less sane approach...^white;",
+  "shortdescription" : "Chaotic Sermon",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [
+    "atprk_fukrakothramblingsadv"
+  ]
+}

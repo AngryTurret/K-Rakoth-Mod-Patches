@@ -1,0 +1,13 @@
+{
+  "itemName" : "atprk_fukrakothtextduo",
+  "price" : 25,
+  "rarity" : "Legendary",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "atprk_fukrakothtextduo.png",
+  "description" : "Probably a description of some higher being. ^red;Requires translation.^white;",
+  "shortdescription" : "K'Rakoth Codex Duo",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [
+    "atprk_fukrakothcodexduo-codex"
+  ]
+}

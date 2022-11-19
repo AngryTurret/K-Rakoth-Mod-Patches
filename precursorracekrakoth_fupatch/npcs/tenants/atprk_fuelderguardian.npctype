@@ -1,0 +1,111 @@
+{
+  "type" : "atprk_fuelderguardian",
+  "baseType" : "friendlyguardtenant",
+
+  "scriptConfig" : {
+    "reactions" : {
+      "spontaneous" : [
+        [1.0, "sit", { "timeRange" : [0.6,0.2]}],
+        [1.0, "patrol", { "timeRange" : [0.2, 0.6] }]
+      ]
+    },
+
+    "dialog" : {
+      "tenant" : {
+        "grumbles" : {
+          "severe" : "/dialog/atprk_fuelderguardian.config:severe",
+          "final" : "/dialog/atprk_fuelderguardian.config:final"
+        },
+        "arrivedHome" : {
+          "beacon" : "/dialog/atprk_fuelderguardian.config:beacon",
+          "rent" : "/dialog/atprk_fuelderguardian.config:rent"
+        }
+      },
+
+      "converse" : "/dialog/atprk_fuelderguardian.config:converse",
+
+      "attack" : "/dialog/atprk_fuelderguardian.config:attack",
+      "reattack" : "/dialog/atprk_fuelderguardian.config:reattack",
+      "killedTarget" : "/dialog/atprk_fuelderguardian.config:killedTarget",
+      "lostTarget" : "/dialog/atprk_fuelderguardian.config:lostTarget",
+      "outOfSight" : "/dialog/atprk_fuelderguardian.config:outOfSight",
+      "cheerOn" : "/dialog/atprk_fuelderguardian.config:cheerOn",
+      "cantReach" : "/dialog/atprk_fuelderguardian.config:cantReach"
+    }
+  },
+
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "elderarmorhead", "parameters" : { "colorIndex" : [0] } }
+            ],
+            "chest" : [
+              { "name" : "elderarmorchest", "parameters" : { "colorIndex" : [0] } }
+            ],
+            "legs" : [
+              { "name" : "elderarmorpants", "parameters" : { "colorIndex" : [0] } }
+            ],
+            "primary" : [
+              "elderblade",
+              "elderaxe",
+              "elderspear",
+              "eldermace",
+              "elderhammer"
+            ],
+            "alt" : [
+              "eldershield"
+            ]
+          }
+        ] ]
+    ]
+  },
+ "statusControllerSettings" : {    
+    "stats" : {
+	  "maxHealth" : {
+        "baseValue" : 1500.0
+      },
+	"iceStatusImmunity" : {
+        "baseValue" : 1.0
+      },
+	"poisonStatusImmunity" : {
+        "baseValue" : 1.0
+      },
+	"fireStatusImmunity" : {
+        "baseValue" : 1.0
+      },
+	"electricStatusImmunity" : {
+        "baseValue" : 1.0
+      },
+	"insanityImmunity" : {
+        "baseValue" : 1.0
+      },
+	"biooozeImmunity" : {
+        "baseValue" : 1.0
+      },
+	"sulphuricImmunity" : {
+        "baseValue" : 1.0
+      },
+	"cosmicResistance" : {
+        "baseValue" : 1.0
+      },
+	"shadowResistance" : {
+        "baseValue" : 1.0
+      },
+	"radioactiveResistance" : {
+        "baseValue" : 1.0
+      },
+	"specialStatusImmunity" : {
+        "baseValue" : 1.0
+      },
+      "powerMultiplier" : {
+        "baseValue" : 18.5
+      },
+      "protection" : {
+        "baseValue" : 1.5
+      }
+    }
+  }
+}

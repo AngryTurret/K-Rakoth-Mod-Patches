@@ -1,0 +1,23 @@
+[
+{"op" : "add", "path" : "/surfacePlaceables/items/-", "value" : {
+  "mode" : "floor",
+  "priority" : 0.0,
+  "variants" : 1,
+  "distribution" : "/biomes/distributions.config:overgroundChests",
+
+  "type" : "treasureBox",
+  "treasureBoxSets" : [ "atprk_fukrakothtech" ]
+  }
+},
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+        "select" : 1,
+        "pool" : [ 
+          [ 0.05, "nanoswarm" ],
+          [ 0.05, "omnicannon" ],
+          [ 0.05, "twigun" ],
+          [ 0.05, "asteroidscandroid" ]
+        ]
+      }
+}
+]

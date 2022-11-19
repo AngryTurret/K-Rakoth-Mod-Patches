@@ -1,0 +1,14 @@
+[
+  {
+    "op": "add",
+    "path": "/effects/0/0",
+    "value": {
+      "effect": "fish_plant_meal"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Exotic starfish rolls to spice your dinner up. ^orange;Type: Fish, Plant^reset;"
+  }
+]
