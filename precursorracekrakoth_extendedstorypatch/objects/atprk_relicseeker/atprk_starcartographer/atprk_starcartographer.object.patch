@@ -1,0 +1,66 @@
+[
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_extendedforgottenpin" },
+			"prerequisiteQuest" : "hylotl_mission1"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_extendedhalloweenpin" },
+			"prerequisiteQuest" : "apex_mission1"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_extendeddarkpin" },
+			"prerequisiteQuest" : "collectabyssartifact"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_extendedfirepin" },
+			"prerequisiteQuest" : "collectfireartifact"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_extendedfrostpin" },
+			"prerequisiteQuest" : "collecticeartifact"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_extendednuclearpin" },
+			"prerequisiteQuest" : "collectpoisonartifact"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_extendedvoltagepin" },
+			"prerequisiteQuest" : "collectelectricartifact"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_extendedvoidpin" },
+			"prerequisiteQuest" : "destroysupervoideye"
+		}
+	}
+]

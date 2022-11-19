@@ -1,0 +1,43 @@
+{
+	"id": "atprk_extendedstoryvaultquest",
+	"prerequisites": ["atprk_vaultscanquest"],
+	"title": "^green;Like a Boss",
+	"text": "Actually, you know what's more hardcore than an Ancient Vault? The ^orange;Bossvault^white;, of course! I've heard that out of all people, one little pirate managed to sneak in there once. I mean, you won't allow some guy to outshine you, right? Let's gather at least ^green;5 ancient fragments^white; then.",
+	"completionText": "No way! You've really done it! Just take my essence already, you mad lad.",
+	"moneyRange": [1500, 1500],
+	"rewards": [
+		[
+			["essence", 650],
+			["atprk_extendedstorygolemmask", 1]
+		]
+	],
+
+	"updateDelta": 10,
+	"script": "/quests/scripts/main.lua",
+	"scriptConfig": {
+		"portraits": {
+			"questStarted": {
+				"portrait": [{
+					"image": "/objects/atprk_relicseeker/atprk_vaultraider/atprk_jadeportrait1.png"
+				}],
+				"title": "Jade"
+			},
+			"questComplete": {
+				"portrait": [{
+					"image": "/objects/atprk_relicseeker/atprk_vaultraider/atprk_jadeportrait2.png"
+				}],
+				"title": "Jade"
+			}
+		},
+		"requireTurnIn": true,
+
+		"turnInDescription": "Speak to ^orange;Jade^reset; aboard ^orange;ST Syllectis^reset;",
+		"conditions": [{
+				"type": "gatherItem",
+				"itemName": "ancientfragment",
+				"count": 5,
+				"consume": true
+			}
+		]
+	}
+}

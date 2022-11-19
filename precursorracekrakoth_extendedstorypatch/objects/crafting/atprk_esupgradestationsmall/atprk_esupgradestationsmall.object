@@ -1,0 +1,72 @@
+{
+  "objectName" : "atprk_esupgradestationsmall",
+  "colonyTags" : ["crafting","electronic"],
+  "rarity" : "Legendary",
+  "price" : 80,
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/upgradestation.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "Upgrade Console",
+        "subtitle" : "Upgrade tier 6-8 weapons here",
+        "icon" : {
+          "file" : "/interface/crafting/upgradestation.png"
+        }
+      }
+    },
+    "filter" : [ "upgradestation" ]
+  },
+  "printable" : false,
+  "description" : "A console used for upgrading weapons that are tier 6, tier 7, or tier 8.",
+  "shortdescription" : "Upgrade Console",
+  "race" : "generic",
+  "category" : "crafting",
+
+  "lightColor" : [128, 110, 77],
+
+  "flickerPeriod" : 0.8,
+  "flickerMinIntensity" : 0.95,
+  "flickerMaxIntensity" : 1.00,
+  "flickerPeriodVariance" : 0.0,
+  "flickerIntensityVariance" : 0.0,
+
+  "apexDescription" : "I can upgrade powerful weapons here.",
+  "avianDescription" : "This will allow me to upgrade powerful weapons.",
+  "floranDescription" : "Floran upgrade powerful weaponss. Weaponss become more powerful.",
+  "glitchDescription" : "Excited. I can upgrade my already powerful weapons here!",
+  "humanDescription" : "Let's upgrade powerful weapons and rule the universe, or do less evil things.",
+  "hylotlDescription" : "Upgrading powerful weapons will make them even more powerful.",
+  "novakidDescription" : "Makin' weapons even more powerful.",
+
+  "inventoryIcon" : "atprk_esupgradestationsmallicon.png",
+  "orientations" : [
+    {
+
+      "imageLayers" : [ { "image" : "atprk_esupgradestationsmall.png:<color>", "fullbright" : true }, { "image" : "atprk_esupgradestationsmalllit.png:<color>" } ],
+      "flipImages" : true,
+      "direction" : "left",
+      "lightPosition" : [-1, 1],
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.4,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+
+      "imageLayers" : [ { "image" : "atprk_esupgradestationsmall.png:<color>", "fullbright" : true }, { "image" : "atprk_esupgradestationsmalllit.png:<color>" } ],
+      "direction" : "right",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.4,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "objectName" : "atprk_esancientforgesmall",
+  "colonyTags" : ["ancient","crafting"],
+  "printable" : false,
+  "rarity" : "Legendary",
+  "description" : "A smaller ancient forge. Unlocks more recipes.",
+  "shortdescription" : "Essence Forge",
+  "race" : "ancient",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/ancientforge.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "Essence Forge",
+        "subtitle" : "Ancient armor and weapons",
+        "icon" : {
+          "file" : "/interface/crafting/ancientforge.png"
+        }
+      }
+    },
+    "filter" : [ "ancientforge" ]
+  },
+  "category" : "crafting",
+  "price" : 350,
+
+  "learnBlueprintsOnPickup" : [
+    "atprk_esancientfurnacesmall",
+    "atprk_esupgradestationsmall",
+    "atprk_esbossvaultsmall",
+    "atprk_esbossvaultgrindsmall",
+    "atprk_esannihilatorteleportersmall"
+  ],
+
+  "apexDescription" : "Surprisingly, this small forge is still fully functional.",
+  "avianDescription" : "A small forge crafted out of ancient materials.",
+  "floranDescription" : "Glowing object iss ancient.",
+  "glitchDescription" : "Analysing. An essence forge crafted out of certain materials that cannot be obtained by normal means.",
+  "humanDescription" : "An essence forge. The material used to make this is very ancient.",
+  "hylotlDescription" : "A very ancient forge.",
+  "novakidDescription" : "Can't really find somethin' like this anywhere.",
+
+  "inventoryIcon" : "atprk_esancientforgesmallicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "atprk_esancientforgesmall.png:<frame>", "fullbright" : true }, { "image" : "atprk_esancientforgesmalllit.png:<frame>" } ],
+      "flipImages" : true,
+      "direction" : "left",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [-8, 0],
+      "frames" : 4,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "atprk_esancientforgesmall.png:<frame>", "fullbright" : true }, { "image" : "atprk_esancientforgesmalllit.png:<frame>" } ],
+      "direction" : "right",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [-8, 0],
+      "frames" : 4,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/scififurnace.ogg",
+  "soundEffectRangeMultiplier" : 1.0
+}

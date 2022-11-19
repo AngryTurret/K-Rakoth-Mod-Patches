@@ -1,0 +1,10 @@
+{
+  "tags" : "Miscellaneous|Planets and Environments|Quests|Dungeons",
+  "author" : "Angry Turret",
+  "description" : "This is a patch for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2604255131]K'Rakoths, the Lords of the Cosmos mod[/url] that makes new dungeons and mini-biomes spawn on [url=https://steamcommunity.com/workshop/filedetails/?id=899795176]Extended Story[/url] planets, as well as adds some new content. Obviously, you need to install both mods first.\n\nAnd before you ask, yes, I know that Voided is already released but there isn't much to patch yet, and some people still use ES.\n\n[b]Dungeons and Biomes:[/b]\n- Almost all dungeons from the K'Rakoths mod spawn on all ES planets (excluding Halloween planets).\n- Ashy Biome spawns on Raging Inferno planets.\n- Radiotrophic Forest spawns on Nuclear Wasteland planets.\n- Hunger Grove spawns on Halloween planets.\n- Ancient Necropolis spawns on Dark Abyss planets.\n- Glaciovolcanic Biome spawns on Permafrost planets.\n- Polluted Biome spawns on Nuclear Wasteland planets.\n- Ship Graveyard spawns on Forgotten planets.\n- Amber Biome spawns on Halloween planets.\n- Forgotten Mountains spawn on Forgotten planets (duh).\n\n[b]Other:[/b]\n- With the Dimensional Compressor, you can craft smaller versions of ES crafting stations and Bossvault doors.\n- Jade the Vault Raider offers one new quest.\n- The Star Cartographer sells new planet pins.",
+  "requires" : ["precursorracekrakoth", "Extended Story"],
+  "name" : "precursorracekrakoth_extendedstorypatch",
+  "steamContentId" : "2828324239",
+  "friendlyName" : "K'Rakoths: Extended Story Patch",
+  "link" : "steam://url/CommunityFilePage/2828324239"
+}

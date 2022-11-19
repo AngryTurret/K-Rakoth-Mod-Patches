@@ -1,0 +1,12 @@
+[
+	{
+		"op": "add",
+		"path": "/offeredQuests/-",
+		"value": "atprk_extendedstoryvaultquest"
+	},
+	{
+		"op": "add",
+		"path": "/turnInQuests/-",
+		"value": "atprk_extendedstoryvaultquest"
+	}
+]

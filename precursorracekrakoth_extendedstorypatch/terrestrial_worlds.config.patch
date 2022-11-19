@@ -1,0 +1,171 @@
+[
+{
+    "op" : "add",
+    "path" : "/planetTypes/eternalfire/layers/surface/secondaryRegion/-",
+    "value" : "atprk_ashworld"
+  },
+{
+    "op" : "add",
+    "path" : "/regionTypes/darkabyss/subRegion/-",
+    "value" : "atprk_ancientnecropolis"
+  },
+{
+    "op" : "add",
+    "path" : "/regionTypes/halloween/subRegion/-",
+    "value" : "atprk_hungergrove"
+  },
+{
+    "op" : "add",
+    "path" : "/regionTypes/nuclearwasteland/subRegion/-",
+    "value" : "atprk_radiotrophic"
+  },
+{
+    "op" : "add",
+    "path" : "/regionTypes/eternalfrost/subRegion/-",
+    "value" : "atprk_glaciovolcanic"
+  },
+{
+    "op" : "add",
+    "path" : "/regionTypes/nuclearwasteland/subRegion/-",
+    "value" : "atprk_polluted"
+  },
+{
+    "op" : "add",
+    "path" : "/regionTypes/forgotten/subRegion/-",
+    "value" : "atprk_shipgraveyard"
+  },
+{
+    "op" : "add",
+    "path" : "/regionTypes/halloween/subRegion/-",
+    "value" : "atprk_amber"
+  },
+{
+    "op" : "add",
+    "path" : "/regionTypes/forgotten/subRegion/-",
+    "value" : "atprk_forgottenmountains"
+  },
+
+  {
+    "op" : "add",
+    "path" : "/planetTypes/forgotten/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_glitchdevouttower" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/voltage/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_glitchdevouttower" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/nuclearwasteland/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_glitchdevouttower" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/eternalfrost/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_glitchdevouttower" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/eternalfire/layers/surface/dungeons/-",
+    "value" : [ 2.0, "atprk_glitchdevouttower" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/darkabyss/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_glitchdevouttower" ]
+  },
+
+  {
+    "op" : "add",
+    "path" : "/planetTypes/forgotten/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_apexarea48" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/voltage/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_apexarea48" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/nuclearwasteland/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_apexarea48" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/eternalfrost/layers/surface/dungeons/-",
+    "value" : [ 2.0, "atprk_apexarea48" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/eternalfire/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_apexarea48" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/darkabyss/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_apexarea48" ]
+  },
+
+  {
+    "op" : "add",
+    "path" : "/planetTypes/forgotten/layers/surface/dungeons/-",
+    "value" : [ 0.5, "atprk_krakothchurch" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/voltage/layers/surface/dungeons/-",
+    "value" : [ 1.5, "atprk_krakothchurch" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/nuclearwasteland/layers/surface/dungeons/-",
+    "value" : [ 1.5, "atprk_krakothchurch" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/eternalfrost/layers/surface/dungeons/-",
+    "value" : [ 1.5, "atprk_krakothchurch" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/eternalfire/layers/surface/dungeons/-",
+    "value" : [ 1.5, "atprk_krakothchurch" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/darkabyss/layers/surface/dungeons/-",
+    "value" : [ 4.0, "atprk_krakothchurch" ]
+  },
+
+  {
+    "op" : "add",
+    "path" : "/planetTypes/forgotten/layers/surface/dungeons/-",
+    "value" : [ 0.5, "atprk_krakothlab" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/voltage/layers/surface/dungeons/-",
+    "value" : [ 1.5, "atprk_krakothlab" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/nuclearwasteland/layers/surface/dungeons/-",
+    "value" : [ 4.0, "atprk_krakothlab" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/eternalfrost/layers/surface/dungeons/-",
+    "value" : [ 1.5, "atprk_krakothlab" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/eternalfire/layers/surface/dungeons/-",
+    "value" : [ 1.5, "atprk_krakothlab" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/darkabyss/layers/surface/dungeons/-",
+    "value" : [ 1.5, "atprk_krakothlab" ]
+  }
+]

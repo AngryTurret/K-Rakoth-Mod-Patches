@@ -1,0 +1,58 @@
+{
+  "objectName" : "atprk_esbossvaultgrindsmall",
+  "objectType" : "teleporter",
+  "colonyTags" : ["ancient","atprk_ancient"],
+  "rarity" : "Legendary",
+  "price" : 100,
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : "/interface/warping/atprk_esbossvaultgrindwarp.config",
+  "printable" : false,
+  "description" : "A mysterious window leading to a specific dimension. ^green;Made for grinding^reset;.",
+  "shortdescription" : "Bossvault Window - ^green;Grinding^reset;",
+  "race" : "ancient",
+  "category" : "teleporter",
+
+  "lightColor" : [76, 60, 86],
+
+  "apexDescription" : "Whatever lurks behind this ancient window is dangerous.",
+  "avianDescription" : "A rather familiar window that leads to... death.",
+  "floranDescription" : "Ssstrange window with danger. Floran likess danger.",
+  "glitchDescription" : "Scared. This window contains something I would rather not face.",
+  "humanDescription" : "A mysterious window leading to a specific dimension. Specific loot can be found here, but it seems rather intimidating in there.",
+  "hylotlDescription" : "An enigmatic window that seems familiar... Entering the place could be lethal!",
+  "novakidDescription" : "Seems like there ain't much danger... Actually, don't think so.",
+
+  "inventoryIcon" : "atprk_esbossvaultgrindsmallicon.png",
+  "orientations" : [
+    {
+
+      "imageLayers" : [ { "image" : "atprk_esbossvaultgrindsmall.png:<color>", "fullbright" : true }, { "image" : "atprk_esbossvaultgrindsmalllit.png:<color>" } ],
+      "flipImages" : true,
+      "direction" : "left",
+      "lightPosition" : [-1, 1],
+
+      "imagePosition" : [-8, -8],
+      "frames" : 1,
+      "animationCycle" : 0.4,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+
+      "imageLayers" : [ { "image" : "atprk_esbossvaultgrindsmall.png:<color>", "fullbright" : true }, { "image" : "atprk_esbossvaultgrindsmalllit.png:<color>" } ],
+      "direction" : "right",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [-8, -8],
+      "frames" : 1,
+      "animationCycle" : 0.4,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "health" : 5
+
+}

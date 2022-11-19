@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "bossvaultdoorgrind", "count" : 1}
+  ],
+  "output" : {
+    "item" : "atprk_esbossvaultgrindsmall",
+    "count" : 1
+  },
+  "groups" : [ "atprk_4dcrafting", "atprk_4dsmaller", "mod" ]
+}

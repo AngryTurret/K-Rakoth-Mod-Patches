@@ -1,0 +1,34 @@
+{
+  "objectName" : "atprk_extendedfirepin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of a raging inferno planet.",
+  "shortdescription" : "Raging Inferno Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "Because of burning air, raging inferno planets tend to be lethal to most exploreres.",
+  "avianDescription" : "I suppose raging inferno planets give us a clear idea what Kluex's rage looks like.",
+  "floranDescription" : "Whole planet isss on fire! Floran's worssst nightmare!",
+  "glitchDescription" : "Analytical. A pin of a raging inferno planet. Quite strangely yet fittingly, it's always warm.",
+  "humanDescription" : "No sunscreen will protect me from severe heat of raging inferno. I'll need something really cool to even stand it.",
+  "hylotlDescription" : "Raging inferno planets are terrifying. I believe that any amount of liquid water stands no chance there.",
+  "novakidDescription" : "A large ragin' inferno planet. It never stops burnin', ever. I mean, even the air's on fire!",
+
+  "inventoryIcon" : "atprk_extendedfirepin.png",
+  "orientations" : [
+    {
+      "dualImage" : "atprk_extendedfirepin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

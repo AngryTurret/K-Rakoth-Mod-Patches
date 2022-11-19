@@ -1,0 +1,61 @@
+{
+  "objectName" : "atprk_esancientfurnacesmall",
+  "colonyTags" : ["ancient","crafting"],
+  "rarity" : "Legendary",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/ancientfurnace.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : " Essence Crucible",
+        "subtitle" : " ^#b9b5b2;More things to smelt"
+      }
+    },
+    "filter" : [ "ancientfurnace", "craftingfurnace3" ]
+  },
+  "price" : 65,
+
+  "printable" : false,
+  "description" : "A smaller ancient furnace, used for smelting various materials.",
+  "shortdescription" : "Essence Crucible",
+  "race" : "ancient",
+  "category" : "crafting",
+
+  "apexDescription" : "An amazingly old yet functional crucible.",
+  "avianDescription" : "A crucible crafted out of ancient materials. Useful for smelting.",
+  "floranDescription" : "Glowing object iss ancient.",
+  "glitchDescription" : "Analysing. An ancient crucible used for smelting key components.",
+  "humanDescription" : "An ancient crucible. The material used to make this is very ancient.",
+  "hylotlDescription" : "A very ancient crucible.",
+  "novakidDescription" : "Can't really find somethin' like this anywhere.",
+
+  "inventoryIcon" : "atprk_esancientfurnacesmallicon.png",
+
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "atprk_esancientfurnacesmall.png:<color>.<frame>", "fullbright" : true }, { "image" : "atprk_esancientfurnacesmalllit.png:<color>.<frame>" } ],
+      "imagePosition" : [-8, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "frames" : 8,
+      "animationCycle" : 0.8,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "atprk_esancientfurnacesmall.png:<color>.<frame>", "fullbright" : true }, { "image" : "atprk_esancientfurnacesmalllit.png:<color>.<frame>" } ],
+      "imagePosition" : [-8, 0],
+
+      "direction" : "right",
+
+      "frames" : 8,
+      "animationCycle" : 0.8,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

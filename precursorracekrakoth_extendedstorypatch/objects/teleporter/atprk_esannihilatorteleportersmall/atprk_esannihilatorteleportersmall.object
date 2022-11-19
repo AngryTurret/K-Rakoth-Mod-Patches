@@ -1,0 +1,58 @@
+{
+  "objectName" : "atprk_esannihilatorteleportersmall",
+  "objectType" : "teleporter",
+  "colonyTags" : ["misc"],
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : "/interface/warping/annihilatormission.config",
+  "printable" : false,
+  "description" : "A strange communication device. ^red;Annihilator Mission.",
+  "shortdescription" : "Annihilator Ansible",
+  "race" : "generic",
+  "category" : "teleporter",
+
+  "lightColor" : [124, 102, 56],
+
+  "apexDescription" : "A complicated ansible. It transmits signals that only its intended receiver will understand.",
+  "avianDescription" : "An ansible that has unknown purposes.",
+  "floranDescription" : "Ssstrange rod with bulb on top.",
+  "glitchDescription" : "Neutral. An ansible.",
+  "humanDescription" : "A strangely-colored ansible.",
+  "hylotlDescription" : "A mysterious ansible. Teleports you to a strange place.",
+  "novakidDescription" : "An strange-lookin' ansible.",
+
+  "inventoryIcon" : "atprk_esannihilatorteleportersmallicon.png",
+  "orientations" : [
+    {
+
+      "imageLayers" : [ { "image" : "atprk_esannihilatorteleportersmall.png:<color>", "fullbright" : true }, { "image" : "atprk_esannihilatorteleportersmalllit.png:<color>" } ],
+      "flipImages" : true,
+      "direction" : "left",
+      "lightPosition" : [-1, 1],
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.4,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+
+      "imageLayers" : [ { "image" : "atprk_esannihilatorteleportersmall.png:<color>", "fullbright" : true }, { "image" : "atprk_esannihilatorteleportersmalllit.png:<color>" } ],
+      "direction" : "right",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.4,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "teleporterFootPosition" : [0, 1]
+
+}
