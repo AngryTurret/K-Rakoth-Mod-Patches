@@ -1,0 +1,58 @@
+[
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_m32stormypin" },
+			"prerequisiteQuest" : "hylotl_mission1"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_m32verdurouspin" },
+			"prerequisiteQuest" : "hylotl_mission1"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_m32industrialpin" },
+			"prerequisiteQuest" : "avian_mission1"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_m32blusterpin" },
+			"prerequisiteQuest" : "apex_mission1"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_m32steppepin" },
+			"prerequisiteQuest" : "apex_mission1"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_m32geyserpin" },
+			"prerequisiteQuest" : "glitch_mission1"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_m32shatterpin" },
+			"prerequisiteQuest" : "glitch_mission1"
+		}
+	}
+]

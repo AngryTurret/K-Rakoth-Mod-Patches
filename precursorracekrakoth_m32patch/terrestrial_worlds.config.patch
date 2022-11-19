@@ -1,0 +1,144 @@
+[
+{
+    "op" : "add",
+    "path" : "/regionTypes/m32bluster/subRegion/-",
+    "value" : "atprk_glaciovolcanic"
+  },
+{
+    "op" : "add",
+    "path" : "/regionTypes/m32industrialforest/subRegion/-",
+    "value" : "atprk_polluted"
+  },
+{
+    "op" : "add",
+    "path" : "/regionTypes/m32geyser/subRegion/-",
+    "value" : "atprk_ancientnecropolis"
+  },
+
+{
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/secondaryRegions/-",
+    "value" : "m32hoodoos"
+  },
+
+  {
+    "op" : "add",
+    "path" : "/planetTypes/m32industrialforest/layers/surface/dungeons/-",
+    "value" : [ 0.1, "atprk_glitchdevouttower" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/m32steppe/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_glitchdevouttower" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/m32geyser/layers/surface/dungeons/-",
+    "value" : [ 0.1, "atprk_glitchdevouttower" ]
+  },
+
+  {
+    "op" : "add",
+    "path" : "/planetTypes/m32stormyocean/layers/subsurface/dungeons/-",
+    "value" : [ 1.0, "atprk_krakothoceanruins" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/m32industrialforest/layers/underground3/dungeons/-",
+    "value" : [ 1.0, "atprk_krakothoceanruins" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/m32steppe/layers/underground3/dungeons/-",
+    "value" : [ 1.0, "atprk_krakothoceanruins" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/m32bluster/layers/underground3/dungeons/-",
+    "value" : [ 1.0, "atprk_krakothoceanruins" ]
+  },
+
+  {
+    "op" : "add",
+    "path" : "/planetTypes/m32industrialforest/layers/surface/dungeons/-",
+    "value" : [ 0.2, "atprk_apexarea48" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/m32steppe/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_apexarea48" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/m32geyser/layers/surface/dungeons/-",
+    "value" : [ 0.1, "atprk_apexarea48" ]
+  },
+
+  {
+    "op" : "add",
+    "path" : "/planetTypes/m32verdurous/layers/surface/dungeons/-",
+    "value" : [ 0.1, "atprk_krakothchurch" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/m32bluster/layers/surface/dungeons/-",
+    "value" : [ 0.1, "atprk_krakothchurch" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/m32geyser/layers/surface/dungeons/-",
+    "value" : [ 0.2, "atprk_krakothchurch" ]
+  },
+
+  {
+    "op" : "add",
+    "path" : "/planetTypes/m32industrialforest/layers/surface/dungeons/-",
+    "value" : [ 0.1, "atprk_krakothlab" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/m32steppe/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_krakothlab" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/m32geyser/layers/surface/dungeons/-",
+    "value" : [ 0.2, "atprk_krakothlab" ]
+  },
+
+  {
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/dungeons/-",
+    "value" : [ 1.0, "nuucolony" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/dungeons/-",
+    "value" : [ 1.0, "nuutown" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/dungeons/-",
+    "value" : [ 1.0, "nuucity" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/dungeons/-",
+    "value" : [ 1.0, "hylotltower" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/dungeons/-",
+    "value" : [ 0.5, "apexrebelradio" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/dungeons/-",
+    "value" : [ 1.0, "glutttown" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/dungeons/-",
+    "value" : [ 1.0, "hugecrashedship" ]
+  }
+]
