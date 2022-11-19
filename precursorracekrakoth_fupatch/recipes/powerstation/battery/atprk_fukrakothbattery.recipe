@@ -1,0 +1,14 @@
+{
+  "input" : [
+    { "item" : "atprk_aeonbattery", "count" : 4 },
+    { "item" : "aichip", "count" : 2 },
+    { "item" : "particlecore", "count" : 1 }, 
+    { "item" : "atprk_chthonicalloy", "count" : 5 },
+    { "item" : "liquiddeuterium", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "atprk_fukrakothbattery",
+    "count" : 1
+  },
+  "groups" : [ "powerstation2", "battery", "all" ]
+}

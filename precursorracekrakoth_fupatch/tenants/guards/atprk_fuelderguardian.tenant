@@ -1,0 +1,26 @@
+{
+  "name": "atprk_fuelderguardian",
+  "priority": 15,
+
+  "colonyTagCriteria": {
+    "light": 1,
+    "door": 1,
+    "atprk_fuelderguard": 2
+  },
+
+  "tenants": [
+    {
+      "spawn": "npc",
+      "species": "shadow",
+      "level": 6,
+      "type": "atprk_fuelderguardian",
+      "overrides": {
+       }
+     }
+   ],
+
+  "rent": {
+    "periodRange": [900.0, 1800.0],
+    "pool": "villagerGift"
+  }
+}

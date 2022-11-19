@@ -1,0 +1,569 @@
+[
+	{
+		"op": "remove",
+		"path": "/planetTypes/atprk_boilingocean/layers/surface/baseHeight"
+	},
+	{
+		"op": "remove",
+		"path": "/planetTypes/atprk_boilingocean/layers/surface/layerLevel"
+	},
+    {
+      "op": "replace",
+      "path": "/regionTypes/atprk_boilingocean/oceanLiquid/0",
+      "value": "fusaltwater"
+    },
+    {
+      "op": "replace",
+      "path": "/regionTypes/atprk_boilingoceanfloor/oceanLiquid/0",
+      "value": "fusaltwater"
+    },
+    {
+      "op": "replace",
+      "path": "/regionTypes/atprk_sponge/oceanLiquid/0",
+      "value": "fusaltwater"
+    },
+    {
+      "op": "replace",
+      "path": "/regionTypes/atprk_navalminefield/oceanLiquid/0",
+      "value": "fusaltwater"
+    },
+
+{
+    "op" : "add",
+    "path" : "/planetTypes/shadow/layers/surface/secondaryRegions/-",
+    "value" : "atprk_ancientnecropolis"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/moon_shadow/layers/surface/secondaryRegions/-",
+    "value" : "atprk_ancientnecropolis"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/penumbra/layers/surface/secondaryRegions/-",
+    "value" : "atprk_ancientnecropolis"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/lightless/layers/surface/secondaryRegions/-",
+    "value" : "atprk_ancientnecropolis"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/ffunknown/layers/surface/secondaryRegions/-",
+    "value" : "atprk_ancientnecropolis"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/thickjungle/layers/surface/secondaryRegions/-",
+    "value" : "atprk_hungergrove"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/arboreal/layers/surface/secondaryRegions/-",
+    "value" : "atprk_hungergrove"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/arboreal2/layers/surface/secondaryRegions/-",
+    "value" : "atprk_hungergrove"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/arborealdark/layers/surface/secondaryRegions/-",
+    "value" : "atprk_hungergrove"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/protoworld/layers/surface/secondaryRegions/-",
+    "value" : "atprk_hungergrove"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/ffunknown/layers/surface/secondaryRegions/-",
+    "value" : "atprk_hungergrove"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/irradiated/layers/surface/secondaryRegions/-",
+    "value" : "atprk_radiotrophic"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/chromatic/layers/surface/secondaryRegions/-",
+    "value" : "atprk_radiotrophic"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/urbanwasteland/layers/surface/secondaryRegions/-",
+    "value" : "atprk_radiotrophic"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/protoworld/layers/surface/secondaryRegions/-",
+    "value" : "atprk_radiotrophic"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/protoworlddark/layers/surface/secondaryRegions/-",
+    "value" : "atprk_radiotrophic"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/ffunknown/layers/surface/secondaryRegions/-",
+    "value" : "atprk_radiotrophic"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/crystalmoon/layers/surface/secondaryRegions/-",
+    "value" : "atprk_glaciovolcanic"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/frozenvolcanic/layers/surface/secondaryRegions/-",
+    "value" : "atprk_glaciovolcanic"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/icewaste/layers/surface/secondaryRegions/-",
+    "value" : "atprk_glaciovolcanic"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/tundradark/layers/surface/secondaryRegions/-",
+    "value" : "atprk_glaciovolcanic"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/ffunknown/layers/surface/secondaryRegions/-",
+    "value" : "atprk_glaciovolcanic"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/urbanwasteland/layers/surface/secondaryRegions/-",
+    "value" : "atprk_polluted"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/superdense/layers/surface/secondaryRegions/-",
+    "value" : "atprk_polluted"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/tarball/layers/surface/secondaryRegions/-",
+    "value" : "atprk_polluted"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/desertwastesdark/layers/surface/secondaryRegions/-",
+    "value" : "atprk_polluted"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/ffunknown/layers/surface/secondaryRegions/-",
+    "value" : "atprk_polluted"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/urbanwasteland/layers/surface/secondaryRegions/-",
+    "value" : "atprk_shipgraveyard"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/sulphuric/layers/surface/secondaryRegions/-",
+    "value" : "atprk_shipgraveyard"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/mountainous/layers/surface/secondaryRegions/-",
+    "value" : "atprk_shipgraveyard"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/superdense/layers/surface/secondaryRegions/-",
+    "value" : "atprk_shipgraveyard"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/lightless/layers/surface/secondaryRegions/-",
+    "value" : "atprk_shipgraveyard"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/ffunknown/layers/surface/secondaryRegions/-",
+    "value" : "atprk_shipgraveyard"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/arboreal/layers/surface/secondaryRegions/-",
+    "value" : "atprk_amber"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/arboreal2/layers/surface/secondaryRegions/-",
+    "value" : "atprk_amber"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/fungus/layers/surface/secondaryRegions/-",
+    "value" : "atprk_amber"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/slimeworld/layers/surface/secondaryRegions/-",
+    "value" : "atprk_amber"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/tarball/layers/surface/secondaryRegions/-",
+    "value" : "atprk_amber"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/ffunknown/layers/surface/secondaryRegions/-",
+    "value" : "atprk_amber"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/crystalmoon/layers/surface/secondaryRegions/-",
+    "value" : "atprk_forgottenmountains"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/mountainous/layers/surface/secondaryRegions/-",
+    "value" : "atprk_forgottenmountains"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/penumbra/layers/surface/secondaryRegions/-",
+    "value" : "atprk_forgottenmountains"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/urbanwasteland/layers/surface/secondaryRegions/-",
+    "value" : "atprk_forgottenmountains"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/ffunknown/layers/surface/secondaryRegions/-",
+    "value" : "atprk_forgottenmountains"
+  },
+
+  {
+    "op" : "add",
+    "path" : "/planetTypes/desertwastes/layers/surface/dungeons/-",
+    "value" : [ 2.0, "atprk_glitchdevouttower" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/desertwastesdark/layers/surface/dungeons/-",
+    "value" : [ 3.0, "atprk_glitchdevouttower" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/crystalmoon/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_glitchdevouttower" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/mountainous/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_glitchdevouttower" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/protoworld/layers/surface/dungeons/-",
+    "value" : [ 0.5, "atprk_glitchdevouttower" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/protoworlddark/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_glitchdevouttower" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/snowdark/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_glitchdevouttower" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/tarball/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_glitchdevouttower" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/ffunknown/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_glitchdevouttower" ]
+  },
+
+  {
+    "op" : "add",
+    "path" : "/planetTypes/strangesea/layers/subsurface/dungeons/-",
+    "value" : [ 1.0, "atprk_krakothoceanruins" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/nitrogensea/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_krakothoceanruins" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/aethersea/layers/subsurface/dungeons/-",
+    "value" : [ 1.0, "atprk_krakothoceanruins" ]
+  },
+
+  {
+    "op" : "add",
+    "path" : "/planetTypes/penumbra/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_apexarea48" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/irradiated/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_apexarea48" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/icewaste/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_apexarea48" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/tundradark/layers/surface/dungeons/-",
+    "value" : [ 2.0, "atprk_apexarea48" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/snowdark/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_apexarea48" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/frozenvolcanic/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_apexarea48" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/sulphuric/layers/surface/dungeons/-",
+    "value" : [ 0.5, "atprk_apexarea48" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/sulphuricdark/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_apexarea48" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/ffunknown/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_apexarea48" ]
+  },
+
+  {
+    "op" : "add",
+    "path" : "/planetTypes/penumbra/layers/surface/dungeons/-",
+    "value" : [ 0.5, "atprk_krakothchurch" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/shadow/layers/surface/dungeons/-",
+    "value" : [ 2.0, "atprk_krakothchurch" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/moon_shadow/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_krakothchurch" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/lightless/layers/surface/dungeons/-",
+    "value" : [ 0.5, "atprk_krakothchurch" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/bloodstone/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_krakothchurch" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/infernus/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_krakothchurch" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/infernusdark/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_krakothchurch" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/sulphuricdark/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_krakothchurch" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/snowdark/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_krakothchurch" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/strangesea/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_krakothchurch" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/ffunknown/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_krakothchurch" ]
+  },
+
+  {
+    "op" : "add",
+    "path" : "/planetTypes/atropus/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_krakothlab" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/atropusdark/layers/surface/dungeons/-",
+    "value" : [ 0.5, "atprk_krakothlab" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/bloodstone/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_krakothlab" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/icewaste/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_krakothlab" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/icewastedark/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_krakothlab" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/frozenvolcanic/layers/surface/dungeons/-",
+    "value" : [ 2.0, "atprk_krakothlab" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/infernus/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_krakothlab" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/infernusdark/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_krakothlab" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/strangesea/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_krakothlab" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/ffunknown/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_krakothlab" ]
+  },
+
+  {
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/dungeons/-",
+    "value" : [ 2.0, "volcano" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/dungeons/-",
+    "value" : [ 1.0, "glitchjoust" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/dungeons/-",
+    "value" : [ 1.0, "glitchfarm" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/dungeons/-",
+    "value" : [ 1.0, "novakidoutlawcamp" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/dungeons/-",
+    "value" : [ 1.0, "humanapartments" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/dungeons/-",
+    "value" : [ 1.0, "humanbunker" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/dungeons/-",
+    "value" : [ 1.0, "fuscifidungeon" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/dungeons/-",
+    "value" : [ 1.0, "mantiziestate" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/dungeons/-",
+    "value" : [ 1.0, "shipwreck" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/dungeons/-",
+    "value" : [ 1.0, "weaponsfactory" ]
+  },
+
+{
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/secondaryRegions/-",
+    "value" : "badlands"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/secondaryRegions/-",
+    "value" : "ashgarden"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/secondaryRegions/-",
+    "value" : "crystalswamp"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/secondaryRegions/-",
+    "value" : "sulphuricmagma"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/secondaryRegions/-",
+    "value" : "sulphuricplain"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/secondaryRegions/-",
+    "value" : "irradiatedwaste"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/secondaryRegions/-",
+    "value" : "reddesert"
+  },
+{
+    "op" : "add",
+    "path" : "/planetTypes/atprk_ashworld/layers/surface/secondaryRegions/-",
+    "value" : "deadwood"
+  },
+
+  {
+    "op" : "add",
+    "path" : "/planetTypes/atprk_boilingocean/layers/subsurface/dungeons/-",
+    "value" : [ 1.0, "apexunderwaterlab" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypes/atprk_boilingocean/layers/subsurface/dungeons/-",
+    "value" : [ 0.5, "wreckunderwater" ]
+  }
+]

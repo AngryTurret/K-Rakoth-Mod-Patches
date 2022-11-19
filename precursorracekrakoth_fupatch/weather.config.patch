@@ -1,0 +1,108 @@
+[
+	{
+		"op":"add",
+		"path":"/atprk_boilingoceanfu1",
+		"value" : [
+			[0.15, "clear"],
+			[0.35, "rain"],
+			[0.15, "drizzle"],
+			[0.15, "mistyrain"],
+			[0.1, "storm"],
+			[0.1, "heavyrain"]
+		]
+	},
+	{
+		"op":"add",
+		"path":"/atprk_boilingoceanfu2",
+		"value" : [
+			[0.15, "clear"],
+			[0.45, "rain"],
+			[0.15, "heavyrain"],
+			[0.1, "fulightningrain"],
+			[0.1, "fulightningrain2"],
+			[0.05, "hurricaneelectric"]
+		]
+	},
+	{
+		"op":"add",
+		"path":"/atprk_boilingoceanfu3",
+		"value" : [
+			[0.15, "clear"],
+			[0.35, "rain"],
+			[0.25, "storm"],
+			[0.1, "windstorm"],
+			[0.1, "hurricane"],
+			[0.05, "hurricaneelectric"]
+		]
+	},
+	{
+		"op":"add",
+		"path":"/atprk_boilingoceanfu4",
+		"value" : [
+			[0.15, "clear"],
+			[0.4, "rain"],
+			[0.1, "drizzle"],
+			[0.1, "gravrainlight"],
+			[0.1, "gravrain"],
+			[0.1, "orangegravrainlight"],
+			[0.05, "orangegravrain"]
+		]
+	},
+	{
+		"op":"add",
+		"path":"/atprk_boilingoceanfu5",
+		"value" : [
+			[0.15, "clear"],
+			[0.35, "rain"],
+			[0.2, "drizzle"],
+			[0.1, "mistyrain"],
+			[0.1, "groundmist"],
+			[0.1, "fog"]
+		]
+	},
+	{
+		"op":"add",
+		"path":"/atprk_ashworldfu1",
+		"value" : [
+			[0.75, "clear"],
+			[0.20, "lightash"],
+			[0.06, "fuheatblast"],
+			[0.01, "glowingrain"]
+		]
+	},
+	{
+		"op":"add",
+		"path":"/atprk_ashworldfu2",
+		"value" : [
+			[0.20, "clear"],
+			[0.30, "lightash"],
+			[0.25, "fuheatblast"],
+			[0.03, "glowingrain"],
+			[0.01, "fuearthquakelesser"],
+			[0.01, "fuearthquake"]
+		]
+	},
+	{
+		"op":"add",
+		"path":"/atprk_ashworldfu3",
+		"value" : [
+			[0.10, "lightash"],
+			[0.20, "ashstorm"],
+			[0.25, "fuheatblast"],
+			[0.22, "duststorm"],
+			[0.20, "firestorm"],
+			[0.01, "ember"]
+		]
+	},
+	{
+		"op":"add",
+		"path":"/atprk_ashworldfu4",
+		"value" : [
+			[0.60, "clear"],
+			[0.10, "fuheatblast"],
+			[0.20, "lightash"],
+			[0.10, "ashstorm"],
+			[0.01, "ember"]
+		]
+	}
+]

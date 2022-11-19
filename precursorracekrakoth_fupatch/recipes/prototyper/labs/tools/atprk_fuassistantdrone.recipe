@@ -1,0 +1,14 @@
+{
+  "input" : [
+    { "item" : "atprk_chthonicalloy", "count" : 20 },
+    { "item" : "atprk_aeonbattery", "count" : 1 },
+    { "item" : "aichip", "count" : 2 },
+    { "item" : "advcircuit", "count" : 1 } 
+  ],
+  "output" : {
+    "item" : "atprk_fuassistantdrone",
+    "count" : 1
+  },
+  "duration" : 5,
+  "groups" : [ "prototyper3", "genetics", "all" ]
+}

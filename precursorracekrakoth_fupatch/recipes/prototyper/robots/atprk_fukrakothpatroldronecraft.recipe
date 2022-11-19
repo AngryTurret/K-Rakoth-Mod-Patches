@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "atprk_aeonbattery", "count" : 1 },
+    { "item" : "atprk_chthonicalloy", "count" : 6 },
+    { "item" : "laserdiode", "count" : 4 },
+    { "item" : "fuscienceresource", "count" : 1500 },
+    { "item" : "aichip", "count" : 1 }
+  ],
+  "output" : { "item" : "atprk_fukrakothpatroldronecraft", "count" : 1 },
+  "groups" : [ "prototyper3", "robot", "all" ]
+}
