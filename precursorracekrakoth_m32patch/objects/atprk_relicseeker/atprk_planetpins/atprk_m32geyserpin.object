@@ -10,11 +10,11 @@
   "price" : 150,
 
   "apexDescription" : "Due to incessant mist emitted by geysers and hot springs, visibility remains very low on hazy planets.",
-  "avianDescription" : "As long as you're well-protected, you may try to bathe in hot springs of hazy planets.",
+  "avianDescription" : "As long as you're well-protected, you may try to bathe in the hot springs of hazy planets.",
   "floranDescription" : "Hot watersss would be sssoothing if they didn't burn Floran's ssskin.",
-  "glitchDescription" : "Mystified. Many people were lost on hazy planets, and very few have managed to return from there.",
+  "glitchDescription" : "Mystified. Many people have gotten lost on hazy planets, and very few have managed to return from them.",
   "humanDescription" : "A pale pin of a hazy planet. Watch out for active geysers if you ever go there!",
-  "hylotlDescription" : "Normally hot springs are a welcome sight to behold. It's not exactly the case on hazy planets, however.",
+  "hylotlDescription" : "Normally hot springs are a welcome sight to behold. That's not exactly the case on hazy planets, however.",
   "novakidDescription" : "A whole darn planet shrouded in dense fog. It's waaay too easy t' get lost there...",
 
   "inventoryIcon" : "atprk_m32geyserpin.png",
