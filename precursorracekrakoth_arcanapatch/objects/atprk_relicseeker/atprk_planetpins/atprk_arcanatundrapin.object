@@ -9,13 +9,13 @@
   "printable" : false,
   "price" : 150,
 
-  "apexDescription" : "Due to frequent gravity anomalies, arcane tundras are of great interest for the Miniknog.",
-  "avianDescription" : "A bright pin of a magical arcane tundra. Frozen landscapes are a beautiful sight to behold.",
+  "apexDescription" : "Due to frequent gravity anomalies, arcane tundras are of great interest to the Miniknog.",
+  "avianDescription" : "A bright pin of a magical arcane tundra. The frozen landscapes are a beautiful sight to behold.",
   "floranDescription" : "Cold planet with magical ice! Floran findsss it interesssting.",
-  "glitchDescription" : "Worried. Arcane magic of such tundra planets interferes with weaponry and electronics. I hope it doesn't affect the Glitch as well.",
+  "glitchDescription" : "Worried. The arcane magic of such tundra planets interferes with weaponry and electronics. I hope it doesn't affect us Glitch as well.",
   "humanDescription" : "The picturesque terrain of arcane tundras attracts many tourists from across the galaxy. Maybe I should pay a visit as well.",
   "hylotlDescription" : "While too chill for most Hylotl, arcane tundras are definitely worth seeing.",
-  "novakidDescription" : "A chill arcane tundra. I've heard there's somethin' strange goin' on with power.",
+  "novakidDescription" : "A chill arcane tundra. I've heard there's somethin' strange goin' on with power on these.",
 
   "inventoryIcon" : "atprk_arcanatundrapin.png",
   "orientations" : [
