@@ -20,7 +20,7 @@
   "glitchDescription" : "Neutral. An ansible.",
   "humanDescription" : "A strangely-colored ansible.",
   "hylotlDescription" : "A mysterious ansible. Teleports you to a strange place.",
-  "novakidDescription" : "An strange-lookin' ansible.",
+  "novakidDescription" : "A strange-lookin' ansible.",
 
   "inventoryIcon" : "atprk_esannihilatorteleportersmallicon.png",
   "orientations" : [
