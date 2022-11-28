@@ -9,12 +9,12 @@
   "printable" : false,
   "price" : 150,
 
-  "apexDescription" : "A pin of a voltage planet. Voltage planets are hazardous because of electrically charged air.",
+  "apexDescription" : "A pin of a voltage planet. Voltage planets are hazardous because of their electrically charged air.",
   "avianDescription" : "A pin of a place where thunder bolts come to life. Voltage planets are no laughing matter!",
   "floranDescription" : "Floran really dislikesss voltage planetss. Lightning ssstrikes everywhere.",
   "glitchDescription" : "Worried. If I land on a voltage planet, I'll probably get overcharged in seconds.",
   "humanDescription" : "A shiny yet deadly voltage world. The very air there is electrically charged!",
-  "hylotlDescription" : "Voltage, a dangerously stormy planet where lightning comes to life.",
+  "hylotlDescription" : "A voltage planet, a dangerously stormy planet where lightning comes to life.",
   "novakidDescription" : "A pin o' some voltage planet. I wonder how many lightnin' rods you oughtta bring 'ere.",
 
   "inventoryIcon" : "atprk_extendedvoltagepin.png",
