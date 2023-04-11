@@ -1,3 +1,4 @@
 [
-{"op" : "add", "path" : "/planetTypes/atprk_ashworld/layers/surface/dungeons/-", "value" : [1.0, "r-USCMbunker"] }
+{"op" : "add", "path" : "/planetTypes/atprk_ashworld/layers/surface/dungeons/-", "value" : [1.0, "r-USCMbunker"] },
+{ "op": "add", "path": "/planetTypes/arctic/layers/subsurface/dungeons/-", "value": [ 1.0, "atprk_krakothoceanruins" ] }
 ]
