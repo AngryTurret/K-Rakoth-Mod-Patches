@@ -1,0 +1,24 @@
+{
+  "id" : "atprk_krakothcodexlapsus",
+  "title" : "Fallen Scavengers",
+  "description" : "A K'Rakothan overview of the Deadbeat race.",
+  "icon" : "atprk_krakothcodexlapsusicon.png",
+  "contentPages" : [
+  "Species 013: ^#68878e;The Scavengers^white;. 
+
+A sapient species of humanoids adapted to extreme heat. Under normal circumstances their skin tone ranges anywhere from gray to vibrant hues of blue. Moreover, most of them possess long horns, even though some individuals are known to dispose of them for practical purposes. As for their society, it is currently divided into many scattered factions fighting each other for resources.",
+
+"After years of research it has been concluded that the Scavengers are the last remnants of a star-spanning civilization. Most of its major population centers were located on planets orbiting fiery stars, as evidenced by extensive ruins on their surface. Attempts to retrofit them tend to have mixed results.",
+
+"What is also peculiar about the Scavengers' past civilization is its achievements in robotics and artificial intelligence development. Known samples of said technologies display a decent level of sophistication.
+
+Furthermore, it is a well-known fact that at least some of these samples were recovered by the Worms for engineering insights and scrap materials.",
+
+"Even though making the Scavengers into another servant race had been considered before, this idea was ultimately rejected due to the difficulties of dealing with their numerous factions and hostility to outsiders. Moreover, they do not seem to be able to replicate most of their old technologies which means that we would not gain any substantial benefits from their cooperation."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "legendary",
+    "price" : 50
+  }
+}

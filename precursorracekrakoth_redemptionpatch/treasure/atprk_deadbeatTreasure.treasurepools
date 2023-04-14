@@ -1,0 +1,18 @@
+{
+  "atprk_deadbeatTreasure" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.96, "pool" : "money"},
+        {"weight" : 0.01, "item" : [ "atprk_reportfragment1", 1]},
+        {"weight" : 0.01, "item" : [ "atprk_reportfragment2", 1]},
+        {"weight" : 0.01, "item" : [ "atprk_reportfragment3", 1]},
+        {"weight" : 0.01, "item" : [ "atprk_reportfragment4", 1]}
+      ]//,
+      //"poolRounds" : [
+        //[0.8, 0],
+        //[0.2, 1]
+      //],
+      //"allowDuplication" : false
+    }]
+  ]
+}

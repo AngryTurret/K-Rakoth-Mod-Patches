@@ -1,0 +1,9 @@
+[
+  {
+    "op": "add",
+    "path": "/dropPools",
+    "value": [
+      "atprk_deadbeatTreasure"
+    ]
+  }
+]

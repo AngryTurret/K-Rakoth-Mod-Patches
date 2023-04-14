@@ -19,7 +19,7 @@
  "avianDescription" : "There is something disturbing about creating a consciousness purely for the sake of a simulation experiment...",
  "floranDescription" : "Blue meatman ssstuck inside metal box, hah!",
  "glitchDescription" : "Intrigued. The internal architecture of this computer is similar to the design of a Glitch CPU.",
- "humanDescription" : "I’d feel pretty bad if I were a computer simulation like this guy is, but I guess ignorance is bliss.",
+ "humanDescription" : "I’d feel pretty bad if I were in a computer simulation like this guy is, but I guess ignorance is bliss.",
  "hylotlDescription" : "In a way I pity this Deadbeat, for they are unaware of what has befallen their kin.",
  "novakidDescription" : "Poor fella’s trapped in this ol’ computer and doesn’t even know it!",
 
@@ -33,9 +33,9 @@
       "flipImages" : true,
 
       "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ],
-      "collision" : "platform",
-      "collisionSpaces" : [ [-1,3], [0,3] ]
+      "anchors" : [ "bottom" ]
+      //"collision" : "platform",
+      //"collisionSpaces" : [ [-1,3], [0,3] ]
     },
     {
       "image" : "atprk_rewarddeadbeatcomputer.png:<color>.<frame>",
@@ -43,9 +43,9 @@
       "direction" : "right",
 
       "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ],
-      "collision" : "platform",
-      "collisionSpaces" : [ [-1,3], [0,3] ]
+      "anchors" : [ "bottom" ]
+      //"collision" : "platform",
+      //"collisionSpaces" : [ [-1,3], [0,3] ]
     }
   ],
 
