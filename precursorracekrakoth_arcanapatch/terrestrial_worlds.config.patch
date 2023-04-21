@@ -1,7 +1,7 @@
 [
 {
     "op" : "add",
-    "path" : "/planetTypes/arcana_solarized/layers/surface/secondaryRegions/-",
+    "path" : "/planetTypes/arcana_blistering/layers/surface/secondaryRegions/-",
     "value" : "atprk_ashworld"
   },
 {
@@ -57,18 +57,18 @@
   },
   {
     "op" : "add",
-    "path" : "/planetTypes/arcana_ferocious/layers/surface/dungeons/-",
+    "path" : "/planetTypes/arcana_stahlernBadlands/layers/surface/dungeons/-",
     "value" : [ 1.0, "atprk_glitchdevouttower" ]
   },
   {
     "op" : "add",
-    "path" : "/planetTypes/arcana_arcaneDesert/layers/surface/dungeons/-",
+    "path" : "/planetTypes/arcana_azureDesert/layers/surface/dungeons/-",
     "value" : [ 1.0, "atprk_glitchdevouttower" ]
   },
   {
     "op" : "add",
     "path" : "/planetTypes/arcana_illuminated/layers/surface/dungeons/-",
-    "value" : [ 2.0, "atprk_glitchdevouttower" ]
+    "value" : [ 1.0, "atprk_glitchdevouttower" ]
   },
 
   {
@@ -89,12 +89,12 @@
 
   {
     "op" : "add",
-    "path" : "/planetTypes/arcana_arcaneTundra/layers/surface/dungeons/-",
-    "value" : [ 2.0, "atprk_apexarea48" ]
+    "path" : "/planetTypes/arcana_desolate/layers/surface/dungeons/-",
+    "value" : [ 1.0, "atprk_apexarea48" ]
   },
   {
     "op" : "add",
-    "path" : "/planetTypes/arcana_ardentTaiga/layers/surface/dungeons/-",
+    "path" : "/planetTypes/arcana_superstormExpanse/layers/surface/dungeons/-",
     "value" : [ 1.0, "atprk_apexarea48" ]
   },
   {
@@ -116,12 +116,12 @@
   {
     "op" : "add",
     "path" : "/planetTypes/arcana_desolate/layers/surface/dungeons/-",
-    "value" : [ 2.0, "atprk_krakothchurch" ]
+    "value" : [ 1.0, "atprk_krakothchurch" ]
   },
   {
     "op" : "add",
     "path" : "/planetTypes/arcana_animus/layers/surface/dungeons/-",
-    "value" : [ 2.0, "atprk_krakothchurch" ]
+    "value" : [ 1.5, "atprk_krakothchurch" ]
   },
   {
     "op" : "add",
@@ -142,16 +142,16 @@
   {
     "op" : "add",
     "path" : "/planetTypes/arcana_solarized/layers/surface/dungeons/-",
-    "value" : [ 2.0, "atprk_krakothlab" ]
+    "value" : [ 1.0, "atprk_krakothlab" ]
   },
   {
     "op" : "add",
     "path" : "/planetTypes/arcana_superstormExpanse/layers/surface/dungeons/-",
-    "value" : [ 2.0, "atprk_krakothlab" ]
+    "value" : [ 1.5, "atprk_krakothlab" ]
   },
   {
     "op" : "add",
-    "path" : "/planetTypes/arcana_arcaneDesert/layers/surface/dungeons/-",
+    "path" : "/planetTypes/arcana_azureDesert/layers/surface/dungeons/-",
     "value" : [ 1.0, "atprk_krakothlab" ]
   },
   {
