@@ -17,6 +17,10 @@
   "hylotlDescription" : "According to legends, the ever-shifting animus planets are inhabited by hordes of restless spirits.",
   "novakidDescription" : "What's this, an anime planet?... Hol' up, I think I got it wrong.",
 
+  "atprk_anneliskDescription" : "If anything, anima shards can only be mined on those mysterious animus planets.",
+  "atprk_fenronDescription" : "The surface of animus planets reminds me of exposed flesh. It doesn't bother me too much though.",
+  "atprk_noolithDescription" : "Animus lands may be haunted by otherworldly beings but it doesn't make them any less attractive.",
+
   "inventoryIcon" : "atprk_arcanaanimuspin.png",
   "orientations" : [
     {

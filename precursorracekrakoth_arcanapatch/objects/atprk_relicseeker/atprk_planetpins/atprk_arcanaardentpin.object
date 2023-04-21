@@ -17,6 +17,10 @@
   "hylotlDescription" : "A vibrant pin of an eccentric ardent taiga filled with ancient mechanisms and borealite deposits.",
   "novakidDescription" : "Ah yes, an ardent taiga planet. A perfect place t' mine borealite!",
 
+  "atprk_anneliskDescription" : "A pin of a borealite-rich ardent taiga. This place is also full of scrap metal for whatever reason.",
+  "atprk_fenronDescription" : "There certainly used to be a civilization living in argent taigas. How else do I explain the ruins?",
+  "atprk_noolithDescription" : "Why is there so much blue wood on ardent taiga planets? It doesn't even seem to form trees.",
+
   "inventoryIcon" : "atprk_arcanaardentpin.png",
   "orientations" : [
     {

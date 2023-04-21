@@ -1,0 +1,38 @@
+{
+  "objectName" : "atprk_arcanaruinouspin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of a ruinous planet.",
+  "shortdescription" : "Ruinous Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "A dark pin of a ruinous planet. Just looking at it makes me sick.",
+  "avianDescription" : "Those Horizon troops must be very dedicated to their creed if they're so willing to settle these nightmarish planets.",
+  "floranDescription" : "Ruinousss world consssumed by ssome evil forces. Floran isss worried.",
+  "glitchDescription" : "Frightened. What witchcraft is this even?! Can anything save these worlds from corruption?",
+  "humanDescription" : "The Horizon forces seem to be the only people who willingly explore ruinous planets. Do they know something about them we don't?",
+  "hylotlDescription" : "Words cannot even begin to describe how fundamentally wrong the ruinous planets are.",
+  "novakidDescription" : "This planet here is always ravaged by cosmic forces. Gotta stay away from it unless I need somethin'.",
+
+  "atprk_anneliskDescription" : "Does anyone want to talk about, I dunno, SOME HUGE PILLARS BURSTING OUT OF THOSE DAMNED PLANETS?!?",
+  "atprk_fenronDescription" : "This is somehow even worse than desolate lands. Is this what they eventually turn into?",
+  "atprk_noolithDescription" : "This ruinous planet is beyond salvation. Only death awaits there.",
+
+  "inventoryIcon" : "atprk_arcanaruinouspin.png",
+  "orientations" : [
+    {
+      "dualImage" : "atprk_arcanaruinouspin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

@@ -17,6 +17,10 @@
   "hylotlDescription" : "The lush highlands of windswept worlds make great spots for recreational activities.",
   "novakidDescription" : "It must be pretty irritatin' to run after your hat every time it gets caught by strong wind.",
 
+  "atprk_anneliskDescription" : "Whatever Avians find so special about windswept planets doesn't impress me all too much.",
+  "atprk_fenronDescription" : "Windstorms pose a challenge while exploring this planet but that's exactly where its charm comes from.",
+  "atprk_noolithDescription" : "While seemingly serene, those grassy highlands don't welcome naivity.",
+
   "inventoryIcon" : "atprk_arcanawindsweptpin.png",
   "orientations" : [
     {

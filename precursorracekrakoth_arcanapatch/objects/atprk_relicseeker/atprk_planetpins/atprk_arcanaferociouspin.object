@@ -17,6 +17,10 @@
   "hylotlDescription" : "A ferocious planet, it seems. You will never find a more wretched hive of scum and villainy.",
   "novakidDescription" : "On ferocious planets, folks ain't got no time nor will to listen to law 'n order.",
 
+  "atprk_anneliskDescription" : "If you need to find something illegal, go to a ferocious planet. There should be at least one black market.",
+  "atprk_fenronDescription" : "Only those asking for trouble settle in ferocious wastelands. They belong to bandits.",
+  "atprk_noolithDescription" : "No law, no order, no civility. In other words, ferocious planets are not worth my time.",
+
   "inventoryIcon" : "atprk_arcanaferociouspin.png",
   "orientations" : [
     {

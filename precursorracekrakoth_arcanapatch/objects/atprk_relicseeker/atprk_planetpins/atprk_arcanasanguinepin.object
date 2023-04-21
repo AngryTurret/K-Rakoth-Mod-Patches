@@ -17,6 +17,10 @@
   "hylotlDescription" : "Sanguine planets are nearly the only places where avostone can be found in abundance.",
   "novakidDescription" : "A pretty wild sanguine planet. It's better t' look out for wild beasts when you're out there on your own.",
 
+  "atprk_anneliskDescription" : "A sanguine planet, right? So this is where Avians keep getting their avolite from!",
+  "atprk_fenronDescription" : "There is something nostalgic about sanguine jungles. I wonder if Kohria looked the same.",
+  "atprk_noolithDescription" : "Many Nooliths sought sanguine lands for their rich avostone crystals. A lot could be done with them.",
+
   "inventoryIcon" : "atprk_arcanasanguinepin.png",
   "orientations" : [
     {

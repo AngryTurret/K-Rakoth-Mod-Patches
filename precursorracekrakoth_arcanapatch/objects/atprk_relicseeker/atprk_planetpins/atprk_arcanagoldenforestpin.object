@@ -17,6 +17,10 @@
   "hylotlDescription" : "A shiny pin of a peaceful golden forest planet. Its only downside I can think of is the extreme radiance.",
   "novakidDescription" : "A forest o' gold. Rumors say if you stay 'ere for too long, you develop atla-gold rush.",
 
+  "atprk_anneliskDescription" : "Sweet, a golden forest! There I can grab as much atla-gold as I want! And no one can stop me!",
+  "atprk_fenronDescription" : "If there are forests of gold, are there also forests of silver and bronze anywhere?",
+  "atprk_noolithDescription" : "A magical golden forest. Some speculate that local trees get their vibrant color from atla-gold itself.",
+
   "inventoryIcon" : "atprk_arcanagoldenforestpin.png",
   "orientations" : [
     {
