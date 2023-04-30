@@ -22,5 +22,13 @@
 			"item": { "name" : "pfat_darkgardenpin" },
 			"prerequisiteQuest" : "pf_astralstory5"
 		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "pfat_halfmoonpin" },
+			"prerequisiteQuest" : "pf_astralstory5"
+		}
 	}
 ]

@@ -1,0 +1,38 @@
+{
+  "objectName" : "pfat_artificialpin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of an artificial planet.",
+  "shortdescription" : "Artificial Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "An entirely artificial, planet-sized megastructure orbiting a black hole.",
+  "avianDescription" : "How many materials does one need to construct such a colossal artificial planet?",
+  "floranDescription" : "Artificial planetsss made by ancient beingsss. These have many, many metalsss.",
+  "glitchDescription" : "Speechless. How... how is this artificial world even possible?...",
+  "humanDescription" : "It's no moon, it's a dreadful artificial planet! I hope at least it doesn't fire deadly lasers.",
+  "hylotlDescription" : "Artificial worlds are colossal megastructures of incredible complexity and resilience. I wonder how they were built.",
+  "novakidDescription" : "Now that's somethin' new! An entirely artificial planet, just think 'bout it!",
+
+  "atprk_anneliskDescription" : "What makes a man build an artificial world? Lust for gold? Power? A heart full of spite?",
+  "atprk_fenronDescription" : "I've never thought that even planets could be artificial. How long does it take to build one?",
+  "atprk_noolithDescription" : "Some of the Ancients were more materialistic than the rest. The artificial worlds were their legacy.",
+
+  "inventoryIcon" : "pfat_artificialpin.png",
+  "orientations" : [
+    {
+      "dualImage" : "pfat_artificialpin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}
