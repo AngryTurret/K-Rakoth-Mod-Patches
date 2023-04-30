@@ -1,0 +1,30 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+        "select" : 2,
+        "pool" : [ 
+          [ 0.1, "atprk_erchiusspook" ],
+          [ 0.1, "atprk_shapelessdwellernight" ]
+        ]
+      }
+},
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+        "select" : 1,
+        "pool" : [ 
+          [ 0.1, "atprk_erchiuswhispercritter" ]
+        ]
+      }
+},
+{"op" : "add", "path" : "/surfacePlaceables/items/-", "value" : {
+  "mode" : "floor",
+  "priority" : 1,
+  "variants" : 1,
+  "distribution" : "/biomes/distributions.config:veryRare",
+
+  "type" : "microdungeon",
+  "microdungeons" : [ "atprk_shapelessdwellings" ]
+  }
+}
+]
+

@@ -1,0 +1,119 @@
+[
+  // ------- Cosmic -------
+  {
+    "op": "add",
+      "path": "/atprk_planetpincomment_ancientcosmoscosmic1",
+      "value": {
+        "type" : "tutorial",
+        "text" : "Baffled. I don't get it. How are those ^#571cff;\"cosmic\"^white; planets even possible? With all those miniature stars dotting the surface, and liquid void...",
+    "senderName" : "Starklance",
+    "portraitImage" : "/interface/chatbubbles/atprk_starcartographerchat.png:<frame>"
+      }
+  },
+  {
+    "op": "add",
+      "path": "/atprk_planetpincomment_ancientcosmoscosmic2",
+      "value": {
+        "type" : "tutorial",
+        "text" : "Yeah, I fell you on that one. They may look wonderful up close but... You just can't help feelin' there's somethin' off.",
+    "senderName" : "Libra Eclipse",
+    "portraitImage" : "/interface/chatbubbles/atprk_librachat.png:<frame>"
+      }
+  },
+  {
+    "op": "add",
+      "path": "/atprk_planetpincomment_ancientcosmoscosmic3",
+      "value": {
+        "type" : "tutorial",
+        "text" : "Insistent. Now that you agree with me, don't even ask me to bring the Syllectis there. I'm not letting our ship anywhere near black holes.",
+    "senderName" : "Starklance",
+    "portraitImage" : "/interface/chatbubbles/atprk_starcartographerchat.png:<frame>"
+      }
+  },
+  {
+    "op": "add",
+      "path": "/atprk_planetpincomment_ancientcosmoscosmic4",
+      "value": {
+        "type" : "tutorial",
+        "text" : "Oh well, guess I'll have to send in some scoutin' parties instead. Hopefully Penguins don't mind unexplained phenomena.",
+    "senderName" : "Libra Eclipse",
+    "portraitImage" : "/interface/chatbubbles/atprk_librachat.png:<frame>"
+      }
+  },
+
+  // ------- Artificial -------
+  {
+    "op": "add",
+      "path": "/atprk_planetpincomment_ancientcosmosartificial1",
+      "value": {
+        "type" : "tutorial",
+        "text" : "Surprised. So you mean to tell me that those celestial bodies are entirely ^#b6b6b6;artificial^white;? Now this is something!",
+    "senderName" : "Starklance",
+    "portraitImage" : "/interface/chatbubbles/atprk_starcartographerchat.png:<frame>"
+      }
+  },
+  {
+    "op": "add",
+      "path": "/atprk_planetpincomment_ancientcosmosartificial2",
+      "value": {
+        "type" : "tutorial",
+        "text" : "Intrigued. One can only guess how many resources were spent on just a single structure like this, and there are dozens of them!",
+    "senderName" : "Starklance",
+    "portraitImage" : "/interface/chatbubbles/atprk_starcartographerchat.png:<frame>"
+      }
+  },
+  {
+    "op": "add",
+      "path": "/atprk_planetpincomment_ancientcosmosartificial3",
+      "value": {
+        "type" : "tutorial",
+        "text" : "Now that I think about it, this MIGHT explain why barren planet have little to no metals.",
+    "senderName" : "Libra Eclipse",
+    "portraitImage" : "/interface/chatbubbles/atprk_librachat.png:<frame>"
+      }
+  },
+
+  // ------- Corrupt Garden -------
+  {
+    "op": "add",
+      "path": "/atprk_planetpincomment_ancientcosmosdarkgarden1",
+      "value": {
+        "type" : "tutorial",
+        "text" : "Curious. Admittedly, I've never considered that lush planets could possibly resist the pull of black holes.",
+    "senderName" : "Starklance",
+    "portraitImage" : "/interface/chatbubbles/atprk_starcartographerchat.png:<frame>"
+      }
+  },
+  {
+    "op": "add",
+      "path": "/atprk_planetpincomment_ancientcosmosdarkgarden2",
+      "value": {
+        "type" : "tutorial",
+        "text" : "Confident. That being said, I'm sure this must come at the price of being ^#547800;corrupted^white; by cosmic influences.",
+    "senderName" : "Starklance",
+    "portraitImage" : "/interface/chatbubbles/atprk_starcartographerchat.png:<frame>"
+      }
+  },
+
+  // ------- Half-Moon -------
+  {
+    "op": "add",
+      "path": "/atprk_planetpincomment_ancientcosmoshalfmoon1",
+      "value": {
+        "type" : "tutorial",
+        "text" : "Thrilled. Given the overlap of cosmic and erchius energies, the environment of those ^#8c6a90;half-moons^white; must be exotic.",
+    "senderName" : "Starklance",
+    "portraitImage" : "/interface/chatbubbles/atprk_starcartographerchat.png:<frame>"
+      }
+  },
+  {
+    "op": "add",
+      "path": "/atprk_planetpincomment_ancientcosmoshalfmoon2",
+      "value": {
+        "type" : "tutorial",
+        "text" : "Unnerved. So exotic that even erchius entities seem to stay away from there...",
+    "senderName" : "Starklance",
+    "portraitImage" : "/interface/chatbubbles/atprk_starcartographerdeadserious.png:<frame>"
+      }
+  }
+]

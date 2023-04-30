@@ -1,0 +1,10 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+        "select" : 1,
+        "pool" : [ 
+          [ 0.1, "atprk_xenoprobeasteroid" ]
+        ]
+      }
+}
+]
