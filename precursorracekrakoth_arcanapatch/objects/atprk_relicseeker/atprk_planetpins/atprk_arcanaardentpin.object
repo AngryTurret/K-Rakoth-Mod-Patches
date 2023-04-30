@@ -1,0 +1,38 @@
+{
+  "objectName" : "atprk_arcanaardentpin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of an ardent taiga planet.",
+  "shortdescription" : "Ardent Taiga Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "Littered with ice shards and broken mechanisms, ardent taigas are rich in borealite ore.",
+  "avianDescription" : "I've heard the ruins on ardent taiga planets tend to attract scavengers. I should be careful when I venture there.",
+  "floranDescription" : "Odd taiga planetsss full of russsty thingss and borealite ore.",
+  "glitchDescription" : "Analytical. Borealite ore is abundant on ardent taiga planets. Using it, I can craft something useful.",
+  "humanDescription" : "Where're all those strange mechanisms coming from? Does someone just dump them on taiga planets or something?",
+  "hylotlDescription" : "A vibrant pin of an eccentric ardent taiga filled with ancient mechanisms and borealite deposits.",
+  "novakidDescription" : "Ah yes, an ardent taiga planet. A perfect place t' mine borealite!",
+
+  "atprk_anneliskDescription" : "A pin of a borealite-rich ardent taiga. This place is also full of scrap metal for whatever reason.",
+  "atprk_fenronDescription" : "There certainly used to be a civilization living in argent taigas. How else do I explain the ruins?",
+  "atprk_noolithDescription" : "Why is there so much blue wood on ardent taiga planets? It doesn't even seem to form trees.",
+
+  "inventoryIcon" : "atprk_arcanaardentpin.png",
+  "orientations" : [
+    {
+      "dualImage" : "atprk_arcanaardentpin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

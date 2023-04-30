@@ -1,0 +1,38 @@
+{
+  "objectName" : "atprk_arcanaarcanepin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of an arcane planet.",
+  "shortdescription" : "Arcane Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "An arcane planet known for its biodiversity.",
+  "avianDescription" : "It's well-known that the denizens of arcane planets have mastered the art of building treehouses.",
+  "floranDescription" : "Arcane foressst. Trees are ssso big Floranss can build houssses in them.",
+  "glitchDescription" : "Cordial. Staying in an arcane treetop village must feel refreshing after long space travels.",
+  "humanDescription" : "The climatic diversity of arcane worlds makes me miss Earth. It was precious...",
+  "hylotlDescription" : "If it weren't for the constant energy drain, arcane planets would be ideal to settle on.",
+  "novakidDescription" : "This arcane planet has everythin': forests, deserts, tundras... sudden blackouts due to crazy magic...",
+
+  "atprk_anneliskDescription" : "Any way to tone down that arcane energy thing? My tech barely works because of it!",
+  "atprk_fenronDescription" : "Arcane planets are so diverse! Whatever direction you go, there're always new places to discover.",
+  "atprk_noolithDescription" : "A forest planet that radiates arcane energy. It may interfere with technology sometimes.",
+
+  "inventoryIcon" : "atprk_arcanaarcanepin.png",
+  "orientations" : [
+    {
+      "dualImage" : "atprk_arcanaarcanepin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

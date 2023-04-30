@@ -1,0 +1,38 @@
+{
+  "objectName" : "atprk_arcanaverdantpin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of a verdant planet.",
+  "shortdescription" : "Verdant Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "The verdant ruins are a reliable source of florastone.",
+  "avianDescription" : "Rumors speak of vast florastone temples guarded by poisonous monsters. If they're true, then it's worth investigating verdant planets.",
+  "floranDescription" : "Old Floran ruinsss mussst be hidden sssomewhere on thiss green planet.",
+  "glitchDescription" : "Interested. How old are the verdant ruins, anyways? It's hard to tell because of the overgrowth.",
+  "humanDescription" : "Quite a verdant pin, that's certain.",
+  "hylotlDescription" : "Yet another verdant realm of untamed wildlife. It is teeming with venomous fauna.",
+  "novakidDescription" : "A magical jungle o' sorts. There're many scattered ruins.",
+
+  "atprk_anneliskDescription" : "Another forest planet, this time with florastone. Hooray, I guess.",
+  "atprk_fenronDescription" : "It's often said that verdant planets are a great starting point for young hunters.",
+  "atprk_noolithDescription" : "A lot of space pirates scout verdant planets in the hope of finding Floran treasures.",
+
+  "inventoryIcon" : "atprk_arcanaverdantpin.png",
+  "orientations" : [
+    {
+      "dualImage" : "atprk_arcanaverdantpin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

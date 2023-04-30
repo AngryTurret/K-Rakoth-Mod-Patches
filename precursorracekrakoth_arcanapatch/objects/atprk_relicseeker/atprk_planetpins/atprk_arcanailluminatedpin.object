@@ -1,0 +1,38 @@
+{
+  "objectName" : "atprk_arcanailluminatedpin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of an illuminated planet.",
+  "shortdescription" : "Illuminated Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "An unusually illuminated planet devoid of distinct features and color. How strange...",
+  "avianDescription" : "An unknown civilization used to live on illuminated worlds. Whatever had happened to those people, they no longer exist.",
+  "floranDescription" : "Illuminated planetsss are very boring. Everything isss pale and lookss the sssame to Floran.",
+  "glitchDescription" : "Unsettled. There is something otherworldly about the light that illuminates those pale realms.",
+  "humanDescription" : "A pure white decorative plate, I guess... Oh wait, it's an illuminated planet pin.",
+  "hylotlDescription" : "Whoever inhabited those illuminated planets had quite a refined taste in architecture. It is unfortunate we know nothing about them.",
+  "novakidDescription" : "A pale, seemingly dead illuminated land. Kinda uncanny, y'know.",
+
+  "atprk_anneliskDescription" : "A painfully monotonous planet illuminated by a pale star. It desperately needs more color.",
+  "atprk_fenronDescription" : "Have illuminated planets always looked so ghostly? I don't feel like their radiance is natural.",
+  "atprk_noolithDescription" : "Strangely enough, I don't recall any particular civilization living on illuminated worlds.",
+
+  "inventoryIcon" : "atprk_arcanailluminatedpin.png",
+  "orientations" : [
+    {
+      "dualImage" : "atprk_arcanailluminatedpin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

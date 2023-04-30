@@ -1,0 +1,38 @@
+{
+  "objectName" : "atprk_arcanaturbulentpin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of a turbulent planet.",
+  "shortdescription" : "Turbulent Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "A planet of turbulent seas where I can easily mine pink aquamarine.",
+  "avianDescription" : "A pin of a turbulent sea. This is where precious pink crystals are harvested.",
+  "floranDescription" : "Hossstile sssea with pink islandss.",
+  "glitchDescription" : "Adventurous. There is so much pink aquamarine to take! I might need another locker.",
+  "humanDescription" : "I seriously thought the turbulent seas were a lot deeper. Oh well.",
+  "hylotlDescription" : "Turbulent planets are seldom colonized by anyone due to their uneven terrain.",
+  "novakidDescription" : "The only place 'round the galaxy where pink aquamarine can be found.",
+
+  "atprk_anneliskDescription" : "If it weren't for precious pink aquamarine crystals, no one would care about turbulent planets.",
+  "atprk_fenronDescription" : "Why doesn't anyone live on turbulent planets? Is there something horrible lurking in the water?",
+  "atprk_noolithDescription" : "A turbulent sea dotted with pink rocky islands.",
+
+  "inventoryIcon" : "atprk_arcanaturbulentpin.png",
+  "orientations" : [
+    {
+      "dualImage" : "atprk_arcanaturbulentpin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

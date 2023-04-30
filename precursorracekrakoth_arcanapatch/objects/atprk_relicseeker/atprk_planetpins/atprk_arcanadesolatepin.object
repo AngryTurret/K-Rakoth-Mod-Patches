@@ -1,0 +1,38 @@
+{
+  "objectName" : "atprk_arcanadesolatepin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of a desolate planet.",
+  "shortdescription" : "Desolate Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "A vibrant purple pin of a disconcertingly desolate planet.",
+  "avianDescription" : "A desolate planet indeed. If you're ready to face the darkness itself, you can mine necroium there.",
+  "floranDescription" : "Very ssscary desolate planet... Sssomething ssstrange iss going on there!",
+  "glitchDescription" : "Fearful. What kind of a cosmic force causes planets to turn so desolate?...",
+  "humanDescription" : "A pin of a dark, desolate planet. It's constantly ravaged by ruinous storms and corruption.",
+  "hylotlDescription" : "Some unimaginably malicious force corrupts these planets, turning them desolate. If only there was an ultimate way to stop it.",
+  "novakidDescription" : "The heck's goin' on on these desolate planets? Darkness, floatin' rocks, armed crooks...",
+
+  "atprk_anneliskDescription" : "I don't understand what's happening with desolate planets and I'm not sure if I want to find out.",
+  "atprk_fenronDescription" : "A pin of a desolate place. It seemingly erases the line between the land and the sky.",
+  "atprk_noolithDescription" : "Is this what the Universe will look like should the World Horizon be summoned?",
+
+  "inventoryIcon" : "atprk_arcanadesolatepin.png",
+  "orientations" : [
+    {
+      "dualImage" : "atprk_arcanadesolatepin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

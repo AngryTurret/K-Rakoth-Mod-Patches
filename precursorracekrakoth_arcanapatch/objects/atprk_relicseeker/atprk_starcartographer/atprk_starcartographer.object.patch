@@ -1,18 +1,52 @@
 [
 	{
 		"op": "add",
+		"path": "/offeredQuests/-",
+		"value": "atprk_arcanastarmapquest"
+	},
+	{
+		"op": "add",
+		"path": "/turnInQuests/-",
+		"value": "atprk_arcanastarmapquest"
+	},
+	{
+		"op": "add",
 		"path": "/interactData/items/-",
 		"value": {
-			"item": { "name" : "atprk_arcanablisteringpin" },
-			"prerequisiteQuest" : "hylotl_mission1"
+			"item": { "name" : "atprk_arcanaarcanepin" },
+			"prerequisiteQuest" : "arcana_quests_gushenAntique_1"
 		}
 	},
 	{
 		"op": "add",
 		"path": "/interactData/items/-",
 		"value": {
-			"item": { "name" : "atprk_arcanatundrapin" },
-			"prerequisiteQuest" : "avian_mission1"
+			"item": { "name" : "atprk_arcanablisteringpin" },
+			"prerequisiteQuest" : "arcana_quests_gushenAntique_1"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_arcanaarcaneseapin" },
+			"prerequisiteQuest" : "arcana_quests_gushenAntique_1"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_arcanaturbulentpin" },
+			"prerequisiteQuest" : "arcana_quests_gushenAntique_1"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_arcanaverdantpin" },
+			"prerequisiteQuest" : "arcana_quests_gushenAntique_1"
 		}
 	},
 	{
@@ -20,7 +54,7 @@
 		"path": "/interactData/items/-",
 		"value": {
 			"item": { "name" : "atprk_arcanawindsweptpin" },
-			"prerequisiteQuest" : "avian_mission1"
+			"prerequisiteQuest" : "arcana_quests_gushenAntique_1"
 		}
 	},
 	{
@@ -28,15 +62,7 @@
 		"path": "/interactData/items/-",
 		"value": {
 			"item": { "name" : "atprk_arcanaanimuspin" },
-			"prerequisiteQuest" : "apex_mission1"
-		}
-	},
-	{
-		"op": "add",
-		"path": "/interactData/items/-",
-		"value": {
-			"item": { "name" : "atprk_arcanaardentpin" },
-			"prerequisiteQuest" : "apex_mission1"
+			"prerequisiteQuest" : "arcana_quests_gushenAntique_2"
 		}
 	},
 	{
@@ -44,7 +70,7 @@
 		"path": "/interactData/items/-",
 		"value": {
 			"item": { "name" : "atprk_arcanadesolatepin" },
-			"prerequisiteQuest" : "apex_mission1"
+			"prerequisiteQuest" : "arcana_quests_gushenAntique_2"
 		}
 	},
 	{
@@ -52,23 +78,7 @@
 		"path": "/interactData/items/-",
 		"value": {
 			"item": { "name" : "atprk_arcanaevoaquaticpin" },
-			"prerequisiteQuest" : "apex_mission1"
-		}
-	},
-	{
-		"op": "add",
-		"path": "/interactData/items/-",
-		"value": {
-			"item": { "name" : "atprk_arcanaferociouspin" },
-			"prerequisiteQuest" : "apex_mission1"
-		}
-	},
-	{
-		"op": "add",
-		"path": "/interactData/items/-",
-		"value": {
-			"item": { "name" : "atprk_arcanagoldenforestpin" },
-			"prerequisiteQuest" : "apex_mission1"
+			"prerequisiteQuest" : "arcana_quests_gushenAntique_2"
 		}
 	},
 	{
@@ -76,7 +86,39 @@
 		"path": "/interactData/items/-",
 		"value": {
 			"item": { "name" : "atprk_arcanailluminatedpin" },
-			"prerequisiteQuest" : "apex_mission1"
+			"prerequisiteQuest" : "arcana_quests_gushenAntique_2"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_arcanatundrapin" },
+			"prerequisiteQuest" : "atprk_arcanastarmapquest"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_arcanaardentpin" },
+			"prerequisiteQuest" : "atprk_arcanastarmapquest"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_arcanaferociouspin" },
+			"prerequisiteQuest" : "atprk_arcanastarmapquest"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_arcanagoldenforestpin" },
+			"prerequisiteQuest" : "atprk_arcanastarmapquest"
 		}
 	},
 	{
@@ -84,7 +126,7 @@
 		"path": "/interactData/items/-",
 		"value": {
 			"item": { "name" : "atprk_arcanasanguinepin" },
-			"prerequisiteQuest" : "apex_mission1"
+			"prerequisiteQuest" : "atprk_arcanastarmapquest"
 		}
 	}
 ]
