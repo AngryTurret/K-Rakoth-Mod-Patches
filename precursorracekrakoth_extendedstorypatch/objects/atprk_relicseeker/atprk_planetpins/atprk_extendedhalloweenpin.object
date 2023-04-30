@@ -1,0 +1,38 @@
+{
+  "objectName" : "atprk_extendedhalloweenpin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of a Halloween planet.",
+  "shortdescription" : "Halloween Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "This one does not even make sense.",
+  "avianDescription" : "A whole planet dedicated to a traditional Human celebration? Now I've seen everything!",
+  "floranDescription" : "Halloween planet of pumpkinsss and ssspooky ghostss.",
+  "glitchDescription" : "Humble. A planet of endless Halloween, orange as a fresh pumpkin.",
+  "humanDescription" : "No way! Halloween planets are too spooky for me!",
+  "hylotlDescription" : "A pin of an orange world blessed by Halloween spirits.",
+  "novakidDescription" : "No clue what this Halloween Humans keep talkin' about is, but they might like this planet.",
+
+  "atprk_anneliskDescription" : "A Halloween planet? Maybe I should build a shop there before October starts!",
+  "atprk_fenronDescription" : "I don't know much about Halloween. I remember it involves some candy-gathering ritual.",
+  "atprk_noolithDescription" : "An orange planet associated with some kind of a Human celebration, I guess.",
+
+  "inventoryIcon" : "atprk_extendedhalloweenpin.png",
+  "orientations" : [
+    {
+      "dualImage" : "atprk_extendedhalloweenpin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

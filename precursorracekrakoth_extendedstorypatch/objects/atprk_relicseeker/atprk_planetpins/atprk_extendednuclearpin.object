@@ -1,0 +1,38 @@
+{
+  "objectName" : "atprk_extendednuclearpin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of a nuclear waste planet.",
+  "shortdescription" : "Nuclear Waste Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "A pin of a nuclear wasteland planet. A conventional EPP will not save you from its overwhelming radiation.",
+  "avianDescription" : "A nuclear wasteland full of mutated plants and beasts adapted to extreme doses of radiation.",
+  "floranDescription" : "Nuclear wasteland'ss green isss not good green. It meansss certain death.",
+  "glitchDescription" : "Disgusted. Is there a pin of a junkyard planet, too?",
+  "humanDescription" : "A pin of a nuclear wasteland. I can't imagine how much toxic waste was dumped there.",
+  "hylotlDescription" : "The very existence of planets covered in nuclear waste is a blatant affront to nature. We must do something about them.",
+  "novakidDescription" : "A huge nuclear waste planet glowin' sick green. I'll kick the bucket 'ere unless I have enough protection.",
+
+  "atprk_anneliskDescription" : "Sweet bankruptcy, where does all of that waste even come from to make a whole planet?",
+  "atprk_fenronDescription" : "Landing in a nuclear wasteland sounds like a one-way trip. And not the one worth taking.",
+  "atprk_noolithDescription" : "The radiation of nuclear wastelands is so immense it can erode my vessel.",
+
+  "inventoryIcon" : "atprk_extendednuclearpin.png",
+  "orientations" : [
+    {
+      "dualImage" : "atprk_extendednuclearpin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

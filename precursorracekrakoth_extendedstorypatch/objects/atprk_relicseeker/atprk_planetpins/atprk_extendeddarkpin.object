@@ -1,0 +1,38 @@
+{
+  "objectName" : "atprk_extendeddarkpin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of a dark abyss planet.",
+  "shortdescription" : "Dark Abyss Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "An extremely cold dark abyss planet. It is somehow even darker than midnight planets.",
+  "avianDescription" : "Even darker than midnight planets, each dark abyss is truly a dreadful realm. Light barely matters there.",
+  "floranDescription" : "Dark abysss pin. It's ssso dark it eatsss all light around itsself.",
+  "glitchDescription" : "Nervous. Legends say dark abysses are haunted by the restless ghosts of other races.",
+  "humanDescription" : "This dark abyss pin is just as dark as the planet it's based on.",
+  "hylotlDescription" : "If you descend deep enough in the dark abyss, you can hear lost souls screaming in eternal agony.",
+  "novakidDescription" : "Heck, not even a whole crowd of Novakids can breach the darkness of those abyss planets!",
+
+  "atprk_anneliskDescription" : "Behold! A midnight planet on steroids!",
+  "atprk_fenronDescription" : "You can never be sure what horrors lie in the eternal darkness of abyss planets. Stay vigilant.",
+  "atprk_noolithDescription" : "If you gaze into the abyss long enough, the abyss also gazes into you.",
+
+  "inventoryIcon" : "atprk_extendeddarkpin.png",
+  "orientations" : [
+    {
+      "dualImage" : "atprk_extendeddarkpin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}
