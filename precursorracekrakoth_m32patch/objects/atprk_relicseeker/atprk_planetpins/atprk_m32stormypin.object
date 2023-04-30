@@ -1,0 +1,34 @@
+{
+  "objectName" : "atprk_m32stormypin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of a thrashed planet.",
+  "shortdescription" : "Thrashed Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "A pin of a thrashed planet. They are known for fierce storms and strong wind.",
+  "avianDescription" : "A large pin of a thrashed planet. Storms can get pretty strong there!",
+  "floranDescription" : "Sssmelly fishmen hide on thrashed planetss too. There they're protected by fierce lightning ssstorms.",
+  "glitchDescription" : "Worried. The likelihood of getting struck by lightning on a thrashed planet is alarmingly high.",
+  "humanDescription" : "I should be careful if I visit a thrashed planet. I could get struck by lightning any moment!",
+  "hylotlDescription" : "Thrashed planets are quite notorious for their merciless storms. At very least the ocean floor there is somewhat safer.",
+  "novakidDescription" : "Compared t' those thrashed planets, the oceanic ones are quiet 'n dull!",
+
+  "inventoryIcon" : "atprk_m32stormypin.png",
+  "orientations" : [
+    {
+      "dualImage" : "atprk_m32stormypin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

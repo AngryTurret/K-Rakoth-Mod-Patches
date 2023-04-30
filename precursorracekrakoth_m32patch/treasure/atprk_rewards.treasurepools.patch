@@ -1,0 +1,17 @@
+[
+ {"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "nuustory_1-codex"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "nuuhist-codex"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "nuubible-codex"}
+  }
+]
