@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/atprk_planetpincomment_arctic2/text",
+    "value": "Wait, haven't they been starting to settle on them as o' more recently?"
+  },
+  {
+    "op": "replace",
+    "path": "/atprk_planetpincomment_arctic3/text",
+    "value": "Confused. They have? Perhaps the Muckfangs haven't scared them off after all."
+  }
+]

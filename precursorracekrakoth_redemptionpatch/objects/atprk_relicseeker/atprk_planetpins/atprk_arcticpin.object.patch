@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Well what do you know, apparently there are Penguins on arctic planets after all."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Despite being rather costly in the past, the Hylotl have started to build colonies on arctic planets."
+  }
+]
