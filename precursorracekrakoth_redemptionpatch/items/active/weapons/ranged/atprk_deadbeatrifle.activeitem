@@ -5,7 +5,7 @@
   "rarity" : "Rare",
   "description" : "Despite its name, this once cutting-edge rifle predates the fall of Deadbeat society.",
   "shortdescription" : "Scavenger Rifle",
-  "tooltipKind" : "base",
+  "tooltipKind" : "r-uniqueranged",
   "category" : "uniqueWeapon",
   "twoHanded" : true,
   "itemTags" : ["weapon","ranged"],
