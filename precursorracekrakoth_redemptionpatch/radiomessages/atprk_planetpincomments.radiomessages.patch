@@ -8,5 +8,10 @@
     "op": "replace",
     "path": "/atprk_planetpincomment_arctic3/text",
     "value": "Confused. They have? Perhaps the Muckfangs haven't scared them off after all."
+  },
+  {
+    "op": "replace",
+    "path": "/atprk_planetpincomment_magma2/text",
+    "value": "Informed. Nowadays people only ever go there to catch fireproof fish or mine Impervium ore. Some fools still hope to discover dragons though."
   }
 ]
