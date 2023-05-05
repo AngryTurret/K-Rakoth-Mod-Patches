@@ -4,7 +4,7 @@
   "rarity" : "Legendary",
   "category" : "craftingMaterial",
   "inventoryIcon" : "atprk_krakothtextlapsus.png",
-  "description" : "A K'Rakothan description of a fallen kind. ^red;Requires translation.^white;",
+  "description" : "A K'Rakothan description of a fallen civilization. ^red;Requires translation.^white;",
   "shortdescription" : "K'Rakoth Codex Lapsus",
   "itemTags" : [ "reagent" ],
   "learnBlueprintsOnPickup" : [
