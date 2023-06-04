@@ -7,8 +7,8 @@
   "atprk_furelicpackprecursor" : [
     [1, {
       "fill" : [
-        {"item" : [ "precursorterminal", 1]},
-        {"item" : [ "protheonshard", 1]},
+        {"item" : [ "precursordroppod", 1]},
+        {"item" : [ "pprecursorcannonnew", 1]},
         {"item" : [ "money", 4000]},
         {"item" : [ "fuscienceresource", 3000]}
       ]
