@@ -8,7 +8,7 @@
     [1, {
       "fill" : [
         {"item" : [ "precursorterminal", 1]},
-        {"item" : [ "protheonshard", 1]},
+        {"item" : [ "precursorcannonnew", 1]},
         {"item" : [ "money", 4000]},
         {"item" : [ "fuscienceresource", 3000]}
       ]
