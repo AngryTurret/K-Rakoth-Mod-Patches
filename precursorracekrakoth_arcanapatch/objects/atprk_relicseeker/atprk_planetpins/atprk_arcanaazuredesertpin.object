@@ -1,0 +1,38 @@
+{
+  "objectName" : "atprk_arcanaazuredesertpin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of an azure desert planet.",
+  "shortdescription" : "Azure Desert Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "An azure sea's arid cousin that also happens to be beloved by Arcanians.",
+  "avianDescription" : "As far as I remember, azurium is what gives this sandy desert its unique blueish hue.",
+  "floranDescription" : "Azure desssert pin. Ssstarry!",
+  "glitchDescription" : "Captivated. Tripolar stars gave rise to quite a few picturesque planets for sure.",
+  "humanDescription" : "A neat place, all things considered. But I wonder what's the matter with those angry golems.",
+  "hylotlDescription" : "Azure deserts reveal their hidden beauty when the sun sets. It's not that they are not beautiful in the light of day though.",
+  "novakidDescription" : "This starry desert here makes me feel right at home.",
+
+  "atprk_anneliskDescription" : "Yeah I get it, a shiny desert. Very impressive, yadda-yadda.",
+  "atprk_fenronDescription" : "That's meant to be an azure desert, I assume. Not all deserts have glittering sand after all.",
+  "atprk_noolithDescription" : "Haunted by strange azure constructs, this desert is far from being a safe haven.",
+
+  "inventoryIcon" : "atprk_arcanaazuredesertpin.png",
+  "orientations" : [
+    {
+      "dualImage" : "atprk_arcanaazuredesertpin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

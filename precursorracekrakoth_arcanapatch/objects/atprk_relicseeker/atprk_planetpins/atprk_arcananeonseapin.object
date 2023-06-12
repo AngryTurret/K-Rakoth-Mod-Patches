@@ -1,0 +1,38 @@
+{
+  "objectName" : "atprk_arcananeonseapin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of a neon sea planet.",
+  "shortdescription" : "Neon Sea Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "An exotic planet of glowing oceans.",
+  "avianDescription" : "This has to be the prettiest sea I've ever seen. I like its neon glow.",
+  "floranDescription" : "Pink water glowsss but doesn't heal. Ssstrange.",
+  "glitchDescription" : "Amused. I've heard that some people mistake neon sea planets for small stars.",
+  "humanDescription" : "A superstorm expanse's oceanic cousin.",
+  "hylotlDescription" : "Thanks to glowing water, our undersea settlements don't have to keep the lights on all day long.",
+  "novakidDescription" : "Yup, that'll be a neon planet for sure. Good luck gettin' a good sleep there.",
+
+  "atprk_anneliskDescription" : "Has anyone figured out what makes local oceans shine like giant neon signs?",
+  "atprk_fenronDescription" : "An unnaturally radiant ocean. At least the glow helps anglers a lot.",
+  "atprk_noolithDescription" : "Neon oceans are the reason behind this planet's endless days. They illuminate everything.",
+
+  "inventoryIcon" : "atprk_arcananeonseapin.png",
+  "orientations" : [
+    {
+      "dualImage" : "atprk_arcananeonseapin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

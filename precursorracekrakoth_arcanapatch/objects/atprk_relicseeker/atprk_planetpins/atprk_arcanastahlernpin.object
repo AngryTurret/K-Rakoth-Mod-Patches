@@ -1,0 +1,38 @@
+{
+  "objectName" : "atprk_arcanastahlernpin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of a stahlern badlands planet.",
+  "shortdescription" : "Stahlern Badlands Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "A pin of a verrostin-rich badlands planet.",
+  "avianDescription" : "With so many scrap parts lying around, it's no wonder that stahlern badlands remain popular among scavengers.",
+  "floranDescription" : "Sssteel badlands iss where Floransss find hardy weaponsss. Ssometimes Florans have to fight othersss to get them.",
+  "glitchDescription" : "Disturbed. Wherever stahlern badlands keep getting junk metal from, it doesn't seem to end.",
+  "humanDescription" : "A pin of a stahlern badlands planet. It looks rusty.",
+  "hylotlDescription" : "Often referred to as the Badlands, these verrostin-rich worlds are occupied by the Steelblades.",
+  "novakidDescription" : "A pin of a planet taken over by the Ironsides. Or was it Steelblades?",
+
+  "atprk_anneliskDescription" : "In places like these, things are usually run by violent crooks.",
+  "atprk_fenronDescription" : "In the Badlands, it's pillage or be pillaged.",
+  "atprk_noolithDescription" : "A pin of a barbaric badlands planet. This is obviously not the safest place to explore.",
+
+  "inventoryIcon" : "atprk_arcanastahlernpin.png",
+  "orientations" : [
+    {
+      "dualImage" : "atprk_arcanastahlernpin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

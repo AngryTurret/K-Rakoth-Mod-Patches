@@ -1,0 +1,38 @@
+{
+  "objectName" : "atprk_arcanasuperstormpin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of a superstorm expanse planet.",
+  "shortdescription" : "Superstorm Expanse Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "A particularly vibrant pin of a superstorm expanse planet.",
+  "avianDescription" : "A superstorm land blessed with electrolite yet cursed with endless thunder.",
+  "floranDescription" : "Sssupersstorm expanssse. Sscary lightning boltsss are common to sssee there.",
+  "glitchDescription" : "Concerned. Will I attract lightning if I land in a superstorm expanse?",
+  "humanDescription" : "Superstorm expanse planets may be dangerous but they're the only places where electrolite can be mined.",
+  "hylotlDescription" : "The famous Nova Station must be located somewhere on a superstorm planet, that's for certain.",
+  "novakidDescription" : "A superstorm planet, the world of, well, superstorms. That's pretty obvious.",
+
+  "atprk_anneliskDescription" : "Planets orbiting superstorm stars have a serious overcharge problem.",
+  "atprk_fenronDescription" : "A pin of a superstorm expanse with a shiny lightning symbol.",
+  "atprk_noolithDescription" : "Somewhere on superstorm planets, one may find a floating fort guarded by electrified creatures.",
+
+  "inventoryIcon" : "atprk_arcanasuperstormpin.png",
+  "orientations" : [
+    {
+      "dualImage" : "atprk_arcanasuperstormpin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

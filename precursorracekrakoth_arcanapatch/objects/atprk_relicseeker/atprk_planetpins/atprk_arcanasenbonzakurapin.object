@@ -1,0 +1,38 @@
+{
+  "objectName" : "atprk_arcanasenbonzakurapin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of a senbonzakura planet.",
+  "shortdescription" : "Senbonzakura Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "A planet of fancy cherry trees.",
+  "avianDescription" : "Without a doubt, this has to be one of the more peaceful planets in tripolar systems.",
+  "floranDescription" : "Sssenbonzakura world. Flowery trees are not good for hiding sssadly.",
+  "glitchDescription" : "Amused. First there were bamboo planets, now there are cherry blossom ones too! Will I see a birch planet next?",
+  "humanDescription" : "Never thought that cherry trees were this common in the Universe.",
+  "hylotlDescription" : "This may be called a planet of one thousand cherry trees, but in reality it has far more than that.",
+  "novakidDescription" : "Oh, I know, that's a... uh... Sen... Senbon... Ah whatever. A pink tree planet.",
+
+  "atprk_anneliskDescription" : "Pink trees, eh? Like what, is that all there is to this planet with a difficult name?",
+  "atprk_fenronDescription" : "Are cherry trees so pink because they absorb blood of fallen creatures? I wouldn't be surprised if that's the case.",
+  "atprk_noolithDescription" : "In terms of rest and relaxation, nothing compares to a quick trip to a senbonzakura world.",
+
+  "inventoryIcon" : "atprk_arcanasenbonzakurapin.png",
+  "orientations" : [
+    {
+      "dualImage" : "atprk_arcanasenbonzakurapin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

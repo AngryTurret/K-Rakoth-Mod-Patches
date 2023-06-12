@@ -1,0 +1,38 @@
+{
+  "objectName" : "atprk_arcanaviridescentpin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of a viridescent planet.",
+  "shortdescription" : "Viridescent Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "Viridescent planets are notorious for pools of stinging acid.",
+  "avianDescription" : "Acidic ichor and toxic waste make sure that no one stays on viridescent worlds for too long.",
+  "floranDescription" : "Viridessscent planet isss where plant people live. But these are not Floransss.",
+  "glitchDescription" : "Uneasy. You'd think toxic planets were bad enough.",
+  "humanDescription" : "Gotta admit, the fact that the Gelsemis choose to stay on these awful planets is impressive.",
+  "hylotlDescription" : "The Gelsemis are among the few races who can tolerate the harsh conditions of viridescent lands.",
+  "novakidDescription" : "That's one horribly acidic planet.",
+
+  "atprk_anneliskDescription" : "Is corrodium even worth soaking in viridescent acid?",
+  "atprk_fenronDescription" : "If some weird plant people can endure viridescent planets, so can I!",
+  "atprk_noolithDescription" : "Apparently there is a race of plantlike beings who don't mind the dangers of viridescent worlds.",
+
+  "inventoryIcon" : "atprk_arcanaviridescentpin.png",
+  "orientations" : [
+    {
+      "dualImage" : "atprk_arcanaviridescentpin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

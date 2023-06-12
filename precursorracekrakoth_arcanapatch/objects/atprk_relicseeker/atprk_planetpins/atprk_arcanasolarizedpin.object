@@ -1,0 +1,38 @@
+{
+  "objectName" : "atprk_arcanasolarizedpin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of a solarized planet.",
+  "shortdescription" : "Solarized Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "Rather than being completely scorched by tripolar stars, these planets gain exotic properties.",
+  "avianDescription" : "Here I can find many solarized shrines if I endure fervent heat.",
+  "floranDescription" : "Sssolarized worldss look interesssting but Floran doesn't like extreme heat.",
+  "glitchDescription" : "Uneasy. I cannot fathom why anyone would stay on a heavily solarized world for too long.",
+  "humanDescription" : "I've heard that one of these planets contains a tall ancient spire. It would be great to find it.",
+  "hylotlDescription" : "A solarized planet where a legendary Shadow Spire may be found.",
+  "novakidDescription" : "A burnin' planet blessed by three suns at once. You don't see this everyday!",
+
+  "atprk_anneliskDescription" : "Let me think. On the one hand, there're rich atumium deposits. On the other hand, there's the risk of being set on fire. Hm...",
+  "atprk_fenronDescription" : "Isn't this planet supposed to turn into a lifeless wasteland from the enormous heat?",
+  "atprk_noolithDescription" : "These fiery lands have a special connection to the solar plane, or so claim the legends.",
+
+  "inventoryIcon" : "atprk_arcanasolarizedpin.png",
+  "orientations" : [
+    {
+      "dualImage" : "atprk_arcanasolarizedpin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "objectName" : "atprk_arcanaautomatedpin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of an automated planet.",
+  "shortdescription" : "Automated Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "A large chunk of this planet's surface has been reshaped into an automated industrial complex.",
+  "avianDescription" : "The Workshop of Gears is said to cleanse whole planets of their natural resources. Metallic deserts is all that remains.",
+  "floranDescription" : "No plantsss. Workshop'ss huntersss. Much metal. Ssscary place.",
+  "glitchDescription" : "Wary. Automated realms are owned by the Workshop and therefore often closed for visitors.",
+  "humanDescription" : "Sometimes it's hard to tell which parts of automated planets are natural and which are not.",
+  "hylotlDescription" : "A pin of a planet reshaped into a gargantuan industrial facility. Not much of its original surface remains.",
+  "novakidDescription" : "Automated planets, they're the galaxy's largest smithies.",
+
+  "atprk_anneliskDescription" : "Great, a corporate-owned planet. My people had been through this before, and it wasn't pretty.",
+  "atprk_fenronDescription" : "I've heard that at some point this world was turned into a massive automated forge.",
+  "atprk_noolithDescription" : "The Usurpers used to transform entire worlds in a similar fashion, with little regard for the environment.",
+
+  "inventoryIcon" : "atprk_arcanaautomatedpin.png",
+  "orientations" : [
+    {
+      "dualImage" : "atprk_arcanaautomatedpin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}
