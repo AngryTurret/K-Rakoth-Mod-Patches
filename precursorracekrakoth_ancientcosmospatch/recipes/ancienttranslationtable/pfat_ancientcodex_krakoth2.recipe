@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "pfat_enancientcodex_krakoth2", "count" : 1 }
-  ],
-  "duration" : 5,
-  "output" : { "item" : "pfat_ancientcodex_krakoth2-codex", "count" : 1 },
-  "groups" : [ "pf_translator", "pfat_universaltranslator" ]
-}
