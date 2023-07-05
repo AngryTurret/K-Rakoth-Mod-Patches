@@ -1,10 +1,11 @@
 {
-  "tags" : "Crafting and Building|Miscellaneous|Dungeons",
   "author" : "Angry Turret",
-  "description" : "This is a patch for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2604255131]K'Rakoths, the Lords of the Cosmos mod[/url] that makes new microdungeons spawn on Cosmic planets from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2644341899]Project Ancient Cosmos mod[/url], as well as adds some new content. Obviously, you need to install both mods first.\n\n[b]Crafting:[/b]\n- After crafting any Translation Table, you get an option to combine it with the K'Rakothan Translator into a single crafting station - the Universal Translator. It is capable of translating both the Ancient and K'Rakothan codex entries.\n- The Universal Translator, the Weapon Upgrade Anvil, the Ancient Workbench and the Fluxonite Oven can be shrunk down with the Dimensional Compressor.\n- If you have blueprints for the Ancient furniture set from K'Rakoths mod, you can craft it at the Ancient Workbench.\n\n[b]Microdungeons:[/b]\n- On the surface of Cosmic planets, you can find rare K'Rakothan microdungeons with unique loot.\n- Within the Interdimensional Rift cave biomes, a few microdungeons from K'Rakoths mod can be encountered.\n\n[b]Other:[/b]\n- You can find 3 new encrypted codex entries, written in collaboration with Pixelflame.\n- The Star Cartographer sells new planet pins.",
-  "requires" : ["precursorracekrakoth", "Project Ancient Cosmos"],
+  "description" : "This is a patch for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2604255131]K'Rakoths, the Lords of the Cosmos mod[/url] that makes new microdungeons spawn on Cosmic planets from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2644341899]Project Ancient Cosmos mod[/url], as well as adds some new content. Obviously, you need to install both mods first.\n\n[b]Crafting:[/b]\n- After crafting any Translation Table, you get an option to combine it with the K'Rakothan Translator into a single crafting station - the Universal Translator. It is capable of translating both the Ancient and K'Rakothan codex entries.\n- The Universal Translator, the Weapon Upgrade Anvil, the Ancient Workbench and the Fluxonite Oven can be shrunk down with the Dimensional Compressor.\n- If you have blueprints for the Ancient furniture set from K'Rakoths mod, you can craft it at the Ancient Workbench.\n\n[b]Microdungeons:[/b]\n- On the surface of Cosmic planets, you can find rare K'Rakothan microdungeons with unique loot.\n- Within the Interdimensional Rift cave biomes, a few microdungeons from K'Rakoths mod can be encountered.\n\n[b]Other:[/b]\n- You can find 3 new encrypted codex entries, written in collaboration with Pixelflame.\n- The Star Cartographer sells new planet pins.\n- All PAC weapon parts can be recycled at the Artifact Recycler.",
+  "friendlyName" : "K'Rakoth Mod: Project Ancient Cosmos Patch",
+  "link" : "steam://url/CommunityFilePage/2800045635",
   "name" : "precursorracekrakoth_ancientcosmospatch",
+  "requires" : ["precursorracekrakoth", "Project Ancient Cosmos"],
+  "includes" : ["AC x CW"],
   "steamContentId" : "2800045635",
-  "friendlyName" : "K'Rakoths: Project Ancient Cosmos Patch",
-  "link" : "steam://url/CommunityFilePage/2800045635"
+  "tags" : "Crafting and Building|Miscellaneous|Dungeons"
 }
