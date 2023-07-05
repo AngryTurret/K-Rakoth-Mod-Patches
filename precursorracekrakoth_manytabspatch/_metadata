@@ -1,7 +1,7 @@
 {
   "author" : "Angry Turret",
   "description" : "This is a patch for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2604255131]K'Rakoths, the Lords of the Cosmos mod[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1119086325]Many Tabs[/url] that adds a separate tab for translated K'Rakothan codices. Obviously, you need to install both mods first.\n\nCredits to jss2a98aj for making this work!",
-  "friendlyName" : "K'Rakoths: Many Tabs Patch",
+  "friendlyName" : "K'Rakoth Mod: Many Tabs Patch",
   "includes" : ["precursorracekrakoth", "precursorracekrakoth_ancientcosmospatch", "precursorracekrakoth_fupatch", "precursorracekrakoth_redemptionpatch"],
   "link" : "steam://url/CommunityFilePage/2864852527",
   "name" : "precursorracekrakoth_manytabspatch",

@@ -1,0 +1,22 @@
+[
+ {"op" : "add",
+	"path" : "/artifacts/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.20, "item" : "atprk_ancientshards"}
+  },
+ {"op" : "add",
+	"path" : "/artifacts/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "atprk_smallancientchest"}
+  },
+ {"op" : "add",
+	"path" : "/artifacts/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "atprk_ancientvase"}
+  },
+ {"op" : "add",
+	"path" : "/artifacts/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "atprk_ancientvasebroken"}
+  }
+]

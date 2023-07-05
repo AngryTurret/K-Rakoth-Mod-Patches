@@ -1,10 +1,10 @@
 {
-  "tags" : "Miscellaneous|Planets and Environments|Dungeons",
   "author" : "Angry Turret",
   "description" : "This is a patch for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2604255131]K'Rakoths, the Lords of the Cosmos mod[/url] that makes new dungeons and mini-biomes spawn on [url=https://steamcommunity.com/workshop/filedetails/?id=2568667104]Maple32[/url] planets and vice versa. Obviously, you need to install both mods first.\n\n[b]Dungeons:[/b]\n- Glitch Devout Tower spawns on Bioindustrial, Steppe and Hazy planets.\n- Underwater Ruins spawn on Thrashed planets. Sometimes they can also be found in the Bubbling Benthic underground biome.\n- Area 48 spawns on Bioindustrial, Steppe and Hazy planets.\n- Church of Ri'shaan spawns on Verdurous, Aeolian and Hazy planets.\n- Terraforming Laboratory spawns on Bioindustrial, Steppe and Hazy planets.\n- Various Maple32 dungeons may spawn on Ashy planets.\n\n[b]Biomes:[/b]\n- Ancient Necropolis spawns on Hazy planets.\n- Glaciovolcanic Biome spawns on Aeolian planets.\n- Polluted Biome spawns on Bioindustrial planets.\n- Hoodoo Biome spawns on Ashy planets.\n\n[b]Other:[/b]\n- The Star Cartographer sells new planet pins.",
-  "requires" : ["precursorracekrakoth", "Maple32"],
+  "friendlyName" : "K'Rakoth Mod: Maple32 Patch",
+  "link" : "steam://url/CommunityFilePage/2832790747",
   "name" : "precursorracekrakoth_m32patch",
+  "requires" : ["precursorracekrakoth", "Maple32"],
   "steamContentId" : "2832790747",
-  "friendlyName" : "K'Rakoths: Maple32 Patch",
-  "link" : "steam://url/CommunityFilePage/2832790747"
+  "tags" : "Miscellaneous|Planets and Environments|Dungeons"
 }
