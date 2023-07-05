@@ -1,0 +1,14 @@
+{
+  "currencyInputs" : {
+    "essence" : 1000
+  },
+  "input" : [
+    { "item" : "atprk_amberblock", "count" : 200 }
+  ],
+  "output" : {
+    "item" : "atprk_microformeramber",
+    "count" : 1
+  },
+  "duration" : 0,
+  "groups" : [ "terraforge", "microformer" ]
+}

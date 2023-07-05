@@ -1,0 +1,10 @@
+{
+  "author" : "Angry Turret",
+  "description" : "This is a patch for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2604255131]K'Rakoths, the Lords of the Cosmos mod[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=825806617]Craftable Microformers[/url] that allows you to craft new microformers added by the former at the Terraforge. Obviously, you need to install both mods first.\n\nKeep in mind that this patch doesn't affect microformers that are crafted at the EM Station.",
+  "friendlyName" : "K'Rakoth Mod: Craftable Microformers Patch",
+  "link" : "steam://url/CommunityFilePage/2998465051",
+  "name" : "precursorracekrakoth_craftablemicroformerspatch",
+  "requires" : ["precursorracekrakoth", "craftablemf"],
+  "steamContentId" : "2998465051",
+  "tags" : "Crafting and Building|Miscellaneous|User Interface"
+}

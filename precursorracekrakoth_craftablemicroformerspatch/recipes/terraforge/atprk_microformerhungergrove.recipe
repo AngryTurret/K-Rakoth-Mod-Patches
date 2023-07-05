@@ -1,0 +1,15 @@
+{
+  "currencyInputs" : {
+    "essence" : 1000
+  },
+  "input" : [
+    { "item" : "plantmatter", "count" : 200 },
+    { "item" : "atprk_traproot", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "atprk_microformerhungergrove",
+    "count" : 1
+  },
+  "duration" : 0,
+  "groups" : [ "terraforge", "microformer" ]
+}
