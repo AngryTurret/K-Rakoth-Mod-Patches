@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "essence", "count" : 675}
+  ],
+  "output" : {
+    "item" : "r-ancientscepter",
+    "count" : 1
+  },
+  "groups" : [ "atprk_vaultraidershop", "nouncrafting" ]
+}
