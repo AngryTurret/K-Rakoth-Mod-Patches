@@ -1,0 +1,22 @@
+[
+	{
+		"op" : "add",
+		"path" : "/atprk_chthoniansurface/0/1/-",
+		"value" : [ "platinum", 0.00 ]
+	},
+	{
+		"op" : "add",
+		"path" : "/atprk_chthoniandepth1/0/1/-",
+		"value" :  ["platinum", 0.15 ]
+	},
+	{
+		"op" : "add",
+		"path" : "/atprk_chthoniandepth2/0/1/-",
+		"value" : [ "platinum", 0.25 ]
+	},
+	{
+		"op" : "add",
+		"path" : "/atprk_chthoniandepth3/0/1/-",
+		"value" : [ "platinum", 0.45 ]
+	}
+]
