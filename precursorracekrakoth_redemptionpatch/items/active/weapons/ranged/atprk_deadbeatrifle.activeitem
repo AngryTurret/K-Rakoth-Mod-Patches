@@ -89,7 +89,7 @@
   },
 
 "altAbility" : {
-    "name" : "Shotgun",
+    "name" : "Discharge Blast",
     "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
     "class" : "GunFire",
     "stances" : {
