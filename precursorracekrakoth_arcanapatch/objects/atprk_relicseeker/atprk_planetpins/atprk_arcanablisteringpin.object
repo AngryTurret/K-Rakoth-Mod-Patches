@@ -21,6 +21,29 @@
   "atprk_fenronDescription" : "I used to mistake blistering planets for ashy ones. They are kind of similar, to be frank.",
   "atprk_noolithDescription" : "A warm pin of a blistering planet, one of the few reliable sources of magifire crystals.",
 
+  "particleEmitter" : {
+    "emissionRate" : 0.4,
+    "emissionVariance" : 0.2,
+    "pixelOrigin" : [0, 8],
+
+    "particle" : {
+      "type" : "animated",
+      "animation" : "/animations/sparkles/sparkle1.animation",
+      "size" : 1.0,
+      "fade" : 0,
+      "destructionAction" : "shrink",
+      "destructionTime" : 3,
+      "initialVelocity" : [0, 0],
+      "finalVelocity" : [0, 0],
+      "timeToLive" : 1,
+      "layer" : "front"
+    },
+
+    "particleVariance" : {
+      "position" : [0.7, 0.7]
+    }
+  },
+
   "inventoryIcon" : "atprk_arcanablisteringpin.png",
   "orientations" : [
     {

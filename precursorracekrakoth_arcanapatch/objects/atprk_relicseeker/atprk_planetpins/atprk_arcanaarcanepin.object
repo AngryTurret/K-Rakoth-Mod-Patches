@@ -21,6 +21,29 @@
   "atprk_fenronDescription" : "Arcane planets are so diverse! Whatever direction you go, there're always new places to discover.",
   "atprk_noolithDescription" : "A forest planet that radiates arcane energy. It may interfere with technology sometimes.",
 
+  "particleEmitter" : {
+    "emissionRate" : 0.4,
+    "emissionVariance" : 0.2,
+    "pixelOrigin" : [0, 8],
+
+    "particle" : {
+      "type" : "animated",
+      "animation" : "/animations/sparkles/sparkle1.animation",
+      "size" : 1.0,
+      "fade" : 0,
+      "destructionAction" : "shrink",
+      "destructionTime" : 3,
+      "initialVelocity" : [0, 0],
+      "finalVelocity" : [0, 0],
+      "timeToLive" : 1,
+      "layer" : "front"
+    },
+
+    "particleVariance" : {
+      "position" : [0.7, 0.7]
+    }
+  },
+
   "inventoryIcon" : "atprk_arcanaarcanepin.png",
   "orientations" : [
     {

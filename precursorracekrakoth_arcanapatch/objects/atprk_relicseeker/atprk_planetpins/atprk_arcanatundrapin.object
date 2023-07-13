@@ -21,6 +21,29 @@
   "atprk_fenronDescription" : "A pin of an enchanted tundra. I wonder what it feels like to live on a floating island.",
   "atprk_noolithDescription" : "Watching the shiny floating icebergs of arcane tundras is mesmerizing.",
 
+  "particleEmitter" : {
+    "emissionRate" : 0.4,
+    "emissionVariance" : 0.2,
+    "pixelOrigin" : [0, 8],
+
+    "particle" : {
+      "type" : "animated",
+      "animation" : "/animations/sparkles/sparkle1.animation",
+      "size" : 1.0,
+      "fade" : 0,
+      "destructionAction" : "shrink",
+      "destructionTime" : 3,
+      "initialVelocity" : [0, 0],
+      "finalVelocity" : [0, 0],
+      "timeToLive" : 1,
+      "layer" : "front"
+    },
+
+    "particleVariance" : {
+      "position" : [0.7, 0.7]
+    }
+  },
+
   "inventoryIcon" : "atprk_arcanatundrapin.png",
   "orientations" : [
     {

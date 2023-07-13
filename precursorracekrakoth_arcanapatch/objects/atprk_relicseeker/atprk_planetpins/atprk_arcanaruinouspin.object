@@ -21,6 +21,29 @@
   "atprk_fenronDescription" : "This is somehow even worse than desolate lands. Is this what they eventually turn into?",
   "atprk_noolithDescription" : "This ruinous planet is beyond salvation. Only death awaits there.",
 
+  "particleEmitter" : {
+    "emissionRate" : 0.4,
+    "emissionVariance" : 0.2,
+    "pixelOrigin" : [0, 8],
+
+    "particle" : {
+      "type" : "animated",
+      "animation" : "/animations/sparkles/sparkle1.animation",
+      "size" : 1.0,
+      "fade" : 0,
+      "destructionAction" : "shrink",
+      "destructionTime" : 3,
+      "initialVelocity" : [0, 0],
+      "finalVelocity" : [0, 0],
+      "timeToLive" : 1,
+      "layer" : "front"
+    },
+
+    "particleVariance" : {
+      "position" : [0.7, 0.7]
+    }
+  },
+
   "inventoryIcon" : "atprk_arcanaruinouspin.png",
   "orientations" : [
     {
