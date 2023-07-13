@@ -21,6 +21,31 @@
   "atprk_fenronDescription" : "I've never thought that even planets could be artificial. How long does it take to build one?",
   "atprk_noolithDescription" : "Some of the Ancients were more materialistic than the rest. The artificial worlds were their legacy.",
 
+  "radioMessagesOnPickup" : [ "atprk_planetpincomment_ancientcosmosartificial1", "atprk_planetpincomment_ancientcosmosartificial2", "atprk_planetpincomment_ancientcosmosartificial3" ],
+
+  "particleEmitter" : {
+    "emissionRate" : 0.4,
+    "emissionVariance" : 0.2,
+    "pixelOrigin" : [0, 8],
+
+    "particle" : {
+      "type" : "animated",
+      "animation" : "/animations/sparkles/sparkle1.animation",
+      "size" : 1.0,
+      "fade" : 0,
+      "destructionAction" : "shrink",
+      "destructionTime" : 3,
+      "initialVelocity" : [0, 0],
+      "finalVelocity" : [0, 0],
+      "timeToLive" : 1,
+      "layer" : "front"
+    },
+
+    "particleVariance" : {
+      "position" : [0.7, 0.7]
+    }
+  },
+
   "inventoryIcon" : "pfat_artificialpin.png",
   "orientations" : [
     {

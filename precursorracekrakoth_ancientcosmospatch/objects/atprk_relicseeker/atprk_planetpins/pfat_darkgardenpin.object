@@ -21,6 +21,31 @@
   "atprk_fenronDescription" : "Somehow this planet is still lush despite orbiting a massive black hole.",
   "atprk_noolithDescription" : "These lush planets are not what they seem to be. Not anymore at least.",
 
+  "radioMessagesOnPickup" : [ "atprk_planetpincomment_ancientcosmosdarkgarden1", "atprk_planetpincomment_ancientcosmosdarkgarden2" ],
+
+  "particleEmitter" : {
+    "emissionRate" : 0.4,
+    "emissionVariance" : 0.2,
+    "pixelOrigin" : [0, 8],
+
+    "particle" : {
+      "type" : "animated",
+      "animation" : "/animations/sparkles/sparkle1.animation",
+      "size" : 1.0,
+      "fade" : 0,
+      "destructionAction" : "shrink",
+      "destructionTime" : 3,
+      "initialVelocity" : [0, 0],
+      "finalVelocity" : [0, 0],
+      "timeToLive" : 1,
+      "layer" : "front"
+    },
+
+    "particleVariance" : {
+      "position" : [0.7, 0.7]
+    }
+  },
+
   "inventoryIcon" : "pfat_darkgardenpin.png",
   "orientations" : [
     {

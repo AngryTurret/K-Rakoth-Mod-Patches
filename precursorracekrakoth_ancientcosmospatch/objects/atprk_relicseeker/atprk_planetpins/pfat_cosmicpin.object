@@ -10,7 +10,7 @@
   "price" : 150,
 
   "apexDescription" : "Anomalous and extremely hostile by their nature, cosmic planets are an enigma to many astronomers.",
-  "avianDescription" : "A cosmic planet where land and stars meet, creating dangerous yet breathtaking terrain.",
+  "avianDescription" : "A cosmic planet where land and stars collide, creating dangerous yet breathtaking terrain.",
   "floranDescription" : "Floran doesssn't undersstand much about cosssmic planetsss. They're ssso weird.",
   "glitchDescription" : "Thoughtful. Some Glitch fairytales mention lands of stars and purple rocks. I wonder if they actually describe cosmic planets.",
   "humanDescription" : "A pin of a mysterious cosmic planet adorned with tiny stars.",
@@ -20,6 +20,31 @@
   "atprk_anneliskDescription" : "On one hand, cosmic forces mean certain death. On the other hand, there's so much celesteel!",
   "atprk_fenronDescription" : "Whether I can still call this a planet or not, it surely looks cosmic.",
   "atprk_noolithDescription" : "The Ancients were the only ones capable of surviving cosmic influences long enough to conquer these strange worlds.",
+
+  "radioMessagesOnPickup" : [ "atprk_planetpincomment_ancientcosmoscosmic1", "atprk_planetpincomment_ancientcosmoscosmic2", "atprk_planetpincomment_ancientcosmoscosmic3", "atprk_planetpincomment_ancientcosmoscosmic4" ],
+
+  "particleEmitter" : {
+    "emissionRate" : 0.4,
+    "emissionVariance" : 0.2,
+    "pixelOrigin" : [0, 8],
+
+    "particle" : {
+      "type" : "animated",
+      "animation" : "/animations/sparkles/sparkle1.animation",
+      "size" : 1.0,
+      "fade" : 0,
+      "destructionAction" : "shrink",
+      "destructionTime" : 3,
+      "initialVelocity" : [0, 0],
+      "finalVelocity" : [0, 0],
+      "timeToLive" : 1,
+      "layer" : "front"
+    },
+
+    "particleVariance" : {
+      "position" : [0.7, 0.7]
+    }
+  },
 
   "inventoryIcon" : "pfat_cosmicpin.png",
   "orientations" : [
