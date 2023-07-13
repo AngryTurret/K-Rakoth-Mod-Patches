@@ -9,7 +9,7 @@
   "printable" : false,
   "price" : 150,
 
-  "apexDescription" : "A pin of a nuclear wasteland planet. A conventional EPP will not save you from its overwhelming radiation.",
+  "apexDescription" : "A pin of a nuclear wasteland planet. A conventional EPP will not save me from its overwhelming radiation.",
   "avianDescription" : "A nuclear wasteland full of mutated plants and beasts adapted to extreme doses of radiation.",
   "floranDescription" : "Nuclear wasteland'ss green isss not good green. It meansss certain death.",
   "glitchDescription" : "Disgusted. Is there a pin of a junkyard planet, too?",
@@ -20,6 +20,29 @@
   "atprk_anneliskDescription" : "Sweet bankruptcy, where does all of that waste even come from to make a whole planet?",
   "atprk_fenronDescription" : "Landing in a nuclear wasteland sounds like a one-way trip. And not the one worth taking.",
   "atprk_noolithDescription" : "The radiation of nuclear wastelands is so immense it can erode my vessel.",
+
+  "particleEmitter" : {
+    "emissionRate" : 0.4,
+    "emissionVariance" : 0.2,
+    "pixelOrigin" : [0, 8],
+
+    "particle" : {
+      "type" : "animated",
+      "animation" : "/animations/sparkles/sparkle1.animation",
+      "size" : 1.0,
+      "fade" : 0,
+      "destructionAction" : "shrink",
+      "destructionTime" : 3,
+      "initialVelocity" : [0, 0],
+      "finalVelocity" : [0, 0],
+      "timeToLive" : 1,
+      "layer" : "front"
+    },
+
+    "particleVariance" : {
+      "position" : [0.7, 0.7]
+    }
+  },
 
   "inventoryIcon" : "atprk_extendednuclearpin.png",
   "orientations" : [
