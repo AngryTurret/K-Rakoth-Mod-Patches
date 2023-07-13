@@ -17,6 +17,29 @@
   "hylotlDescription" : "While there may be some underground seas, almost all water on aeolian worlds is frozen solid.",
   "novakidDescription" : "I wouldn't want t' get stuck on a chill aeolian planet like this one. Wind's way too strong t' handle!",
 
+  "particleEmitter" : {
+    "emissionRate" : 0.4,
+    "emissionVariance" : 0.2,
+    "pixelOrigin" : [0, 8],
+
+    "particle" : {
+      "type" : "animated",
+      "animation" : "/animations/sparkles/sparkle1.animation",
+      "size" : 1.0,
+      "fade" : 0,
+      "destructionAction" : "shrink",
+      "destructionTime" : 3,
+      "initialVelocity" : [0, 0],
+      "finalVelocity" : [0, 0],
+      "timeToLive" : 1,
+      "layer" : "front"
+    },
+
+    "particleVariance" : {
+      "position" : [0.7, 0.7]
+    }
+  },
+
   "inventoryIcon" : "atprk_m32blusterpin.png",
   "orientations" : [
     {
