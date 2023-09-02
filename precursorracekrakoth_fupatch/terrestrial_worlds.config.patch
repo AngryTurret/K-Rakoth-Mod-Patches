@@ -1,13 +1,13 @@
 [
-	{
+	[{
 		"op": "remove",
 		"path": "/planetTypes/atprk_boilingocean/layers/surface/baseHeight"
 	},
 	{
 		"op": "remove",
 		"path": "/planetTypes/atprk_boilingocean/layers/surface/layerLevel"
-	},
-    {
+	}],
+    [{
       "op": "replace",
       "path": "/regionTypes/atprk_boilingocean/oceanLiquid/0",
       "value": "fusaltwater"
@@ -26,9 +26,9 @@
       "op": "replace",
       "path": "/regionTypes/atprk_navalminefield/oceanLiquid/0",
       "value": "fusaltwater"
-    },
+    }],
 
-{
+[{
     "op" : "add",
     "path" : "/planetTypes/shadow/layers/surface/secondaryRegions/-",
     "value" : "atprk_ancientnecropolis"
@@ -247,9 +247,9 @@
     "op" : "add",
     "path" : "/planetTypes/ffunknown/layers/surface/secondaryRegions/-",
     "value" : "atprk_forgottenmountains"
-  },
+  }],
 
-  {
+  [{
     "op" : "add",
     "path" : "/planetTypes/desertwastes/layers/surface/dungeons/-",
     "value" : [ 2.0, "atprk_glitchdevouttower" ]
@@ -462,9 +462,9 @@
     "op" : "add",
     "path" : "/planetTypes/ffunknown/layers/surface/dungeons/-",
     "value" : [ 1.0, "atprk_krakothlab" ]
-  },
+  }],
 
-  {
+  [{
     "op" : "add",
     "path" : "/planetTypes/atprk_ashworld/layers/surface/dungeons/-",
     "value" : [ 2.0, "volcano" ]
@@ -513,9 +513,9 @@
     "op" : "add",
     "path" : "/planetTypes/atprk_ashworld/layers/surface/dungeons/-",
     "value" : [ 1.0, "weaponsfactory" ]
-  },
+  }],
 
-{
+[{
     "op" : "add",
     "path" : "/planetTypes/atprk_ashworld/layers/surface/secondaryRegions/-",
     "value" : "badlands"
@@ -554,9 +554,9 @@
     "op" : "add",
     "path" : "/planetTypes/atprk_ashworld/layers/surface/secondaryRegions/-",
     "value" : "deadwood"
-  },
+  }],
 
-  {
+  [{
     "op" : "add",
     "path" : "/planetTypes/atprk_boilingocean/layers/subsurface/dungeons/-",
     "value" : [ 1.0, "apexunderwaterlab" ]
@@ -565,5 +565,10 @@
     "op" : "add",
     "path" : "/planetTypes/atprk_boilingocean/layers/subsurface/dungeons/-",
     "value" : [ 0.5, "wreckunderwater" ]
-  }
+  }],
+
+  [
+    {"op" : "test","path" : "/planetTypes/nitrogendeep"},
+    {"op" : "add", "path" : "/planetTypes/nitrogendeep/layers/subsurface/dungeons/-", "value" : [1.0, "atprk_krakothoceanruins"] }
+  ]
 ]
