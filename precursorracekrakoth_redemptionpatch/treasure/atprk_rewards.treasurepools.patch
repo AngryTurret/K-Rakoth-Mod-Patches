@@ -43,5 +43,20 @@
 	"path" : "/atprk_unpackedfossilgoodspool/0/1/pool/-",
 	"value" :
 	  {"weight" : 0.10, "item" : "novakidbrand"}
+  },
+  {"op" : "add",
+	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.02, "item" : "r-platinumarmorhead"}
+  },
+  {"op" : "add",
+	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.02, "item" : "r-platinumarmorchest"}
+  },
+  {"op" : "add",
+	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.02, "item" : "r-platinumarmorlegs"}
   }
 ]
