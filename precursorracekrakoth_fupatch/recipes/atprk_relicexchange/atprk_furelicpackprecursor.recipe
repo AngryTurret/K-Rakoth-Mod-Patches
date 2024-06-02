@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "precursordroppod", "count" : 1 }
+    { "item" : "spacetimeobeliskinactive", "count" : 1 }
   ],
   "output" : {
     "item" : "atprk_furelicpackprecursor",
