@@ -3,7 +3,8 @@
     { "item" : "liquidorganicsoup", "count" : 1},
     { "item" : "fu_salt", "count" : 1 },
     { "item" : "blobbushjelly", "count" : 4 },
-    { "item" : "fu_hydrogen", "count" : 2 }
+    { "item" : "fu_hydrogen", "count" : 2 },
+    { "item" : "atprk_4dparticle", "count" : 1 }
   ],
   "output" : {
     "item" : "atprk_fubiofuelcannisterplus",
