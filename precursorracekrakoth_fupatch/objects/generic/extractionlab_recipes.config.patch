@@ -169,5 +169,41 @@
 				"inputs": {"atprk_eldertech": 2},
 				"outputs": {"atprk_4dcube":[1,1,1], "atprk_aeonbattery":[1,1,1], "fuscienceresource": [15,20,25]}
 		}
+  },
+  {
+    "op": "add",
+    "path": "/-",
+    "value":
+		{
+				"inputs": {"atprk_4dgoods":1},
+				"outputs": {"fu_4dgoods":[1,1,1]}
+		}
+  },
+  {
+    "op": "add",
+    "path": "/-",
+    "value":
+		{
+				"inputs": {"atprk_fossilgoods":1},
+				"outputs": {"fu_fossilgoods":[1,1,1]}
+		}
+  },
+  {
+    "op": "add",
+    "path": "/-",
+    "value":
+		{
+				"inputs": {"atprk_loregoods":1},
+				"outputs": {"fu_loregoods":[1,1,1]}
+		}
+  },
+  {
+    "op": "add",
+    "path": "/-",
+    "value":
+		{
+				"inputs": {"atprk_relicgoods":1},
+				"outputs": {"fu_relicgoods":[1,1,1]}
+		}
   }
 ]
