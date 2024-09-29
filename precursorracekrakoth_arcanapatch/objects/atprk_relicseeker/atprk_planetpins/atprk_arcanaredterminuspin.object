@@ -1,0 +1,61 @@
+{
+  "objectName" : "atprk_arcanaredterminuspin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of a red terminus planet.",
+  "shortdescription" : "Red Terminus Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "The inexplicable nature of red terminus planets attracts some and scares away the rest.",
+  "avianDescription" : "The terrain of a red terminus planet is a chaotic one.",
+  "floranDescription" : "Sssscary red planet.",
+  "glitchDescription" : "Uneasy. For whatever reason, hardly anyone ever tries to set foot on red terminus worlds.",
+  "humanDescription" : "A dying red world.",
+  "hylotlDescription" : "The red terminus, a morbid realm of decay and desolation.",
+  "novakidDescription" : "Not even my own SAIL dares t' say a word about red terminus planets!",
+
+  "atprk_anneliskDescription" : "...",
+  "atprk_fenronDescription" : "...",
+  "atprk_noolithDescription" : "...",
+
+  "particleEmitter" : {
+    "emissionRate" : 0.4,
+    "emissionVariance" : 0.2,
+    "pixelOrigin" : [0, 8],
+
+    "particle" : {
+      "type" : "animated",
+      "animation" : "/animations/sparkles/sparkle1.animation",
+      "size" : 1.0,
+      "fade" : 0,
+      "destructionAction" : "shrink",
+      "destructionTime" : 3,
+      "initialVelocity" : [0, 0],
+      "finalVelocity" : [0, 0],
+      "timeToLive" : 1,
+      "layer" : "front"
+    },
+
+    "particleVariance" : {
+      "position" : [0.7, 0.7]
+    }
+  },
+
+  "inventoryIcon" : "atprk_arcanaredterminuspin.png",
+  "orientations" : [
+    {
+      "dualImage" : "atprk_arcanaredterminuspin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

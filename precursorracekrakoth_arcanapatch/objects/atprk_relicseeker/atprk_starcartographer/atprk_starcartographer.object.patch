@@ -205,6 +205,14 @@
 		"op": "add",
 		"path": "/interactData/items/-",
 		"value": {
+			"item": { "name" : "atprk_arcanaredterminuspin" },
+			"prerequisiteQuest" : "arcana_quests_gushenAntique_5"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
 			"item": { "name" : "atprk_arcanaruinouspin" },
 			"prerequisiteQuest" : "arcana_quests_gushenAntique_5"
 		}

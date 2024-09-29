@@ -48,7 +48,7 @@
   {
     "op" : "add",
     "path" : "/planetTypes/arcana_blistering/layers/surface/dungeons/-",
-    "value" : [ 1.5, "atprk_glitchdevouttower" ]
+    "value" : [ 1.0, "atprk_glitchdevouttower" ]
   },
   {
     "op" : "add",
