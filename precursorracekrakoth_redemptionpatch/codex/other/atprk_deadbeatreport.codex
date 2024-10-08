@@ -15,7 +15,10 @@ Status: Extinct - Simulacrum eventually realized their true nature and elected t
 Status: Extinct - Simulation achieved technological level comparable to ours. Suffered societal collapse from over-extended logistics brought on by excessive colonization.
 
 Simulacrum group: D
-Status: Active - Unforeseen programming error led to inability to advance technologically beyond early stage. Patching deemed too costly and impractical. Considering adaptation into a test group to save on funding."
+Status: Active - Unforeseen programming error led to inability to advance technologically beyond early stage. Patching deemed too costly and impractical. Considering adaptation into a test group to save on funding.",
+
+"Simulacrum group: ?
+ Status: Unknown - [Error. Corrupted data.]"
   ],
     "itemConfig" : {
     "rarity" : "rare",
