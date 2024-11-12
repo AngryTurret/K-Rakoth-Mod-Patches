@@ -4,12 +4,9 @@
       "pool" : [
         {"weight" : 0.96, "pool" : "money"},
         {"weight" : 0.04, "item" : [ "atprk_reportfragment0", 1]}
-      ]//,
-      //"poolRounds" : [
-        //[0.8, 0],
-        //[0.2, 1]
-      //],
-      //"allowDuplication" : false
+      ],
+      "poolRounds" : 1,
+      "allowDuplication" : false
     }]
   ]
 }
