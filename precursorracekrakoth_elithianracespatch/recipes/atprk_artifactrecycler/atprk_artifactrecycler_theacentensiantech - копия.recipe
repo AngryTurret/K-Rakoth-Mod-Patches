@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "centensiantech", "count" : 1 }
-  ],
-  "output" : { "item" : "money", "count" : 250 },
-  "groups" : [ "atprk_artifactrecycler", "nouncrafting" ]
-}
