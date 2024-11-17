@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "centensrelic", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "atprk_thearelicpackcentens",
+    "count" : 1
+  },
+  "groups" : [ "atprk_relicexchange", "nouncrafting" ]
+}

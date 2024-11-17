@@ -1,0 +1,17 @@
+{
+
+  // ================================
+  //       Relic Exchange Packs
+  // ================================
+
+  "atprk_thearelicpackcentens" : [
+    [1, {
+      "fill" : [
+        {"item" : [ "centens-andraveihanheart", 1]},
+        {"item" : [ "centensstasispod", 1]},
+        {"item" : [ "money", 3000]},
+        {"item" : [ "avikanmerittoken", 1000]}
+      ]
+    }]
+  ]
+}

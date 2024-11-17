@@ -1,0 +1,522 @@
+[
+{"op" : "add",
+	"path" : "/atprk_unpackedelectronicgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.08, "item" : [ "connectorstrip", 3]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedelectronicgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.04, "item" : [ "connectorstrip", 5]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedelectronicgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.02, "item" : [ "connectorstrip", 7]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedelectronicgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.08, "item" : "alliancecircuitry"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedelectronicgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.04, "item" : [ "alliancecircuitry", 2]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedelectronicgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.06, "item" : "alliancequantumchip"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedelectronicgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.03, "item" : [ "alliancequantumchip", 2]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedelectronicgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.08, "item" : "avikancircuitry"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedelectronicgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.04, "item" : [ "avikancircuitry", 2]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedelectronicgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.06, "item" : "avikanmacrochip"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedelectronicgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.03, "item" : [ "avikanmacrochip", 2]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedelectronicgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.06, "item" : "avikanbattery"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedelectronicgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.04, "item" : [ "avikanbattery", 2]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedelectronicgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.02, "item" : [ "avikanbattery", 3]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedelectronicgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.08, "item" : "trinkelectronics"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedelectronicgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.04, "item" : [ "trinkelectronics", 2]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedelectronicgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.02, "item" : "trinkpowercore"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedelectronicgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.02, "item" : "trinktransmitter"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedelectronicgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.06, "item" : [ "trinkwiring", 3]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedelectronicgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.04, "item" : [ "trinkwiring", 5]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedelectronicgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.02, "item" : [ "trinkwiring", 7]}
+  },
+
+{"op" : "add",
+	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.06, "item" : "avikancapacitor"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.04, "item" : [ "avikancapacitor", 2]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.06, "item" : "avikanmagazine"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.04, "item" : [ "avikanmagazine", 2]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.06, "item" : "avikanvibrocore"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.04, "item" : [ "avikanvibrocore", 2]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.08, "item" : "avikanvolatileliquid"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.04, "item" : [ "avikanvolatileliquid", 2]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.06, "item" : "alliancemagazine"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.04, "item" : [ "alliancemagazine", 2]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.06, "item" : "allianceplasmacore"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.04, "item" : [ "allianceplasmacore", 2]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.06, "item" : "allianceballisticfiber"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.04, "item" : [ "allianceballisticfiber", 2]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.04, "item" : "allianceupgradekit2"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.04, "item" : "allianceupgradekit3"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.02, "item" : "allianceupgradekit4"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.02, "item" : "allianceupgradekit5"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.01, "item" : "allianceupgradekit6"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.06, "item" : "trinklaserdiode"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.04, "item" : [ "trinklaserdiode", 2]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.02, "item" : [ "trinklaserdiode", 3]}
+  },
+
+{"op" : "add",
+	"path" : "/atprk_unpackedmedicalgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "avikanbandage"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmedicalgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.05, "item" : [ "avikanbandage", 3]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmedicalgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.02, "item" : [ "avikanbandage", 5]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmedicalgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.01, "item" : [ "avikanbandage", 8]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmedicalgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.04, "item" : "avikanmedicalsyringe"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmedicalgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.02, "item" : [ "avikanmedicalsyringe", 3]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmedicalgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.01, "item" : [ "avikanmedicalsyringe", 5]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmedicalgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.06, "item" : "avikanmedicalkit"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmedicalgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.02, "item" : [ "avikanmedicalkit", 3]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmedicalgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.01, "item" : [ "avikanmedicalkit", 5]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmedicalgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "alliancebandage"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmedicalgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.05, "item" : [ "alliancebandage", 3]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmedicalgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.02, "item" : [ "alliancebandage", 5]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmedicalgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.01, "item" : [ "alliancebandage", 8]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmedicalgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.04, "item" : "alliancemedsalve"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmedicalgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.02, "item" : [ "alliancemedsalve", 3]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmedicalgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.01, "item" : [ "alliancemedsalve", 5]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmedicalgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.06, "item" : "alliancemedicalkit"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmedicalgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.02, "item" : [ "alliancemedicalkit", 3]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmedicalgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.01, "item" : [ "alliancemedicalkit", 5]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmedicalgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.04, "item" : "trinkrepairmodule"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmedicalgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.02, "item" : [ "trinkrepairmodule", 2]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmedicalgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.01, "item" : "avikanpethealingstation"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedmedicalgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.01, "item" : "alliancepethealingstation"}
+  },
+
+{"op" : "add",
+	"path" : "/atprk_unpackedfoodgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "avikanspices"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedfoodgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.05, "item" : [ "avikanspices", 2]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedfoodgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.02, "item" : [ "avikanspices", 3]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedfoodgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : [ "loftgrain", 3]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedfoodgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : [ "dunestalk", 3]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedfoodgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.06, "item" : [ "bolbohn", 2]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedfoodgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.06, "item" : [ "borato", 2]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedfoodgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.06, "item" : [ "kadavancactus", 2]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedfoodgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.06, "item" : [ "mellowroot", 2]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedfoodgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.06, "item" : [ "selvasextract", 2]}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedfoodgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.06, "item" : [ "vahlberries", 2]}
+  },
+
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "avikanhistory1-codex"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "avikanhistory2-codex"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "avikanhistory3-codex"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "avikanhistory4-codex"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "avikanhistory5-codex"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "avikanhistory6-codex"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "avikanhistory7-codex"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "aegihistory1-codex"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "aegihistory2-codex"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "aegihistory3-codex"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "aegihistory4-codex"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "aegihistory5-codex"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "aegihistory6-codex"}
+  },
+
+  {"op" : "add",
+	"path" : "/atprk_unpackedfossilgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "akkimarifossil1"}
+  },
+  {"op" : "add",
+	"path" : "/atprk_unpackedfossilgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "akkimarifossil2"}
+  },
+  {"op" : "add",
+	"path" : "/atprk_unpackedfossilgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "akkimarifossil3"}
+  },
+  {"op" : "add",
+	"path" : "/atprk_unpackedfossilgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "avikanfossil1"}
+  },
+  {"op" : "add",
+	"path" : "/atprk_unpackedfossilgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "avikanfossil2"}
+  },
+  {"op" : "add",
+	"path" : "/atprk_unpackedfossilgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "avikanfossil3"}
+  },
+  {"op" : "add",
+	"path" : "/atprk_unpackedfossilgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "drodenfossil1"}
+  },
+  {"op" : "add",
+	"path" : "/atprk_unpackedfossilgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "drodenfossil2"}
+  },
+  {"op" : "add",
+	"path" : "/atprk_unpackedfossilgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "drodenfossil3"}
+  },
+  {"op" : "add",
+	"path" : "/atprk_unpackedfossilgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "trinkfossil1"}
+  },
+  {"op" : "add",
+	"path" : "/atprk_unpackedfossilgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "trinkfossil2"}
+  },
+  {"op" : "add",
+	"path" : "/atprk_unpackedfossilgoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "trinkfossil3"}
+  }
+]
