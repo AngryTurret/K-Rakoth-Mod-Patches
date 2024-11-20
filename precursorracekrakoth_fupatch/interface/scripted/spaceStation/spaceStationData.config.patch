@@ -1,0 +1,79 @@
+[
+  {
+    "op": "add",
+    "path": "/objectData/goodsStock/fu_4dgoods",
+    "value": 0
+  },
+  {
+    "op": "add",
+    "path": "/objectData/goodsStock/fu_fossilgoods",
+    "value": 0
+  },
+  {
+    "op": "add",
+    "path": "/objectData/goodsStock/fu_loregoods",
+    "value": 0
+  },
+  {
+    "op": "add",
+    "path": "/objectData/goodsStock/fu_relicgoods",
+    "value": 0
+  },
+  {
+    "op": "add",
+    "path": "/goods/-",
+    "value": {
+      "name": "fu_4dgoods",
+      "basePrice": 1000,
+      "baseAmount": 5,
+      "abundance": "scientific",
+      "lack": [
+        "military",
+        "medical",
+        "trading"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/goods/-",
+    "value": {
+      "name": "fu_fossilgoods",
+      "basePrice": 500,
+      "baseAmount": 100,
+      "abundance": "scientific",
+      "lack": [
+        "military",
+        "medical"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/goods/-",
+    "value": {
+      "name": "fu_loregoods",
+      "basePrice": 250,
+      "baseAmount": 150,
+      "abundance": "trading",
+      "lack": [
+        "military",
+        "medical"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/goods/-",
+    "value": {
+      "name": "fu_relicgoods",
+      "basePrice": 650,
+      "baseAmount": 100,
+      "abundance": "scientific",
+      "lack": [
+        "military",
+        "medical"
+      ]
+    }
+  }
+]
