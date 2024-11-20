@@ -1,0 +1,15 @@
+{
+  "itemName" : "fu_4dgoods",
+  "rarity" : "legendary",
+  "category" : "tradeGoods",
+  "inventoryIcon" : "atprk_4dgoods.png",
+  "description" : "A sealed crate of extradimensional objects, valuable for interstellar trade.",
+  "shortdescription" : "4D Anomalies",
+  "currency" : "fu_4dgoods",
+  "value" : 1,
+  "pickupSoundsSmall" : [ "/sfx/objects/coinstack_small1.ogg", "/sfx/objects/coinstack_small2.ogg", "/sfx/objects/coinstack_small3.ogg" ],
+  "pickupSoundsMedium" : [ "/sfx/objects/coinstack_medium1.ogg", "/sfx/objects/coinstack_medium2.ogg" ],
+  "pickupSoundsLarge" : [ "/sfx/objects/coinstack_large.ogg" ],
+  "smallStackLimit" : 1000,
+  "maxStack" : 99999
+}

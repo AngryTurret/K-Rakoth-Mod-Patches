@@ -1,0 +1,15 @@
+{
+  "itemName" : "fu_loregoods",
+  "rarity" : "uncommon",
+  "category" : "tradeGoods",
+  "inventoryIcon" : "atprk_loregoods.png",
+  "description" : "A sealed crate of historical books and knowledge, valuable for interstellar trade.",
+  "shortdescription" : "Historical Records",
+  "currency" : "fu_loregoods",
+  "value" : 1,
+  "pickupSoundsSmall" : [ "/sfx/objects/coinstack_small1.ogg", "/sfx/objects/coinstack_small2.ogg", "/sfx/objects/coinstack_small3.ogg" ],
+  "pickupSoundsMedium" : [ "/sfx/objects/coinstack_medium1.ogg", "/sfx/objects/coinstack_medium2.ogg" ],
+  "pickupSoundsLarge" : [ "/sfx/objects/coinstack_large.ogg" ],
+  "smallStackLimit" : 1000,
+  "maxStack" : 99999
+}
