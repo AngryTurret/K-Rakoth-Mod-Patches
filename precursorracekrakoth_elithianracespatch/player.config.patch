@@ -1,0 +1,14 @@
+[
+  { "op" : "add",
+	"path" : "/deploymentConfig/thea-randomEventValidPlanetTypes/-",
+	"value" : "atprk_boilingocean"
+  },
+{ "op" : "add",
+	"path" : "/deploymentConfig/thea-randomEventValidPlanetTypes/-",
+	"value" : "atprk_ashworld"
+  },
+{ "op" : "add",
+	"path" : "/deploymentConfig/thea-randomEventValidPlanetTypes/-",
+	"value" : "atprk_ruinedworld"
+  }
+]
