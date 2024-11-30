@@ -1,0 +1,124 @@
+[
+	[
+		{
+			"op": "add",
+			"path": "/atprk_ruindronelauncher/elementalType",
+			"value": "physical"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_ruindronelauncher/stats/mechMass",
+			"value": 6
+		},
+		{
+			"op": "add",
+			"path": "/atprk_phaseblade/elementalType",
+			"value": "electric"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_phaseblade/stats/mechMass",
+			"value": 5
+		},
+		{
+			"op": "add",
+			"path": "/atprk_phaseraygun/elementalType",
+			"value": "electric"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_phaseraygun/stats/mechMass",
+			"value": 5
+		},
+		{
+			"op": "add",
+			"path": "/atprk_fenronfist/elementalType",
+			"value": "physical"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_fenronfist/stats/mechMass",
+			"value": 5
+		},
+		{
+			"op": "add",
+			"path": "/atprk_noolithdronelauncher/elementalType",
+			"value": "physical"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_noolithdronelauncher/stats/mechMass",
+			"value": 5
+		},
+		{
+			"op": "add",
+			"path": "/atprk_anneliskbeamdrill/elementalType",
+			"value": "fire"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_anneliskbeamdrill/stats/mechMass",
+			"value": 5
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothbeamdrill/elementalType",
+			"value": "physical"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothbeamdrill/stats/mechMass",
+			"value": 6
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothblade/elementalType",
+			"value": "physical"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothblade/stats/mechMass",
+			"value": 6
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothdronelauncher/elementalType",
+			"value": "physical"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothdronelauncher/stats/mechMass",
+			"value": 6
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothminelayer/elementalType",
+			"value": "physical"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothminelayer/stats/mechMass",
+			"value": 8
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrifle/elementalType",
+			"value": "physical"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrifle/stats/mechMass",
+			"value": 6
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothmissile/elementalType",
+			"value": "physical"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothmissile/stats/mechMass",
+			"value": 7
+		}
+	]
+]

@@ -1,0 +1,14 @@
+[
+	[
+		{
+			"op": "add",
+			"path": "/atprk_hoverpads/stats/mechMass",
+			"value": 6
+		},
+		{
+			"op": "add",
+			"path": "/atprk_marksman/stats/mechMass",
+			"value": 6
+		}
+	]
+]

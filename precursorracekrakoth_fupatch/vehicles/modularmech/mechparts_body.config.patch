@@ -1,0 +1,670 @@
+[
+	[
+		{
+			"op": "add",
+			"path": "/atprk_devout/stats/mechMass",
+			"value": 5
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout/stats/healthBonus",
+			"value": 1.15
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout/stats/energyBonus",
+			"value": 1
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout/partParameters/hazardImmunities/-",
+			"value": "coldweathernew"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout/partParameters/hazardImmunities/-",
+			"value": "ffbiomecold0"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout/partParameters/hazardImmunities/-",
+			"value": "ffbiomecold1"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout/partParameters/hazardImmunities/-",
+			"value": "ffbiomecold2"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout/partParameters/hazardImmunities/-",
+			"value": "ffbiomeelectric1"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout/partParameters/hazardImmunities/-",
+			"value": "desertweathernew"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout/partParameters/hazardImmunities/-",
+			"value": "jungleheatweather"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout/partParameters/hazardImmunities/-",
+			"value": "poisonweathernewbiome"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout/partParameters/hazardImmunities/-",
+			"value": "poisonweathernew"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout/partParameters/hazardImmunities/-",
+			"value": "biomepoison1"
+		},
+
+		{
+			"op": "add",
+			"path": "/atprk_devout2/stats/mechMass",
+			"value": 7
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/stats/healthBonus",
+			"value": 1
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/stats/energyBonus",
+			"value": 1.25
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/partParameters/hazardImmunities/1",
+			"value": "radioactiveweathernew"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/partParameters/hazardImmunities/2",
+			"value": "radioactiveweathernew2"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/partParameters/hazardImmunities/3",
+			"value": "radioactiveweathernew3"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/partParameters/hazardImmunities/-",
+			"value": "heatweathernew"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/partParameters/hazardImmunities/-",
+			"value": "heatweathernew2"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/partParameters/hazardImmunities/-",
+			"value": "ffbiomeheat1"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/partParameters/hazardImmunities/-",
+			"value": "ffbiomeheat2"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/partParameters/hazardImmunities/-",
+			"value": "ffbiomeheat3"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/partParameters/hazardImmunities/-",
+			"value": "ffbiomeelectric1"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/partParameters/hazardImmunities/-",
+			"value": "desertweathernewdeadly"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/partParameters/hazardImmunities/-",
+			"value": "coldweathernew"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/partParameters/hazardImmunities/-",
+			"value": "ffbiomecold0"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/partParameters/hazardImmunities/-",
+			"value": "ffbiomecold1"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/partParameters/hazardImmunities/-",
+			"value": "ffbiomecold2"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/partParameters/hazardImmunities/-",
+			"value": "ffbiomecold3"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/partParameters/hazardImmunities/-",
+			"value": "desertweathernew"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/partParameters/hazardImmunities/-",
+			"value": "jungleheatweather"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/partParameters/hazardImmunities/-",
+			"value": "poisonweathernewbiome"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/partParameters/hazardImmunities/-",
+			"value": "poisonweathernew"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/partParameters/hazardImmunities/-",
+			"value": "biomepoisongas"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/partParameters/hazardImmunities/-",
+			"value": "biomepoison1"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/partParameters/hazardImmunities/-",
+			"value": "biomepoison2"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/partParameters/hazardImmunities/-",
+			"value": "biomepoison3"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_devout2/partParameters/liquidImmunities",
+			"value": {
+				"fuironliquid": true,
+				"lava": true,
+				"darkwater": true,
+				"liquidnitrogen": true
+			}
+		},
+
+		{
+			"op": "add",
+			"path": "/atprk_relicseeker/stats/mechMass",
+			"value": 5
+		},
+		{
+			"op": "add",
+			"path": "/atprk_relicseeker/stats/healthBonus",
+			"value": 1.15
+		},
+		{
+			"op": "add",
+			"path": "/atprk_relicseeker/stats/energyBonus",
+			"value": 1
+		},
+		{
+			"op": "add",
+			"path": "/atprk_relicseeker/partParameters/hazardImmunities/-",
+			"value": "coldweathernew"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_relicseeker/partParameters/hazardImmunities/-",
+			"value": "ffbiomecold0"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_relicseeker/partParameters/hazardImmunities/-",
+			"value": "ffbiomecold1"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_relicseeker/partParameters/hazardImmunities/-",
+			"value": "ffbiomecold2"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_relicseeker/partParameters/hazardImmunities/-",
+			"value": "ffbiomeelectric1"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_relicseeker/partParameters/hazardImmunities/-",
+			"value": "desertweathernew"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_relicseeker/partParameters/hazardImmunities/-",
+			"value": "jungleheatweather"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_relicseeker/partParameters/hazardImmunities/-",
+			"value": "poisonweathernewbiome"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_relicseeker/partParameters/hazardImmunities/-",
+			"value": "poisonweathernew"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_relicseeker/partParameters/hazardImmunities/-",
+			"value": "biomepoison1"
+		},
+
+		{
+			"op": "add",
+			"path": "/atprk_riftdiver/stats/mechMass",
+			"value": 6
+		},
+		{
+			"op": "add",
+			"path": "/atprk_riftdiver/stats/healthBonus",
+			"value": 0.8
+		},
+		{
+			"op": "add",
+			"path": "/atprk_riftdiver/stats/energyBonus",
+			"value": 1.25
+		},
+		{
+			"op": "add",
+			"path": "/atprk_riftdiver/partParameters/hazardImmunities/1",
+			"value": "radioactiveweathernew"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_riftdiver/partParameters/hazardImmunities/2",
+			"value": "radioactiveweathernew2"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_riftdiver/partParameters/hazardImmunities/-",
+			"value": "coldweathernew"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_riftdiver/partParameters/hazardImmunities/-",
+			"value": "ffbiomecold0"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_riftdiver/partParameters/hazardImmunities/-",
+			"value": "ffbiomecold1"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_riftdiver/partParameters/hazardImmunities/-",
+			"value": "ffbiomecold2"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_riftdiver/partParameters/hazardImmunities/-",
+			"value": "ffbiomecold3"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_riftdiver/partParameters/hazardImmunities/-",
+			"value": "ffbiomeelectric1"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_riftdiver/partParameters/hazardImmunities/-",
+			"value": "desertweathernew"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_riftdiver/partParameters/hazardImmunities/-",
+			"value": "jungleheatweather"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_riftdiver/partParameters/hazardImmunities/-",
+			"value": "poisonweathernewbiome"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_riftdiver/partParameters/hazardImmunities/-",
+			"value": "poisonweathernew"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_riftdiver/partParameters/hazardImmunities/-",
+			"value": "biomepoisongas"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_riftdiver/partParameters/hazardImmunities/-",
+			"value": "biomepoison1"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_riftdiver/partParameters/hazardImmunities/-",
+			"value": "biomepoison2"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_riftdiver/partParameters/hazardImmunities/-",
+			"value": "biomepoison3"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_riftdiver/partParameters/liquidImmunities",
+			"value": {
+				"darkwater": true,
+				"liquidnitrogen": true
+			}
+		},
+		{
+			"op": "add",
+			"path": "/atprk_riftdiver/partParameters/liquidImmunities",
+			"value": {
+				"darkwater": true,
+				"liquidnitrogen": true
+			}
+		},
+
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/stats/mechMass",
+			"value": 7
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/stats/healthBonus",
+			"value": 1.3
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/stats/energyBonus",
+			"value": 0.75
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/partParameters/hazardImmunities/1",
+			"value": "radioactiveweathernew"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/partParameters/hazardImmunities/2",
+			"value": "radioactiveweathernew2"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/partParameters/hazardImmunities/3",
+			"value": "radioactiveweathernew3"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/partParameters/hazardImmunities/-",
+			"value": "heatweathernew"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/partParameters/hazardImmunities/-",
+			"value": "heatweathernew2"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/partParameters/hazardImmunities/-",
+			"value": "ffbiomeheat1"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/partParameters/hazardImmunities/-",
+			"value": "ffbiomeheat2"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/partParameters/hazardImmunities/-",
+			"value": "ffbiomeheat3"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/partParameters/hazardImmunities/-",
+			"value": "ffbiomeelectric1"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/partParameters/hazardImmunities/-",
+			"value": "desertweathernewdeadly"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/partParameters/hazardImmunities/-",
+			"value": "coldweathernew"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/partParameters/hazardImmunities/-",
+			"value": "ffbiomecold0"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/partParameters/hazardImmunities/-",
+			"value": "ffbiomecold1"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/partParameters/hazardImmunities/-",
+			"value": "ffbiomecold2"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/partParameters/hazardImmunities/-",
+			"value": "ffbiomecold3"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/partParameters/hazardImmunities/-",
+			"value": "desertweathernew"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/partParameters/hazardImmunities/-",
+			"value": "jungleheatweather"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/partParameters/hazardImmunities/-",
+			"value": "poisonweathernewbiome"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/partParameters/hazardImmunities/-",
+			"value": "poisonweathernew"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/partParameters/hazardImmunities/-",
+			"value": "biomepoisongas"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/partParameters/hazardImmunities/-",
+			"value": "biomepoison1"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/partParameters/hazardImmunities/-",
+			"value": "biomepoison2"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/partParameters/hazardImmunities/-",
+			"value": "biomepoison3"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothrobo/partParameters/liquidImmunities",
+			"value": {
+				"fuironliquid": true,
+				"lava": true,
+				"darkwater": true,
+				"liquidnitrogen": true
+			}
+		},
+
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/stats/mechMass",
+			"value": 7
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/stats/healthBonus",
+			"value": 1.3
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/stats/energyBonus",
+			"value": 0.75
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/partParameters/hazardImmunities/1",
+			"value": "radioactiveweathernew"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/partParameters/hazardImmunities/2",
+			"value": "radioactiveweathernew2"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/partParameters/hazardImmunities/3",
+			"value": "radioactiveweathernew3"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/partParameters/hazardImmunities/-",
+			"value": "heatweathernew"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/partParameters/hazardImmunities/-",
+			"value": "heatweathernew2"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/partParameters/hazardImmunities/-",
+			"value": "ffbiomeheat1"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/partParameters/hazardImmunities/-",
+			"value": "ffbiomeheat2"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/partParameters/hazardImmunities/-",
+			"value": "ffbiomeheat3"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/partParameters/hazardImmunities/-",
+			"value": "ffbiomeelectric1"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/partParameters/hazardImmunities/-",
+			"value": "desertweathernewdeadly"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/partParameters/hazardImmunities/-",
+			"value": "coldweathernew"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/partParameters/hazardImmunities/-",
+			"value": "ffbiomecold0"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/partParameters/hazardImmunities/-",
+			"value": "ffbiomecold1"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/partParameters/hazardImmunities/-",
+			"value": "ffbiomecold2"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/partParameters/hazardImmunities/-",
+			"value": "ffbiomecold3"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/partParameters/hazardImmunities/-",
+			"value": "desertweathernew"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/partParameters/hazardImmunities/-",
+			"value": "jungleheatweather"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/partParameters/hazardImmunities/-",
+			"value": "poisonweathernewbiome"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/partParameters/hazardImmunities/-",
+			"value": "poisonweathernew"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/partParameters/hazardImmunities/-",
+			"value": "biomepoisongas"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/partParameters/hazardImmunities/-",
+			"value": "biomepoison1"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/partParameters/hazardImmunities/-",
+			"value": "biomepoison2"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/partParameters/hazardImmunities/-",
+			"value": "biomepoison3"
+		},
+		{
+			"op": "add",
+			"path": "/atprk_krakothsuit/partParameters/liquidImmunities",
+			"value": {
+				"fuironliquid": true,
+				"lava": true,
+				"darkwater": true,
+				"liquidnitrogen": true
+			}
+		}
+	]
+]

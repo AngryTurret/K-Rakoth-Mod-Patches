@@ -1,0 +1,14 @@
+[
+	[
+		{
+			"op": "add",
+			"path": "/atprk_glyphrunner/stats/mechMass",
+			"value": 5
+		},
+		{
+			"op": "add",
+			"path": "/atprk_hoverboot/stats/mechMass",
+			"value": 5
+		}
+	]
+]
