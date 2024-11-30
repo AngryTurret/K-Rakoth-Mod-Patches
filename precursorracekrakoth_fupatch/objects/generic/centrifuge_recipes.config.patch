@@ -37,7 +37,25 @@
 				"goldenleaves": ["uncommon", 3],
 
 				"fuamberchunk": ["common", 3],
-				"copperore": ["common", 3]
+				"copperore": ["common", 2]
+			}
+	},
+	{
+		"op" : "add",
+		"path": "/itemMapRocks/atprk_chthonianrock",
+		"value" :
+			{
+				"helium3gasliquid": ["rarest", 2],
+
+				"corefragmentore": ["rare", 3],
+				"lead": ["rare", 2],
+				"liquidfuel": ["rare", 3],
+
+				"fu_carbon": ["uncommon", 3],
+				"solidfuel": ["uncommon", 2],
+
+				"ff_silicon": ["common", 2],
+				"ironore": ["common", 2]
 			}
 	}
 ]

@@ -22,6 +22,24 @@
 		"path": "/-",
 		"value":
 		{
+				"inputs": {"atprk_chthonianrock" : 50},
+				"outputs": {"ironore":[3,3,4]}
+		}
+	},
+	{
+		"op": "add",
+		"path": "/-",
+		"value":
+		{
+				"inputs": {"atprk_frozenfishwater" : 50},
+				"outputs": {"fu_nitrogen":[1,1,2], "liquidwater":[3,5,12], "biospore": [1,1,2]}
+		}
+	},
+	{
+		"op": "add",
+		"path": "/-",
+		"value":
+		{
 				"inputs": {"atprk_radiotrophicwood" : 20},
 				"outputs": {"fu_carbondioxide":[1,2,3], "toxicwaste": [1,2,3]}
 		}
@@ -60,6 +78,15 @@
 		{
 				"inputs": {"atprk_amberinsect3": 1},
 				"outputs": {"fugeneticmaterial":[5,10,15], "fuscienceresource": [2,5,8]}
+		}
+  },
+  {
+    "op": "add",
+    "path": "/-",
+    "value":
+		{
+				"inputs": {"atprk_ambergine": 1},
+				"outputs": {"fu_mulch":[1,1,2]}
 		}
   },
   {
@@ -114,15 +141,6 @@
 		{
 				"inputs": {"atprk_reliccircuitry": 1},
 				"outputs": {"ff_silicon":[1,1,1], "wire":[2,2,3], "fuscienceresource":[4,4,6]}
-		}
-  },
-  {
-    "op": "add",
-    "path": "/-",
-    "value":
-		{
-				"inputs": {"atprk_4dgoods": 1},
-				"outputs": {"atprk_4dparticle":[1,1,2], "atprk_chthonicscraps":[1,1,1]}
 		}
   },
   {
