@@ -41,7 +41,7 @@
   },
 {
     "op" : "add",
-    "path" : "/regionTypes/arcana_illuminated/subRegion/-",
+    "path" : "/regionTypes/arcana_nightmist/subRegion/-",
     "value" : "atprk_forgottenmountains"
   },
 
