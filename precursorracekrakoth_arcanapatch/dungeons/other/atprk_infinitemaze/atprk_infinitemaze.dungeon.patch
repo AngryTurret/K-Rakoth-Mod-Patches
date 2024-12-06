@@ -1,0 +1,41 @@
+[
+{
+  "op": "add",
+  "path": "/parts/-",
+  "value":  
+    {
+      "name" : "atprk_infinitemazeencounter_arcana1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "/dungeons/other/atprk_infinitemaze/atprk_infinitemazeencounter/atprk_infinitemazeencounter_arcana1.json" ],
+      "chance" : 0.3
+    }	
+},
+{
+  "op": "add",
+  "path": "/parts/-",
+  "value":  
+    {
+      "name" : "atprk_infinitemazeencounter_arcana2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "/dungeons/other/atprk_infinitemaze/atprk_infinitemazeencounter/atprk_infinitemazeencounter_arcana2.json" ],
+      "chance" : 0.3
+    }	
+},
+{
+  "op": "add",
+  "path": "/parts/-",
+  "value":  
+    {
+      "name" : "atprk_infinitemazeencounter_arcana3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "/dungeons/other/atprk_infinitemaze/atprk_infinitemazeencounter/atprk_infinitemazeencounter_arcana3.json" ],
+      "chance" : 0.3
+    }	
+}
+]

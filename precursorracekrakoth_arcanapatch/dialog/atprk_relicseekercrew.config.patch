@@ -22,5 +22,53 @@
 		"Have your people found anythin' notable on Arcane planets? Like, any ancient ruins?",
 		"Your people must've better memory than us Novakids. Why not join us? You can help us a lot on our journey."
     ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/novakid/gilten",
+    "value": [
+		"Pleasantly surprised t' see a Gilten here with us! Care for a piece o' fresh apple pie?",
+		"I've tried t' apply for the Aurea Seekers once. I botched the entrance trial, had t' stick to the second best option.",
+		"Learnin' about the races that came before us is excitin' and disturbin' at the same time. How many of 'em were out there?",
+		"Do you have your own mech? I thought it ain't easy to afford.",
+		"Hello, fellow spacer! Got anything unusual? Some ancient relics, maybe?",
+		"Say, are you from the Aurea by any chance? We always look forward to collaboration!",
+		"Ever heard of K'Rakoths? Their race's been puzzlin' us for a while.",
+		"For now our insight into different types of essences is shallow. But it only means that we have more to learn and discover!",
+		"You know there's an elder race of aquatic squids out there? Forgot their name, though... again...",
+		"We Novakids don't have well-written history books, so it's our duty to finally record everything right.",
+		"I've never been to Empyrean planets before. How is it out there?",
+		"Once we're finished with K'Rakoths, we ought to explore the Celestial Corridors. In theory, they should give us more information about the Ancients.",
+		"Space is kinda empty and dispiritin' at times, but if you search long enough, you'll always find somethin' wonderful.",
+		"There are so many strange worlds that intrigue us. They seem to be affected by greater cosmic powers.",
+		"Howdy, my name is <selfname>. Pleased to meet yet another curious spacefarer!",
+		"The Ruin's true origin is shrouded in myths. Go figure how it was really born.",
+		"Careful, don't knock anythin' down with these broad wings!",
+		"Your people must've better memory than us Novakids. Why not join us? You can help us a lot on our journey."
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/novakid/gelsemis",
+    "value": [
+		"Huh, we don't see the Gelsemis very often. Welcome aboard!",
+		"I've tried t' apply for the Aurea Seekers once. I botched the entrance trial, had t' stick to the second best option.",
+		"Learnin' about the races that came before us is excitin' and disturbin' at the same time. How many of 'em were out there?",
+		"Do you have your own mech? I thought it ain't easy to afford.",
+		"Hello, fellow spacer! Got anything unusual? Some ancient relics, maybe?",
+		"You don't look like you're with the Anarkyons... Don't stir up trouble, and you'll be fine in my book.",
+		"Ever heard of K'Rakoths? Their race's been puzzlin' us for a while.",
+		"For now our insight into different types of essences is shallow. But it only means that we have more to learn and discover!",
+		"You know there's an elder race of aquatic squids out there? Forgot their name, though... again...",
+		"We Novakids don't have well-written history books, so it's our duty to finally record everything right.",
+		"I hope you haven't brought anythin' toxic with you by accident.",
+		"Once we're finished with K'Rakoths, we ought to explore the Celestial Corridors. In theory, they should give us more information about the Ancients.",
+		"Space is kinda empty and dispiritin' at times, but if you search long enough, you'll always find somethin' wonderful.",
+		"There are so many strange worlds that intrigue us. They seem to be affected by greater cosmic powers.",
+		"Howdy, my name is <selfname>. Pleased to meet yet another curious spacefarer!",
+		"The Ruin's true origin is shrouded in myths. Go figure how it was really born.",
+		"Hold on, you're not a Floran, are you?",
+		"Your people must've better memory than us Novakids. Why not join us? You can help us a lot on our journey."
+    ]
   }
 ]
