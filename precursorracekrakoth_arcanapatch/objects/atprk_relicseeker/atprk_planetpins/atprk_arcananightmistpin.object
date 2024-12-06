@@ -1,0 +1,61 @@
+{
+  "objectName" : "atprk_arcananightmistpin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of a ferocious planet.",
+  "shortdescription" : "Nightmist Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "A nightmist planet, populated by entities some would call undead.",
+  "avianDescription" : "The eternally dark nightmist worlds are where the line between the living and the dead gets blurry.",
+  "floranDescription" : "On nightmissst planetss, Floran hasss to kill thingss twice. Good for ssstabbing practice.",
+  "glitchDescription" : "Knowledgeable. A pin of a dark wet planet overrun by revenants.",
+  "humanDescription" : "A haunted nightmist world. Its dreary surface is one massive graveyard.",
+  "hylotlDescription" : "It's believed that nightmist planets' inhabitants fell victim to a mad necromancer.",
+  "novakidDescription" : "These nightmist planets are nothin' short o' harrowin'.",
+
+  "atprk_anneliskDescription" : "...",
+  "atprk_fenronDescription" : "...",
+  "atprk_noolithDescription" : "...",
+
+  "particleEmitter" : {
+    "emissionRate" : 0.4,
+    "emissionVariance" : 0.2,
+    "pixelOrigin" : [0, 8],
+
+    "particle" : {
+      "type" : "animated",
+      "animation" : "/animations/sparkles/sparkle1.animation",
+      "size" : 1.0,
+      "fade" : 0,
+      "destructionAction" : "shrink",
+      "destructionTime" : 3,
+      "initialVelocity" : [0, 0],
+      "finalVelocity" : [0, 0],
+      "timeToLive" : 1,
+      "layer" : "front"
+    },
+
+    "particleVariance" : {
+      "position" : [0.7, 0.7]
+    }
+  },
+
+  "inventoryIcon" : "atprk_arcananightmistpin.png",
+  "orientations" : [
+    {
+      "dualImage" : "atprk_arcananightmistpin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

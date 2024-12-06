@@ -93,6 +93,14 @@
 		"op": "add",
 		"path": "/interactData/items/-",
 		"value": {
+			"item": { "name" : "atprk_arcananightmistpin" },
+			"prerequisiteQuest" : "arcana_quests_gushenAntique_2"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
 			"item": { "name" : "atprk_arcanaautomatedpin" },
 			"prerequisiteQuest" : "arcana_quests_gushenAntique_3"
 		}
