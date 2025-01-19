@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 732 }
+  ],
+  "output" : {
+    "item" : "fu_relicgoods",
+    "count" : 1
+  },
+  "groups" : [ "kirhosshop", "all", "items" ],
+  "duration" : 0.01
+}

@@ -1,0 +1,22 @@
+[
+	{
+		"op": "add",
+		"path": "/fu_4dgoods",
+		"value": { "representativeItem" : "fu_4dgoods", "playerMax" : 99999, "sail_group" : "fu_tradegoods", "sail_secret" : true }
+	},
+{
+		"op": "add",
+		"path": "/fu_fossilgoods",
+		"value": { "representativeItem" : "fu_fossilgoods", "playerMax" : 99999, "sail_group" : "fu_tradegoods" }
+	},
+{
+		"op": "add",
+		"path": "/fu_loregoods",
+		"value": { "representativeItem" : "fu_loregoods", "playerMax" : 99999, "sail_group" : "fu_tradegoods" }
+	},
+{
+		"op": "add",
+		"path": "/fu_relicgoods",
+		"value": { "representativeItem" : "fu_relicgoods", "playerMax" : 99999, "sail_group" : "fu_tradegoods" }
+	}
+]

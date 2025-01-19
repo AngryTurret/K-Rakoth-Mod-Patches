@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 1500 }
+  ],
+  "output" : {
+    "item" : "fu_4dgoods",
+    "count" : 1
+  },
+  "groups" : [ "kirhosshop", "all", "items" ],
+  "duration" : 0.01
+}

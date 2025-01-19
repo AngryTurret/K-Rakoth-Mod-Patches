@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/statusEffects/0",
+    "value": "erchiussickness2"
+  },
+  {
+    "op": "replace",
+    "path": "/statusEffects/1",
+    "value": "ffbiomeheat2"
+  }
+]
