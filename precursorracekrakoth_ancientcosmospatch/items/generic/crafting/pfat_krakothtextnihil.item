@@ -11,4 +11,7 @@
     "pfat_krakothcodexnihil-codex"
   ],
   "radioMessagesOnPickup" : [ "atprk_krakothcodexmessage" ]
+    "pfat_krakothcodexnihil-codex",
+"pfat_krakothtextnihil"
+  ]
 }

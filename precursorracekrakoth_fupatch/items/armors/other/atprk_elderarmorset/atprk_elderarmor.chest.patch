@@ -35,27 +35,49 @@
 			"op": "add",
 			"path": "/itemTags/-",
 			"value": "balanced"
-		}
+		},
+{
+    "op": "add",
+    "path": "/itemTags/-",
+    "value": "explorer"
+  }
 
 	],
 	[{
 			"op": "replace",
 			"path": "/description",
 			"value": "^orange;Set Bonuses^reset;:
-^yellow;^reset; +^green;10^reset;% Crit Chance
-^yellow;^reset; ^cyan;Immune^reset;: Breathing, Pressure"
+^yellow;^reset; Spear/Rocket Launcher: Damage x^green;1.25^reset;
+^yellow;^reset; ^cyan;Immune^reset;: Deadly Rads, Deadly Heat/Cold, Poison, Oxygen, Liq. Nitrogen, Black Tar, Sulphuric Acid"
 		},
 		{
 			"op": "add",
 			"path": "/statusEffects",
 			"value": [
-				    "perfectsetbonusnew",
+				    "atprk_elderarmorsetbonus",
 				{
-					"stat" : "fu_perfectsetnew_chest",
+					"stat" : "atprk_fuelderarmorsetbonus_chest",
 					"amount" : 1
 				}
 			]
 		},
+{
+    "op": "add",
+    "path": "/leveledStatusEffects/-",
+    "value": {
+      "levelFunction": "fuArmorResistMultiplier",
+      "stat": "cosmicResistance",
+      "amount": 0.02
+    }
+  },
+  {
+    "op": "add",
+    "path": "/leveledStatusEffects/-",
+    "value": {
+      "levelFunction": "fuArmorResistMultiplier",
+      "stat": "shadowResistance",
+      "amount": 0.02
+    },
 		{
 			"op": "replace",
 			"path": "/tooltipKind",
