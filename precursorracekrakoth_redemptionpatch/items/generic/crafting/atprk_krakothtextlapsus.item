@@ -8,7 +8,8 @@
   "shortdescription" : "K'Rakoth Codex Lapsus",
   "itemTags" : [ "reagent" ],
   "learnBlueprintsOnPickup" : [
-    "atprk_krakothcodexlapsus-codex"
+    "atprk_krakothcodexlapsus-codex",
+    "atprk_krakothtextlapsus"
   ],
   "radioMessagesOnPickup" : [ "atprk_krakothcodexmessage" ]
 }
