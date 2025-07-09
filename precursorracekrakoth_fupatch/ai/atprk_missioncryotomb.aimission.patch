@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "value": "The Cryogenic Tomb (7)"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "value": "Revisit the Cryogenic Tomb (7)"
+  }
+]
