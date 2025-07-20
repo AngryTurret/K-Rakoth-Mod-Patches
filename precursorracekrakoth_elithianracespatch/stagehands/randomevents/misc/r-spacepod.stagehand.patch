@@ -1,0 +1,98 @@
+[
+  {
+    "op": "add",
+    "path": "/monsterSpawns/-",
+    "value": {
+      "monsterType": "atprk_andronerare",
+      "count": 1
+    }
+  },
+{
+    "op": "add",
+    "path": "/monsterSpawns/-",
+    "value": {
+      "monsterType": "atprk_crawleechrare",
+      "count": 1
+    }
+  },
+{
+    "op": "add",
+    "path": "/monsterSpawns/-",
+    "value": {
+      "monsterType": "atprk_oculopterrare",
+      "count": 1
+    }
+  },
+{
+    "op": "add",
+    "path": "/monsterSpawns/-",
+    "value": {
+      "monsterType": "atprk_algeistrare",
+      "count": 1
+    }
+  },
+{
+    "op": "add",
+    "path": "/monsterSpawns/-",
+    "value": {
+      "monsterType": "atprk_sapphaserare",
+      "count": 1
+    }
+  },
+{
+    "op": "add",
+    "path": "/monsterSpawns/-",
+    "value": {
+      "monsterType": "atprk_xenoproberare",
+      "count": 1
+    }
+  },
+{
+    "op": "add",
+    "path": "/monsterSpawns/-",
+    "value": {
+      "monsterType": "atprk_ambryorare",
+      "count": 1
+    }
+  },
+{
+    "op": "add",
+    "path": "/monsterSpawns/-",
+    "value": {
+      "monsterType": "atprk_clamiarare",
+      "count": 1
+    }
+  },
+{
+    "op": "add",
+    "path": "/monsterSpawns/-",
+    "value": {
+      "monsterType": "atprk_duodungrare",
+      "count": 1
+    }
+  },
+{
+    "op": "add",
+    "path": "/monsterSpawns/-",
+    "value": {
+      "monsterType": "atprk_hungertrictusrare",
+      "count": 1
+    }
+  },
+{
+    "op": "add",
+    "path": "/monsterSpawns/-",
+    "value": {
+      "monsterType": "atprk_roxmolrare",
+      "count": 1
+    }
+  },
+{
+    "op": "add",
+    "path": "/monsterSpawns/-",
+    "value": {
+      "monsterType": "atprk_shruberserkrare",
+      "count": 1
+    }
+  }
+]
