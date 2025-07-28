@@ -1,0 +1,27 @@
+{
+  "type" : "atprk_theashapelessambush",
+
+  "scripts" : ["/stagehands/randomevents/monsterambush/thea-monsterambushevent.lua"],
+  "scriptDelta" : 1,
+  
+  "monsterTypes" : [
+	"atprk_shapelessdweller",
+	"atprk_shapelessdweller",
+	"atprk_shapelessdweller",
+	"atprk_shapelessdweller",
+	"atprk_shapelessdweller",
+	"atprk_shapelessdweller",
+	"atprk_shapelessdweller",
+	"atprk_shapelessdweller",
+	"atprk_shapelessdweller",
+	"atprk_shapelesswarlock"
+  ],
+  "monsterCount" : [ 3, 5 ],
+  "monsterTestPoly" : [ [-0.75, -2.0], [-0.35, -2.5], [0.35, -2.5], [0.75, -2.0], [0.75, 0.65], [0.35, 1.22], [-0.35, 1.22], [-0.75, 0.65] ],
+  "spawnOnGround" : true,
+  "spawnEffect" : "thea-monsterspawn",
+  "minDistanceToPlayer" : 10,
+  "spawnRangeX" : 35,
+  "spawnRangeY" : 5,
+  "spawnTolerance" : 20
+}
