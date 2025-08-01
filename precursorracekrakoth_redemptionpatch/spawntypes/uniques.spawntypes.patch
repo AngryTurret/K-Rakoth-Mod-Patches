@@ -1,0 +1,21 @@
+[
+{
+    "op": "test",
+    "path": "/value/monsterType",
+    "value": "triplod"
+  },
+  {
+    "op": "replace",
+    "path": "/value/monsterType",
+    "value": [
+      [
+        0.99,
+        "triplod"
+      ],
+      [
+        0.01,
+        "uscmtriplod"
+      ]
+    ]
+  }
+]
