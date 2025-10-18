@@ -17,9 +17,9 @@
   "hylotlDescription" : "Some unimaginably malicious force corrupts these planets, turning them desolate. If only there was an ultimate way to stop it.",
   "novakidDescription" : "The heck's goin' on on these desolate planets? Darkness, floatin' rocks, armed crooks...",
 
-  "atprk_anneliskDescription" : "I don't understand what's happening with desolate planets and I'm not sure if I want to find out.",
-  "atprk_fenronDescription" : "A pin of a desolate place. It seemingly erases the line between the land and the sky.",
-  "atprk_noolithDescription" : "Is this what the Universe will look like should the World Horizon be summoned?",
+  "anneliskDescription" : "I don't understand what's happening with desolate planets and I'm not sure if I want to find out.",
+  "fenronDescription" : "A pin of a desolate place. It seemingly erases the line between the land and the sky.",
+  "noolithDescription" : "Is this what the Universe will look like should the World Horizon be summoned?",
 
   "particleEmitter" : {
     "emissionRate" : 0.4,

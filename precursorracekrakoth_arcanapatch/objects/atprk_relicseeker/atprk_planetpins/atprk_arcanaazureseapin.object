@@ -17,9 +17,9 @@
   "hylotlDescription" : "Some oceanic worlds are believed to be passages to the astral plane. Who knows, perhaps this one is no exception.",
   "novakidDescription" : "A pin of an extra blue sea.",
 
-  "atprk_anneliskDescription" : "Ah, good old azure seas. Nowhere else in the galaxy can one find so much oceanite lying around.",
-  "atprk_fenronDescription" : "This aquatic planet is not like the rest.",
-  "atprk_noolithDescription" : "A passage to the stars lies hidden below the azure waves.",
+  "anneliskDescription" : "Ah, good old azure seas. Nowhere else in the galaxy can one find so much oceanite lying around.",
+  "fenronDescription" : "This aquatic planet is not like the rest.",
+  "noolithDescription" : "A passage to the stars lies hidden below the azure waves.",
 
   "particleEmitter" : {
     "emissionRate" : 0.4,

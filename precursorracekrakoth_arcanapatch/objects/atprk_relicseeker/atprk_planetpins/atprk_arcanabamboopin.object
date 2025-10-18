@@ -17,9 +17,9 @@
   "hylotlDescription" : "This amusing planet is covered in nothing but dense bamboo forests. It provides enough eco-friendly materials.",
   "novakidDescription" : "A pin of a green planet where bamboo growth got outta hand.",
 
-  "atprk_anneliskDescription" : "Oh, so this is why Humans even bother preserving those funny black-and-white bears.",
-  "atprk_fenronDescription" : "Getting bamboo on these forest worlds is never an issue, right?",
-  "atprk_noolithDescription" : "On some planets, bamboo can be easily grown and harvested in abundance.",
+  "anneliskDescription" : "Oh, so this is why Humans even bother preserving those funny black-and-white bears.",
+  "fenronDescription" : "Getting bamboo on these forest worlds is never an issue, right?",
+  "noolithDescription" : "On some planets, bamboo can be easily grown and harvested in abundance.",
 
   "particleEmitter" : {
     "emissionRate" : 0.4,

@@ -17,9 +17,9 @@
   "hylotlDescription" : "Practically each superstorm expanse in the galaxy is a major population center.",
   "novakidDescription" : "A superstorm planet, the world of, well, superstorms. That's pretty obvious.",
 
-  "atprk_anneliskDescription" : "Planets orbiting superstorm stars have a serious overcharge problem.",
-  "atprk_fenronDescription" : "A pin of a superstorm expanse with a shiny lightning symbol.",
-  "atprk_noolithDescription" : "Somewhere on superstorm planets, one may find a floating fort guarded by electrified creatures.",
+  "anneliskDescription" : "Planets orbiting superstorm stars have a serious overcharge problem.",
+  "fenronDescription" : "A pin of a superstorm expanse with a shiny lightning symbol.",
+  "noolithDescription" : "Somewhere on superstorm planets, one may find a floating fort guarded by electrified creatures.",
 
   "particleEmitter" : {
     "emissionRate" : 0.4,

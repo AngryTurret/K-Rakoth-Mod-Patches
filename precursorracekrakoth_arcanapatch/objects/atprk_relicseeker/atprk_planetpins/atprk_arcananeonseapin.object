@@ -17,9 +17,9 @@
   "hylotlDescription" : "Thanks to the glowing water, our undersea settlements don't have to keep the lights on all day long.",
   "novakidDescription" : "Yup, that'll be a neon planet for sure. Good luck gettin' a good sleep there.",
 
-  "atprk_anneliskDescription" : "Has anyone figured out what makes the local oceans shine like giant neon signs?",
-  "atprk_fenronDescription" : "An unnaturally radiant ocean. At least the glow helps anglers a lot.",
-  "atprk_noolithDescription" : "Neon oceans are the reason behind this planet's endless days. They illuminate everything.",
+  "anneliskDescription" : "Has anyone figured out what makes the local oceans shine like giant neon signs?",
+  "fenronDescription" : "An unnaturally radiant ocean. At least the glow helps anglers a lot.",
+  "noolithDescription" : "Neon oceans are the reason behind this planet's endless days. They illuminate everything.",
 
   "particleEmitter" : {
     "emissionRate" : 0.4,

@@ -17,9 +17,9 @@
   "hylotlDescription" : "Turbulent planets are seldom colonized by anyone due to their uneven terrain.",
   "novakidDescription" : "The only place 'round the galaxy where pink aquamarine can be found.",
 
-  "atprk_anneliskDescription" : "If it weren't for precious pink aquamarine crystals, no one would care about turbulent planets.",
-  "atprk_fenronDescription" : "Why doesn't anyone live on turbulent planets? Is there something horrible lurking in the water?",
-  "atprk_noolithDescription" : "A turbulent sea dotted with pink rocky islands.",
+  "anneliskDescription" : "If it weren't for precious pink aquamarine crystals, no one would care about turbulent planets.",
+  "fenronDescription" : "Why doesn't anyone live on turbulent planets? Is there something horrible lurking in the water?",
+  "noolithDescription" : "A turbulent sea dotted with pink rocky islands.",
 
   "particleEmitter" : {
     "emissionRate" : 0.4,

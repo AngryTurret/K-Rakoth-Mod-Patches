@@ -17,9 +17,9 @@
   "hylotlDescription" : "Azure deserts reveal their hidden beauty when the sun sets. It's not that they are not beautiful in the light of day though.",
   "novakidDescription" : "This starry desert here makes me feel right at home.",
 
-  "atprk_anneliskDescription" : "Yeah I get it, a shiny desert. Very impressive, yadda-yadda.",
-  "atprk_fenronDescription" : "That's meant to be an azure desert, I assume. Not all deserts have glittering sand after all.",
-  "atprk_noolithDescription" : "Haunted by strange azure constructs, this desert is far from being a safe haven.",
+  "anneliskDescription" : "Yeah I get it, a shiny desert. Very impressive, yadda-yadda.",
+  "fenronDescription" : "That's meant to be an azure desert, I assume. Not all deserts have glittering sand after all.",
+  "noolithDescription" : "Haunted by strange azure constructs, this desert is far from being a safe haven.",
 
   "particleEmitter" : {
     "emissionRate" : 0.4,

@@ -17,9 +17,9 @@
   "hylotlDescription" : "It's believed that the inhabitants of the nightmist planets fell victim to a mad necromancer.",
   "novakidDescription" : "These nightmist planets are nothin' short o' harrowin'.",
 
-  "atprk_anneliskDescription" : "...",
-  "atprk_fenronDescription" : "...",
-  "atprk_noolithDescription" : "...",
+  "anneliskDescription" : "...",
+  "fenronDescription" : "...",
+  "noolithDescription" : "...",
 
   "particleEmitter" : {
     "emissionRate" : 0.4,

@@ -17,9 +17,9 @@
   "hylotlDescription" : "Whoever inhabited those illuminated planets had quite a refined taste in architecture. It is unfortunate we know nothing about them.",
   "novakidDescription" : "A pale, seemingly dead illuminated land. Kinda uncanny, y'know.",
 
-  "atprk_anneliskDescription" : "A painfully monotonous planet illuminated by a pale star. It desperately needs more color.",
-  "atprk_fenronDescription" : "Have illuminated planets always looked so ghostly? I don't feel like their radiance is natural.",
-  "atprk_noolithDescription" : "Strangely enough, I don't recall any particular civilization living on illuminated worlds.",
+  "anneliskDescription" : "A painfully monotonous planet illuminated by a pale star. It desperately needs more color.",
+  "fenronDescription" : "Have illuminated planets always looked so ghostly? I don't feel like their radiance is natural.",
+  "noolithDescription" : "Strangely enough, I don't recall any particular civilization living on illuminated worlds.",
 
   "particleEmitter" : {
     "emissionRate" : 0.4,

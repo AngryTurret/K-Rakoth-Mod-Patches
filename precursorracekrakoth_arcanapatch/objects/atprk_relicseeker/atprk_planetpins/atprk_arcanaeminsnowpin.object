@@ -17,9 +17,9 @@
   "hylotlDescription" : "Eminsnow worlds are home to the mighty Tsukikage clan. Its members practice the art of the sword in rather creative ways.",
   "novakidDescription" : "I often hear outlandish rumors 'bout these snowy lands. Sometimes I too start wonderin' if any of 'em are true.",
 
-  "atprk_anneliskDescription" : "Does this Tsukikage clan hold a monopoly on mining luminarium? Can I mine some without getting sued?",
-  "atprk_fenronDescription" : "A planet that is effectively a massive training ground for many skilled blademasters.",
-  "atprk_noolithDescription" : "A pin of a planet engulfed in lunar energies, but not exactly the ones originating from erchius.",
+  "anneliskDescription" : "Does this Tsukikage clan hold a monopoly on mining luminarium? Can I mine some without getting sued?",
+  "fenronDescription" : "A planet that is effectively a massive training ground for many skilled blademasters.",
+  "noolithDescription" : "A pin of a planet engulfed in lunar energies, but not exactly the ones originating from erchius.",
 
   "particleEmitter" : {
     "emissionRate" : 0.4,

@@ -17,9 +17,9 @@
   "hylotlDescription" : "The shining water is famous for its magical properties not observed in any other ocean.",
   "novakidDescription" : "A shinin' planet. Even the water keeps glowin' all day long.",
 
-  "atprk_anneliskDescription" : "Rich veins of atla-gold and the infinite source of arcane essence? What a planet!",
-  "atprk_fenronDescription" : "I wonder if the fish swimming in shining seas is somehow affected by arcane water.",
-  "atprk_noolithDescription" : "One of the most wonderful oceanic planets indeed. Its waters are infused with ancient power.",
+  "anneliskDescription" : "Rich veins of atla-gold and the infinite source of arcane essence? What a planet!",
+  "fenronDescription" : "I wonder if the fish swimming in shining seas is somehow affected by arcane water.",
+  "noolithDescription" : "One of the most wonderful oceanic planets indeed. Its waters are infused with ancient power.",
 
   "particleEmitter" : {
     "emissionRate" : 0.4,

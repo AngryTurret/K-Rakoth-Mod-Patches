@@ -1,21 +1,21 @@
 {
-  "objectName" : "atprk_arcanaredterminuspin",
+  "objectName" : "atprk_arcanarunicpin",
   "colonyTags" : ["atprk_planetpin"],
   "rarity" : "Common",
-  "description" : "A large pin of a red terminus planet.",
-  "shortdescription" : "Red Terminus Pin",
+  "description" : "A large pin of an runic desert planet.",
+  "shortdescription" : "Runic Desert Pin",
   "race" : "generic",
   "category" : "decorative",
   "printable" : false,
   "price" : 150,
 
-  "apexDescription" : "The inexplicable nature of red terminus planets attracts some and scares away the rest.",
-  "avianDescription" : "The terrain of a red terminus planet is a chaotic one.",
-  "floranDescription" : "Sssscary red planet.",
-  "glitchDescription" : "Uneasy. For whatever reason, hardly anyone ever tries to set foot on red terminus worlds.",
-  "humanDescription" : "A dying red world.",
-  "hylotlDescription" : "The red terminus, a morbid realm of decay and desolation.",
-  "novakidDescription" : "Not even my own SAIL dares t' say a word about red terminus planets!",
+  "apexDescription" : "Just like snowflakes, every symbol found in runic deserts is supposedly unique, or so they say.",
+  "avianDescription" : "An entire planet littered with remnants of centuries-old temples.",
+  "floranDescription" : "Pin of a sssandy runic planet.",
+  "glitchDescription" : "Baffled. A planet's worth of ruined temples! Just how many times did the locals attempt to build up?",
+  "humanDescription" : "Home to many Arcanians, the runic desert is a land of adventure and wonder.",
+  "hylotlDescription" : "A mystical place that hides countless secrets beneath the orange sands.",
+  "novakidDescription" : "Y'know it's not yer typical desert world when you see many alien symbols on the ground.",
 
   "anneliskDescription" : "...",
   "fenronDescription" : "...",
@@ -44,10 +44,10 @@
     }
   },
 
-  "inventoryIcon" : "atprk_arcanaredterminuspin.png",
+  "inventoryIcon" : "atprk_arcanarunicpin.png",
   "orientations" : [
     {
-      "dualImage" : "atprk_arcanaredterminuspin.png:<color>",
+      "dualImage" : "atprk_arcanarunicpin.png:<color>",
 
       "imagePosition" : [-8, 0],
       "frames" : 1,

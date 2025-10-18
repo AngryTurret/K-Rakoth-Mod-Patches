@@ -17,9 +17,9 @@
   "hylotlDescription" : "A planet where time has been brought to a halt via forbidden magic.",
   "novakidDescription" : "It's best not t' think too hard how this planet works.",
 
-  "atprk_anneliskDescription" : "Does living on a timeless planet turn you immortal? Asking for a friend.",
-  "atprk_fenronDescription" : "Why would anyone freeze an entire planet in time? This breaks the natural balance of the Universe!",
-  "atprk_noolithDescription" : "Misusing the Aeon has grave consequences, and each timeless planet proves it.",
+  "anneliskDescription" : "Does living on a timeless planet turn you immortal? Asking for a friend.",
+  "fenronDescription" : "Why would anyone freeze an entire planet in time? This breaks the natural balance of the Universe!",
+  "noolithDescription" : "Misusing the Aeon has grave consequences, and each timeless planet proves it.",
 
   "particleEmitter" : {
     "emissionRate" : 0.4,

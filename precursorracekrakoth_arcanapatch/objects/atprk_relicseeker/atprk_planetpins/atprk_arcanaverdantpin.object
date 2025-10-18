@@ -17,9 +17,9 @@
   "hylotlDescription" : "Yet another verdant realm of untamed wildlife. It is teeming with venomous fauna.",
   "novakidDescription" : "A magical jungle o' sorts. There're many scattered ruins.",
 
-  "atprk_anneliskDescription" : "Another forest planet, this time with florastone. Hooray, I guess.",
-  "atprk_fenronDescription" : "It's often said that verdant planets are a great starting point for young hunters.",
-  "atprk_noolithDescription" : "A lot of space pirates scout verdant planets in the hope of finding Floran treasures.",
+  "anneliskDescription" : "Another forest planet, this time with florastone. Hooray, I guess.",
+  "fenronDescription" : "It's often said that verdant planets are a great starting point for young hunters.",
+  "noolithDescription" : "A lot of space pirates scout verdant planets in the hope of finding Floran treasures.",
 
   "particleEmitter" : {
     "emissionRate" : 0.4,

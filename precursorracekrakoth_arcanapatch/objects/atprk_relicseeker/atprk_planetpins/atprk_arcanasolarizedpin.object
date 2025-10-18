@@ -17,9 +17,9 @@
   "hylotlDescription" : "A solarized planet where a legendary Shadow Spire may be found.",
   "novakidDescription" : "A burnin' planet blessed by three suns at once. You don't see this everyday!",
 
-  "atprk_anneliskDescription" : "Let me think. On the one hand, there're rich atumium deposits. On the other hand, there's the risk of being set on fire. Hm...",
-  "atprk_fenronDescription" : "Isn't this planet supposed to turn into a lifeless wasteland from the enormous heat?",
-  "atprk_noolithDescription" : "These fiery lands have a special connection to the solar plane, or so claim the legends.",
+  "anneliskDescription" : "Let me think. On the one hand, there're rich atumium deposits. On the other hand, there's the risk of being set on fire. Hm...",
+  "fenronDescription" : "Isn't this planet supposed to turn into a lifeless wasteland from the enormous heat?",
+  "noolithDescription" : "These fiery lands have a special connection to the solar plane, or so claim the legends.",
 
   "particleEmitter" : {
     "emissionRate" : 0.4,

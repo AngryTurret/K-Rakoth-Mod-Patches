@@ -17,9 +17,9 @@
   "hylotlDescription" : "This may be called a planet of one thousand cherry trees, but in reality it has far more than that.",
   "novakidDescription" : "Oh, I know, that's a... uh... Sen... Senbon... Ah whatever. A pink tree planet.",
 
-  "atprk_anneliskDescription" : "Pink trees, eh? Like what, is that all there is to this planet with a difficult name?",
-  "atprk_fenronDescription" : "Are cherry trees so pink because they absorb blood of fallen creatures? I wouldn't be surprised if that's the case.",
-  "atprk_noolithDescription" : "In terms of rest and relaxation, nothing compares to a quick trip to a senbonzakura world.",
+  "anneliskDescription" : "Pink trees, eh? Like what, is that all there is to this planet with a difficult name?",
+  "fenronDescription" : "Are cherry trees so pink because they absorb blood of fallen creatures? I wouldn't be surprised if that's the case.",
+  "noolithDescription" : "In terms of rest and relaxation, nothing compares to a quick trip to a senbonzakura world.",
 
   "particleEmitter" : {
     "emissionRate" : 0.4,

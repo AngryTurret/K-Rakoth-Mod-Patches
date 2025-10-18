@@ -17,9 +17,9 @@
   "hylotlDescription" : "As majestic as empyrean planets are, they also have a cruel side.",
   "novakidDescription" : "A pin of an empyrean planet with floatin' chunks o' land.",
 
-  "atprk_anneliskDescription" : "I swear the Gilten are hiding something there! All this fuss about re-routed teleporters can't be all that benign!",
-  "atprk_fenronDescription" : "One must prove oneself in combat to even stand on the empyrean land.",
-  "atprk_noolithDescription" : "A golden planet ruled by the descendants of mighty dragons.",
+  "anneliskDescription" : "I swear the Gilten are hiding something there! All this fuss about re-routed teleporters can't be all that benign!",
+  "fenronDescription" : "One must prove oneself in combat to even stand on the empyrean land.",
+  "noolithDescription" : "A golden planet ruled by the descendants of mighty dragons.",
 
   "particleEmitter" : {
     "emissionRate" : 0.4,

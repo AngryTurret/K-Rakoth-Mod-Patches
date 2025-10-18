@@ -17,9 +17,9 @@
   "hylotlDescription" : "While too chill for most Hylotl, arcane tundras are definitely worth seeing.",
   "novakidDescription" : "A chill arcane tundra. I've heard there's somethin' strange goin' on with power on these.",
 
-  "atprk_anneliskDescription" : "I wouldn't mind arcane tundras at all if the local gravity wasn't so messed up.",
-  "atprk_fenronDescription" : "A pin of an enchanted tundra. I wonder what it feels like to live on a floating island.",
-  "atprk_noolithDescription" : "Watching the shiny floating icebergs of arcane tundras is mesmerizing.",
+  "anneliskDescription" : "I wouldn't mind arcane tundras at all if the local gravity wasn't so messed up.",
+  "fenronDescription" : "A pin of an enchanted tundra. I wonder what it feels like to live on a floating island.",
+  "noolithDescription" : "Watching the shiny floating icebergs of arcane tundras is mesmerizing.",
 
   "particleEmitter" : {
     "emissionRate" : 0.4,

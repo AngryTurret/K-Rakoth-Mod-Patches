@@ -17,9 +17,9 @@
   "hylotlDescription" : "A vermilion world of blooming flora and ashy plateaus. Exousians favor such places.",
   "novakidDescription" : "A rufescite-rich Exousian rock.",
 
-  "atprk_anneliskDescription" : "Ah heck. Gotta stay away from those if I don't want to get Exousians on my tail.",
-  "atprk_fenronDescription" : "Many travellers exercise caution when passing vermilion worlds. No one wants to get on Exousia's bad side.",
-  "atprk_noolithDescription" : "I cannot tell if Exousians are Humans or merely another species with a similar appearace.",
+  "anneliskDescription" : "Ah heck. Gotta stay away from those if I don't want to get Exousians on my tail.",
+  "fenronDescription" : "Many travellers exercise caution when passing vermilion worlds. No one wants to get on Exousia's bad side.",
+  "noolithDescription" : "I cannot tell if Exousians are Humans or merely another species with a similar appearace.",
 
   "particleEmitter" : {
     "emissionRate" : 0.4,

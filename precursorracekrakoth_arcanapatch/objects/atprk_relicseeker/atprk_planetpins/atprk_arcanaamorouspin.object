@@ -17,9 +17,9 @@
   "hylotlDescription" : "Many aspiring artists wish to visit the amorous estates to get acquainted with talented people.",
   "novakidDescription" : "As long as yer don't wander off into the wilderness, amorous estates are much welcomin'.",
 
-  "atprk_anneliskDescription" : "Amorous worlds are essentially the best vacation resorts in the galaxy.",
-  "atprk_fenronDescription" : "If there's anything I've learned from the denizens of amorous planets, it's that you can weaponize art.",
-  "atprk_noolithDescription" : "Amorous planets are well-suited for recreational activities of all sorts.",
+  "anneliskDescription" : "Amorous worlds are essentially the best vacation resorts in the galaxy.",
+  "fenronDescription" : "If there's anything I've learned from the denizens of amorous planets, it's that you can weaponize art.",
+  "noolithDescription" : "Amorous planets are well-suited for recreational activities of all sorts.",
 
   "particleEmitter" : {
     "emissionRate" : 0.4,

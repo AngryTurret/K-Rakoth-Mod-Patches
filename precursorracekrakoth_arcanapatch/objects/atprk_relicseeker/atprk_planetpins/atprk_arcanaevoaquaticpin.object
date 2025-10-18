@@ -17,9 +17,9 @@
   "hylotlDescription" : "Thanks to healing springs, evoaquatic worlds can sustain a broad variety of exotic lifeforms.",
   "novakidDescription" : "If it weren't for the colossal Poptops, evoaquatic lands would be perfect for a vacation home.",
 
-  "atprk_anneliskDescription" : "Forget about flora and fauna, morphosis shards are the real boon of evoaquatic planets!",
-  "atprk_fenronDescription" : "The healing springs of evoaquatic worlds are a double-edged sword. Your prey heals itself too!",
-  "atprk_noolithDescription" : "Evoaquatic springs gave birth to many fascinating creatures. Who knows what they will evolve into.",
+  "anneliskDescription" : "Forget about flora and fauna, morphosis shards are the real boon of evoaquatic planets!",
+  "fenronDescription" : "The healing springs of evoaquatic worlds are a double-edged sword. Your prey heals itself too!",
+  "noolithDescription" : "Evoaquatic springs gave birth to many fascinating creatures. Who knows what they will evolve into.",
 
   "particleEmitter" : {
     "emissionRate" : 0.4,

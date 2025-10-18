@@ -17,9 +17,9 @@
   "hylotlDescription" : "A pin of a planet reshaped into a gargantuan industrial facility. Not much of its original surface remains.",
   "novakidDescription" : "Automated planets, they're the galaxy's largest smithies.",
 
-  "atprk_anneliskDescription" : "Great, a corporate-owned planet. My people had been through this before, and it wasn't pretty.",
-  "atprk_fenronDescription" : "I've heard that at some point this world was turned into a massive automated forge.",
-  "atprk_noolithDescription" : "The Usurpers used to transform entire worlds in a similar fashion, with little regard for the environment.",
+  "anneliskDescription" : "Great, a corporate-owned planet. My people had been through this before, and it wasn't pretty.",
+  "fenronDescription" : "I've heard that at some point this world was turned into a massive automated forge.",
+  "noolithDescription" : "The Usurpers used to transform entire worlds in a similar fashion, with little regard for the environment.",
 
   "particleEmitter" : {
     "emissionRate" : 0.4,
