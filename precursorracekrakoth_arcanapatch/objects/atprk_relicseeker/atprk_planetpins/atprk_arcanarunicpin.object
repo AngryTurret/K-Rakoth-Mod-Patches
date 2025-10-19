@@ -9,13 +9,13 @@
   "printable" : false,
   "price" : 150,
 
-  "apexDescription" : "Just like snowflakes, every symbol found in runic deserts is supposedly unique, or so they say.",
-  "avianDescription" : "An entire planet littered with remnants of centuries-old temples.",
+  "apexDescription" : "Just like snowflakes, every symbol found on runic deserts are supposedly unique, or so they say.",
+  "avianDescription" : "An entire planet littered with the remnants of centuries-old temples.",
   "floranDescription" : "Pin of a sssandy runic planet.",
-  "glitchDescription" : "Baffled. A planet's worth of ruined temples! Just how many times did the locals attempt to build up?",
+  "glitchDescription" : "Baffled. A planet's worth of ruined temples! Just how many times did the locals attempt to build them?",
   "humanDescription" : "Home to many Arcanians, the runic desert is a land of adventure and wonder.",
   "hylotlDescription" : "A mystical place that hides countless secrets beneath the orange sands.",
-  "novakidDescription" : "Y'know it's not yer typical desert world when you see many alien symbols on the ground.",
+  "novakidDescription" : "Y'know it's not yer typical desert world when you see lots o' alien symbols on the ground.",
 
   "anneliskDescription" : "...",
   "fenronDescription" : "...",
@@ -59,3 +59,4 @@
     }
   ]
 }
+
