@@ -5,7 +5,6 @@
   "link" : "steam://url/CommunityFilePage/2821879793",
   "name" : "precursorracekrakoth_redemptionpatch",
   "requires" : ["precursorracekrakoth", "Project Redemption"],
-  "include" : ["C06KLOTCNSTP"],
   "steamContentId" : "2821879793",
   "tags" : "Crafting and Building|Miscellaneous|Weapons|Furniture and Objects"
 }
