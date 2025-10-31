@@ -1,18 +1,19 @@
 {
   "id" : "iwrmp_atprk1stastraeus2",
+  "species" : "human",
   "title" : "This place should not be",
-  "description" : "A series of audio files stored in a very old recorder.",
+  "description" : "A series of audio files stored on a very old recorder.",
   "icon" : "atprkprotectorate2.png",
   "contentPages" : [ 
   
   "^#c58d44;Audio File AMR090731 - 0300^reset;
-^darkgray;Recording? Is this recording? Alright. I just sent an SOS signal. I don't know where the hell I am. I was jumping into another system when I got into a completely different place. This place doesn't make any sense. My NRU has no idea where we are or where to go. I think I'm lost, and I don't know how to return to the space I know, because this is not the space I know.^reset;",
+^darkgray;Recording? Is this recording? Alright. I just sent out an SOS signal. I don't know where the hell I am. I was jumping into another system when I ended up in completely different location. This place doesn't make any sense. My NRU has no idea where we are or where to go. I think I'm lost, and I don't know how to return to where I came from, because this is not the deep space I know.^reset;",
 
 "^#c58d44;Audio File AMR090732 - 0500^reset;
-^darkgray;This place should not be. There are structures, shapes... things so complex I cannot fathom, as if they belonged to a different order of existence. My body feels weird, it feels like it's being pulled and twisted, it doesn't hurt, but it makes me feel uneasy. I'm hallucinating, some of the buttons on my console are gone, things are moving. It just has been 2 hours, yet they feel like many.^reset;",
+^darkgray;This place should not be. There are structures, shapes... things too complex to fathom, as if they belonged to a different order of existence. My body feels weird, it feels like it's being pulled and twisted, it doesn't hurt, but it makes me feel uneasy. I think I'm hallucinating, some of the buttons on my console are gone, things are moving. It has only been 2 hours, yet it feels longer.^reset;",
 
 "^#c58d44;Audio File AMR090733 - 0800^reset;
-^darkgray;My arm is attached on the console, since an hour ago, was it an hour? I didn't even realize. It doesn't hurt, but it's not in my body anymore. I'm confused, and I feel worse. It's hard to breathe, I see my chest and only my left side moves when I inhale. I don't know what's happening to me! WHERE IS THE EXIT!?^reset;"
+^darkgray;My arm had been attached to the console since an hour ago, was it an hour? I didn't even notice. It doesn't hurt, but it's not part of my body anymore. I'm confused, and I feel worse. It's getting hard to breathe, I see my chest, and now only my left side moves when I inhale. I don't know what's happening to me! WHERE IS THE EXIT!?^reset;"
 
   ],
     "itemConfig" : {
