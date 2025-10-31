@@ -1,0 +1,23 @@
+{
+  "id" : "iwrmp_atprk21astraeus",
+  "title" : "Dimensional Anomalies",
+  "description" : "A log entry of a Hylotl captain who tried to explore a dimensional corridor.",
+  "icon" : "captainloghylotl.png",
+  "contentPages" : [ 
+  
+  "^blue;Log Entry #113, Year 5 - Astraeus Mission XXI^reset;
+  
+We don't mess with dimensional anomalies. I know that well, the reports are very clear about not trying to mess with them; it seems that some of our ships throughout the Missions have been lost to them, either by accident or by trying to explore them, and so far, all our automated probes have not come back. I knew all that and I decided to mess with a dimensional anomaly anyway.",
+
+"I won't hide this from the evaluators when we come back. I admit that I got carried away by ambition; you know, the 21st Astraeus Mission and a new era and all that stuff; I thought, what if we make a breakthrough? It was then settled: we were going to explore a dimensional anomaly. We decided to take a rather unorthodox approach. We attached a durable cable string to the Messenger probe and to our ship; that way we don't risk anyone by sending them and probably killing them in the process.",
+
+"We knew we would lose comms with the drone, hence the cable string. Foster decided to be the designated cable-string-cutter, just in case. The probe would then record what was on the other side. Genius, isn't it? It is, because it worked! Well, sort of. The plan did work. We left the probe for 20 minutes inside, then we started our boosters. It surprisingly required our boosters at full speed for at least half a minute, but we did it, we pulled the probe out.",
+
+"We were ecstatic. We recorded 20 minutes of video, and we would see what's there. Static, pure static, the whole video was just static and incomprehensible noise. We checked the drone, and it was weird, some of its parts were interchanged and, according to our engineer Arroway, some of the inner components seemed to be like melted together or directly missing. You know what's the kicker? We sent the drone for 20 minutes, yet it captured 14 hours of pure static. Odd, isn't it?"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "rare",
+    "price" : 25
+  }
+}
