@@ -1,15 +1,16 @@
 {
   "id" : "iwrmp_atprk1stastraeus1",
+  "species" : "human",
   "title" : "Our Journey to the Stars",
-  "description" : "A message for a pilot of the first Astraeus Mission.",
+  "description" : "A message for pilots of the first Astraeus Mission.",
   "icon" : "atprkprotectorate1.png",
   "contentPages" : [ 
   
   "THE ASTRAEUS MISSION BEGINS
   
-Greetings brave Explorer! You are being sent on the biggest exploration mission ever undertaken by Humanity, to explore the wild, unknown regions of the galaxy. Our compromise with the galaxy was announced with the creation of the Terrene Protectorate, and this mission is only but one step for the realization of that compromise.",
+Greetings brave Explorer! You are being sent on the biggest exploration mission ever undertaken by Humanity so far, to explore the wild and unknown regions of the galaxy. Our promise to the galaxy was announced with the creation of the Terrene Protectorate, and this mission is but one step towards the realization of that promise.",
 
-"As you understand, traveling in space is not easy. That's why you have been paired with a Navigation Router unit, it shall trace your FTL jumps with surgical precision! The least we want is for you to be lost in space. We, the United Terrene Government, want to thank you for volunteering in this important mission to help us realize our noble endeavor of peace for the galaxy. Farewell Explorer, and remember, you will always have an Earth to come back."
+"As you understand, traveling in space is not easy. That's why you have been paired with a Navigation Router unit, which will trace your FTL jumps with surgical precision! The least we want is for you to get lost in space. We, the Earth Government, want to thank you for volunteering for this important mission to help us realize our noble endeavor of peace for the galaxy. Farewell Explorer, and remember, you will always have an Earth to come back to."
 
   ],
     "itemConfig" : {
