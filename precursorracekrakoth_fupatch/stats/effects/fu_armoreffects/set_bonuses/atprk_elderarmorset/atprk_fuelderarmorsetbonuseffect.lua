@@ -19,7 +19,7 @@ armorBonus={
 {stat = "radiationburnImmunity", amount = 1}
 }
 
-setName="fu_heavypeacekeeperset"
+setName="atprk_elderarmorset"
 
 function init()
 	setSEBonusInit(setName)

@@ -54,9 +54,9 @@
 			"op": "add",
 			"path": "/statusEffects",
 			"value": [
-				    "atprk_elderarmorsetbonus",
+				    "atprk_fuelderarmorsetbonus",
 				{
-					"stat" : "atprk_fuelderarmorsetbonus_chest",
+					"stat" : "atprk_elderarmorset_chest",
 					"amount" : 1
 				}
 			]

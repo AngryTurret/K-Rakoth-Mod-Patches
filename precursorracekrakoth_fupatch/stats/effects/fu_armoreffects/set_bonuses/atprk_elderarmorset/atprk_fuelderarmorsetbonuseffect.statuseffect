@@ -1,9 +1,9 @@
 {
-  "name" : "atprk_elderarmorsetbonuseffect",
+  "name" : "atprk_fuelderarmorsetbonuseffect",
   "defaultDuration" : 15,
 
   "scripts" : [
-    "atprk_elderarmorsetbonuseffect.lua"
+    "atprk_fuelderarmorsetbonuseffect.lua"
   ],
   "scriptDelta": 60
 }

@@ -1,7 +1,7 @@
 {
-  "name" : "atprk_elderarmorsetbonusbonus",
+  "name" : "atprk_fuelderarmorsetbonus",
   "defaultDuration" : 15,
-  "effectConfig":{"setName":"atprk_fuelderarmorsetbonus","setStatEffects":["atprk_elderarmorsetbonusbonuseffect"]},
+  "effectConfig":{"setName":"atprk_elderarmorset","setStatEffects":["atprk_fuelderarmorsetbonuseffect"]},
 
   "scripts":["/stats/effects/fu_armoreffects/setbonuses_generichandler.lua"],
   "scriptDelta": 60
