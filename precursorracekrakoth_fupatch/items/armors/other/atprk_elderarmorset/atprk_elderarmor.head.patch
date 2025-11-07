@@ -77,7 +77,7 @@
       "levelFunction": "fuArmorResistMultiplier",
       "stat": "shadowResistance",
       "amount": 0.02
-    },
+    }},
 		{
 			"op": "replace",
 			"path": "/tooltipKind",
