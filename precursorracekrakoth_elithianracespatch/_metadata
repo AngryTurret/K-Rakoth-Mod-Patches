@@ -1,0 +1,14 @@
+{
+  "author": "Angry Turret",
+  "friendlyName": "K'Rakoth Mod: Elithian Races Addon",
+  "name": "precursorracekrakoth_elithianpatch",
+  "link": "steam://url/CommunityFilePage/2605267672",
+  "requires": [
+    "Elithian_Races_Mod",
+    "precursorracekrakoth"
+  ],
+  "steamContentId": "2605267672",
+  "tags": "Dungeons|Miscellaneous|Planets and Environments",
+  "version": "1.0",
+  "description": "This is an addon for the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2604255131]K'Rakoth Mod[/url] that makes it plays nicer with the [url=https://github.com/Aegonian/ElithianAllianceStarboundMod]Elithian Races Mod[/url]. Naturally, you need to install both mods for this one to work."
+}
