@@ -1,0 +1,10 @@
+{
+  "name" : "atprk_fuelderarmorsetbonuseffect",
+  "defaultDuration" : 15,
+
+  "scripts" : [
+    "atprk_fuelderarmorsetbonuseffect.lua"
+  ],
+  "scriptDelta": 60
+}
+
