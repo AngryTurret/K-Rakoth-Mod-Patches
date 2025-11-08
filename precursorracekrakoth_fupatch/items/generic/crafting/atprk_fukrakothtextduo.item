@@ -8,7 +8,8 @@
   "shortdescription" : "K'Rakoth Codex Duo",
   "itemTags" : [ "reagent" ],
   "learnBlueprintsOnPickup" : [
-    "atprk_fukrakothcodexduo-codex"
+    "atprk_fukrakothcodexduo-codex",
+    "atprk_fukrakothtextduo"
   ],
   "radioMessagesOnPickup" : [ "atprk_krakothcodexmessage" ]
 }
