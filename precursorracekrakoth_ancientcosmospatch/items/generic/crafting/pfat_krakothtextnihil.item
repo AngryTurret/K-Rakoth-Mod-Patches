@@ -8,9 +8,9 @@
   "shortdescription" : "K'Rakoth Codex Nihil",
   "itemTags" : [ "reagent" ],
   "learnBlueprintsOnPickup" : [
-    "pfat_krakothcodexnihil-codex", "pfat_krakothtextnihil"
+    "pfat_krakothcodexnihil-codex",
+    "pfat_krakothtextnihil"
   ],
   "radioMessagesOnPickup" : [ "atprk_krakothcodexmessage" ]
-  ]
 }
 
