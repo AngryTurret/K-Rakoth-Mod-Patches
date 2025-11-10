@@ -4,17 +4,17 @@
   "rarity" : "Legendary",
   "category" : "furniture",
   "price" : 2500,
-  "description" : "A predecessor to S.A.I.L units. Doesn't work anymore, but looks pretty at least.",
+  "description" : "A predecessor to S.A.I.L units. Doesn't work anymore, but looks pretty cool at least.",
   "shortdescription" : "Navigation Router Unit",
   "race" : "generic",
 
-  "apexDescription" : "A predecessor to SAIL units, very interesting piece of tech.",
+  "apexDescription" : "A predecessor to SAIL units, a very interesting piece of tech.",
   "avianDescription" : "I had no idea old SAIL units were physical like this.",
-  "floranDescription" : "Robot doesn't work, Floran could tear it apart!",
+  "floranDescription" : "Robot ssstil broken, Floran could tear it apart!",
   "glitchDescription" : "Reflective. I wonder what this fellow could tell me if they were alive.",
-  "humanDescription" : "I have read about SAIL units, this is the first time I have seen a NRU.",
+  "humanDescription" : "I've read about older SAIL units, this is the first time I have seen a restored NRU.",
   "hylotlDescription" : "A machine programed to help the first Astraeus pilots.",
-  "novakidDescription" : "Didn't know I found Grandpa SAIL.",
+  "novakidDescription" : "Didn't know I found SAIL's ol' Gramps.",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [
