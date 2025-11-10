@@ -1,0 +1,101 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "burstState" : {
+        "default" : "closed",
+        "states" : {
+          "closed" : {
+            "frames" : 2,
+            "cycle" : 2.0,
+            "mode" : "loop",
+            "frameProperties" : {
+              "immediateSound" : [ "/sfx/objects/iwrmp_consolebeep.ogg", "" ]
+            }
+          },
+          "burst" : {
+            "frames" : 1,
+            "cycle" : 0.1,
+            "mode" : "transition",
+            "transition" : "open"
+          },
+          "open" : {
+            "frames" : 1
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "chestFullbright" : {
+        "properties" : {
+          "centered" : false
+        },
+
+        "partStates" : {
+          "burstState" : {
+            "closed" : {
+              "properties" : {
+                "image" : "atpkr1stastraeusconsole1.png:closed.<frame>"
+              }
+            },
+
+            "burst" : {
+              "properties" : {
+                "image" : "atpkr1stastraeusconsole1.png:burst"
+              }
+            },
+
+            "open" : {
+              "properties" : {
+                "image" : "atpkr1stastraeusconsole1.png:open"
+              }
+            }
+          }
+        }
+      },
+      "chest" : {
+        "properties" : {
+          "zLevel" : 1,
+          "fullbright" : true,
+          "centered" : false
+        },
+
+        "partStates" : {
+          "burstState" : {
+            "closed" : {
+              "properties" : {
+                "image" : "atpkr1stastraeusconsole1lit.png:closed.<frame>"
+              }
+            },
+
+            "burst" : {
+              "properties" : {
+                "image" : "atpkr1stastraeusconsole1lit.png:burst"
+              }
+            },
+
+            "open" : {
+              "properties" : {
+                "image" : "atpkr1stastraeusconsole1lit.png:open"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "particleEmitters" : {
+    "burst" : {
+      "active" : false,
+      "offsetRegion" : [0.5, 1, 3.5, 1],
+      "particles" : [
+        {"particle" : "iwrmp_consolespark", "count" : 10}
+      ]
+    }
+  },
+
+  "sounds" : {
+    "burst" : ["/sfx/objects/iwrmp_consoleopen.ogg"]
+  }
+}

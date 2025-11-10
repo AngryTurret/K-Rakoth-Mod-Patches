@@ -1,0 +1,36 @@
+{
+  "objectName" : "iwrmp_atpkr1stastraeuslander",
+  "colonyTags" : ["iwrmp_atpkrastraeus"],
+  "rarity" : "Legendary",
+  "category" : "furniture",
+  "price" : 1865,
+  "description" : "An outdated lander design, used long ago by the 1st Astraeus Mission.",
+  "shortdescription" : "First Astraeus Lander",
+  "race" : "generic",
+
+  "apexDescription" : "A very old lander, looks rusty and probably doesn't work anymore..",
+  "avianDescription" : "One small step...",
+  "floranDescription" : "Thisss lander looks very old.",
+  "glitchDescription" : "Intrigued. A very old design for a lander, doesn't seem to work anymore.",
+  "humanDescription" : "Sturdy and well crafted, shame they don't do it like that anymore.",
+  "hylotlDescription" : "There are 500 years of history in this lander alone.",
+  "novakidDescription" : "That lander looks uncomfortable to sleep inside.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "atpkr1stastraeuslander.png:<color>",
+      "imagePosition" : [-32, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitCoverImage" : "/objects/iwrmp_atpkr1stastraeus/iwrmp_atpkr1stastraeuslander/atpkr1stastraeuslander.png",
+  "sitFlipDirection" : false,
+  "sitPosition" : [0, 76]
+
+}

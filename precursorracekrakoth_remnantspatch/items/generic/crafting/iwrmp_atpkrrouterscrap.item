@@ -1,0 +1,13 @@
+{
+  "itemName" : "iwrmp_atpkrrouterscrap",
+  "price" : 300,
+  "rarity" : "Rare",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "iwrmp_atpkrrouterscrap.png",
+  "description" : "Scrap pieces of an old Navigation Router Unit.",
+  "shortdescription" : "N.R.U Metal Scrap",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [
+    "iwrmp_atpkr1stastraeusrouter2"
+  ]
+}

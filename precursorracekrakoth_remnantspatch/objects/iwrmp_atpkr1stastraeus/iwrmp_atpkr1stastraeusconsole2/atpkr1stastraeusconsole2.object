@@ -1,0 +1,81 @@
+{
+  "objectName" : "iwrmp_atpkr1stastraeusconsole2",
+  "colonyTags" : ["iwrmp_atpkrastraeus"],
+  "rarity" : "Legendary",
+  "category" : "wire",
+  "price" : 70,
+  "description" : "An old navigation console; this design was used by the first Astraeus Mission.",
+  "shortdescription" : "Astraeus Navigation Console",
+  "race" : "human",
+
+  "lightColor" : [187, 61, 61],
+
+  "apexDescription" : "An old navigation console.",
+  "avianDescription" : "A restored navigation console.",
+  "floranDescription" : "A navigation console.",
+  "glitchDescription" : "Neutral. This is a very old navigation console.",
+  "humanDescription" : "A navigation console. I wonder if it still works.",
+  "hylotlDescription" : "An old console for navigation purposes.",
+  "novakidDescription" : "I can fly my ship with this old console.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "atpkr1stastraeusconsole2.png:<color>.on",
+      "flipImages" : true,
+      "direction" : "left",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "atpkr1stastraeusconsole2.png:<color>.on",
+      "direction" : "right",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "scripts" : [
+    "/objects/wired/switch/switch.lua",
+    "/scripts/npcToyObject.lua"
+  ],
+  "scriptDelta" : 5,
+
+  "animation" : "atpkr1stastraeusconsole2.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/console_button.ogg" ],
+      "off" : [ "/sfx/objects/console_button.ogg" ]
+    }
+  },
+
+  "animationParts" : {
+    "bg" : "atpkr1stastraeusconsole2.png",
+    "fg" : "atpkr1stastraeusconsole2lit.png"
+  },
+  "animationPosition" : [-16, 0],
+
+  "outputNodes" : [ [0, 0] ],
+
+  "npcToy" : {
+    "influence" : [
+      "console"
+    ],
+    "defaultReactions" : {},
+    "preciseStandPositionLeft" : [-0.5, 0.0],
+    "preciseStandPositionRight" : [2.0, 0.0],
+    "maxNpcs" : 1
+  }
+}

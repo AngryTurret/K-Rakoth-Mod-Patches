@@ -1,0 +1,39 @@
+{
+  "objectName" : "iwrmp_atpkr1stastraeusrouter1",
+  "colonyTags" : ["iwrmp_atpkrastraeus"],
+  "rarity" : "Rare",
+  "category" : "furniture",
+  "price" : 0,
+  "description" : "A broken N.R.U unit. Perhaps some useful components can be extracted from this unit.",
+  "shortdescription" : "Broken Navigation Router Unit",
+  "race" : "generic",
+  "printable" : false,
+
+  "apexDescription" : "Looks beyond repair, better break it apart for its materials.",
+  "avianDescription" : "I don't think it works anymore, maybe could serve for spare parts.",
+  "floranDescription" : "Robot doesn't work, Floran could tear it apart!",
+  "glitchDescription" : "Somber. This fellow machine has died long ago.",
+  "humanDescription" : "Unfortunately this is very broken, it works better for spare parts.",
+  "hylotlDescription" : "This machine is unusable, better get its components.",
+  "novakidDescription" : "Sorry partner, you are better as scrap right now.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "atpkr1stastraeusrouter1.png:<color>",
+      "imagePosition" : [-8, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "scripts" : ["/objects/scripts/breakoninteract.lua"],
+  "scriptDelta" : 0,
+
+  "smashable" : false,
+  "smashSounds" : [ "/sfx/objects/iwrmp_routerbreak.ogg" ],
+  "smashParticles" : [ { "count" : 10, "particle" : "iwrmp_rustshard" }, { "count" : 2, "particle" : "electricswoosh1" }, { "count" : 2, "particle" : "electricswoosh2" } ],
+  "breakDropPool" : "iwrmp_atpkrRouterLoot"
+}

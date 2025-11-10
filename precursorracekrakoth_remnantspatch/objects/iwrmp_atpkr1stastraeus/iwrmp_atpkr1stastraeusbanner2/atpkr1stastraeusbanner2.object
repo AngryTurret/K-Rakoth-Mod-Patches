@@ -1,0 +1,36 @@
+{
+  "objectName" : "iwrmp_atpkr1stastraeusbanner2",
+  "colonyTags" : ["iwrmp_atpkrastraeus"],
+  "rarity" : "Legendary",
+  "category" : "decorative",
+  "price" : 1000,
+  "description" : "A worn wall banner, spraypainted with the Occasus cult emblem.",
+  "shortdescription" : "First Astraeus Banner",
+  "race" : "human",
+
+  "apexDescription" : "A very old banner, looks like it belongs to the very first Astraeus Mission.",
+  "avianDescription" : "A very old Human banner, always interesting to find this sort of stuff.",
+  "floranDescription" : "Fixed Human banner, very interesssting.",
+  "glitchDescription" : "Impressed. A curious piece of Human history.",
+  "humanDescription" : "A banner of the very first Astraeus Mission, amazing!",
+  "hylotlDescription" : "Such an impresive piece of Human history.",
+  "novakidDescription" : "A banner of the ol' 1st Astraeus Mission, a fine addition to my collection.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "atpkr1stastraeusbanner2.png:<color>",
+      "imagePosition" : [-16, -40],
+
+      "spaceScan" : 0.1,
+      "bgAnchors" : [ [-2, 0], [-1, 0], [0, 0], [1, 0] ]
+    },
+    {
+      "dualImage" : "atpkr1stastraeusbanner2.png:<color>",
+      "imagePosition" : [-16, -40],
+
+      "spaceScan" : 0.1,
+      "fgAnchors" : [ [-1, 1], [-1, 1], [0, 1], [1, 1] ]
+    }
+  ]
+}
