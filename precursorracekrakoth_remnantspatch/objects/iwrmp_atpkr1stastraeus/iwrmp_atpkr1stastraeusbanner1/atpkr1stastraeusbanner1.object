@@ -4,17 +4,17 @@
   "rarity" : "Rare",
   "category" : "decorative",
   "price" : 500,
-  "description" : "A banner displaying the logo of the first Astraeus Mission.",
+  "description" : "A worn banner displaying the logo of the first Astraeus Mission. It has seen better days.",
   "shortdescription" : "Worn Astraeus Banner",
   "race" : "human",
 
   "apexDescription" : "A very old banner, the logo looks a lot like the Human flag.",
-  "avianDescription" : "Reminds me of Humans, how old is this thing?",
+  "avianDescription" : "Reminds me of the Humans, how old is this thing?",
   "floranDescription" : "Old and mussty banner, looks Human.",
   "glitchDescription" : "Impressed. A very old Human banner, I've never seen this design before.",
   "humanDescription" : "Whoaa! This is from the very first Astraeus Mission ever! Looks very old.",
   "hylotlDescription" : "A banner of the first Astraeus Mission, it has turned into a rag.",
-  "novakidDescription" : "This is a mighty old banner, and an old Human logo too.",
+  "novakidDescription" : "This is a mighty old banner, with an old Human logo too.",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [
