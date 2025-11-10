@@ -29,13 +29,6 @@
   },
   {
     "op": "add",
-    "path" : "/baseParameters/statusSettings/stats/stunImmunity",
-    "value": {
-	  "baseValue" : 1.0
-	}
-  },
-  {
-    "op": "add",
     "path" : "/baseParameters/statusSettings/stats/akkimariacidStatusImmunity",
     "value": {
 	  "baseValue" : 1.0
