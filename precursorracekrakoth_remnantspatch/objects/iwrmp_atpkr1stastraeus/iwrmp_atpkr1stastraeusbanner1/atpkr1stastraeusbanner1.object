@@ -1,0 +1,36 @@
+{
+  "objectName" : "iwrmp_atpkr1stastraeusbanner1",
+  "colonyTags" : ["iwrmp_atpkrastraeus"],
+  "rarity" : "Rare",
+  "category" : "decorative",
+  "price" : 500,
+  "description" : "A banner displaying the logo of the first Astraeus Mission.",
+  "shortdescription" : "Worn Astraeus Banner",
+  "race" : "human",
+
+  "apexDescription" : "A very old banner, the logo looks a lot like the Human flag.",
+  "avianDescription" : "Reminds me of Humans, how old is this thing?",
+  "floranDescription" : "Old and mussty banner, looks Human.",
+  "glitchDescription" : "Impressed. A very old Human banner, I've never seen this design before.",
+  "humanDescription" : "Whoaa! This is from the very first Astraeus Mission ever! Looks very old.",
+  "hylotlDescription" : "A banner of the first Astraeus Mission, it has turned into a rag.",
+  "novakidDescription" : "This is a mighty old banner, and an old Human logo too.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "atpkr1stastraeusbanner1.png:<color>",
+      "imagePosition" : [-16, -40],
+
+      "spaceScan" : 0.1,
+      "bgAnchors" : [ [-2, 0], [-1, 0], [0, 0], [1, 0] ]
+    },
+    {
+      "dualImage" : "atpkr1stastraeusbanner1.png:<color>",
+      "imagePosition" : [-16, -40],
+
+      "spaceScan" : 0.1,
+      "fgAnchors" : [ [-1, 1], [-1, 1], [0, 1], [1, 1] ]
+    }
+  ]
+}

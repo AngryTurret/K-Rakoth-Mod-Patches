@@ -1,0 +1,61 @@
+{
+  "objectName" : "iwrmp_atpkr1stastraeusconsole1",
+  "colonyTags" : ["iwrmp_atpkrastraeus"],
+  "rarity" : "Legendary",
+  "tooltipKind" : "base",
+  "category" : "storage",
+  "price" : 0,
+  "description" : "Strangely, this console still has some power.",
+  "shortdescription" : "Old Navigation Console",
+  "race" : "human",
+  "health" : 1.5,
+  "printable" : false,
+
+  "apexDescription" : "An old navigation console, it's beeping.",
+  "avianDescription" : "An abandoned console, it's making a beep.",
+  "floranDescription" : "Console makes Floran curiousss.",
+  "glitchDescription" : "Confused. This console is still powered.",
+  "humanDescription" : "A very old navigation console, I wonder how different were starmaps long ago.",
+  "hylotlDescription" : "This console is still beeping, as if it still has some power.",
+  "novakidDescription" : "This navigation console is noisy!",
+
+  "inventoryIcon" : "icon.png",
+
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "atpkr1stastraeusconsole1.png:default" }, { "image" : "atpkr1stastraeusconsole1lit.png:default", "fullbright" : true  } ],
+      "imagePosition" : [-16, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "atpkr1stastraeusconsole1.png:default" }, { "image" : "atpkr1stastraeusconsole1lit.png:default", "fullbright" : true  } ],
+      "imagePosition" : [-16, 0],
+
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "animation" : "atpkr1stastraeusconsole1.animation",
+  "animationPosition" : [-16, 0],
+
+  "scripts" : ["/objects/scripts/treasureburst.lua"],
+  "scriptDelta" : 0,
+
+  "burstTreasurePool" : "iwrmp_atpkrConsoleLoot",
+  "burstItemVelocityRange" : [15, 30],
+  "burstAngleVariance" : 0.5,
+  "burstOffset" : [0.5, 0],
+  "burstIntangibleTimeRange" : [0.25, 0.5],
+
+  "breakDropOptions" : [
+    [ [ "iwrmp_atpkr1stastraeusconsole2", 1, { } ] ]
+  ]
+}

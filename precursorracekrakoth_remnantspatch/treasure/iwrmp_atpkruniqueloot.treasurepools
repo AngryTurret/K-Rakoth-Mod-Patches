@@ -1,0 +1,47 @@
+{
+  // ==============================================================================================
+  //                            REMNANTS X K'RAKOTHS - UNIQUE TREASUREPOOLS
+  // ==============================================================================================
+
+  // ============================================
+  //    Navigation Router / Navigation Console
+  // ============================================
+
+  "iwrmp_atpkrRouterLoot" : [
+    [1, {
+      "fill" : [
+        {"item" : "iwrmp_atpkrrouterscrap" }
+      ],
+      "poolRounds" : [
+        [0.90, 1],
+        [0.10, 2],
+        [0.05, 3]
+      ],
+      "pool" : [
+        {"weight" : 0.35, "item" : [ "ironbar", 3 ]},
+        {"weight" : 0.25, "item" : "siliconboard" },
+        {"weight" : 0.30, "item" : [ "wire", 2 ]},
+        {"weight" : 0.05, "item" : "iwrmp_atpkrrouterscrap" }
+      ],
+      "allowDuplication" : false
+    } ]
+  ],
+
+  "iwrmp_atpkrConsoleLoot" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.35, "item" : [ "siliconboard", 2 ]},
+        {"weight" : 0.25, "item" : [ "stickofram", 2 ]},
+        {"weight" : 0.05, "item" : "atprk_betastarmap" },
+        {"weight" : 0.15, "item" : "iwrmp_atprk1stastraeus2-codex" }
+      ],
+      "poolRounds" : [
+        [0.90, 1],
+        [0.05, 2],
+        [0.01, 3]
+      ],
+      "allowDuplication" : false
+    } ]
+  ]
+}
+
