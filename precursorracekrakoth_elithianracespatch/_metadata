@@ -1,0 +1,10 @@
+{
+  "author" : "Angry Turret",
+  "description" : "This is a patch for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2604255131]K'Rakoth Mod[/url] that adds some interactions with [url=https://steamcommunity.com/workshop/filedetails/?id=850109963]Elithian Races Mod[/url] content. Obviously, you need to install both mods first.\n\n[b]Encounters:[/b]\n- Centensian microdungeons may spawn on Ashy planets.\n- Added two new ambush types featuring enemies from K'Rakoth Mod.\n\n[b]Other:[/b]\n- Relic Exchange offers a new reward for turning in the Centensian Relic.\n- K'Rakoth Mod's monsters receive extra ERM status resistances and treasure pools.",
+  "friendlyName" : "K'Rakoth Mod: Elithian Races Mod Patch",
+  "link" : "steam://url/CommunityFilePage/3607022174",
+  "name" : "precursorracekrakoth_elithianracespatch",
+  "requires" : ["precursorracekrakoth", "Elithian_Races_Mod"],
+  "steamContentId" : "3607022174",
+  "tags" : "Miscellaneous|NPCs and Creatures|Dungeons"
+}
