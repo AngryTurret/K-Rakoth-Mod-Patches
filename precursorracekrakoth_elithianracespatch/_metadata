@@ -5,6 +5,8 @@
   "link" : "steam://url/CommunityFilePage/3607022174",
   "name" : "precursorracekrakoth_elithianracespatch",
   "requires" : ["precursorracekrakoth", "Elithian_Races_Mod"],
+  "includes" : ["Extra Elithian Events"],
   "steamContentId" : "3607022174",
   "tags" : "Miscellaneous|NPCs and Creatures|Dungeons"
+
 }
