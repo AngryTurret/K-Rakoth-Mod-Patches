@@ -4,7 +4,7 @@
   "rarity" : "Rare",
   "category" : "furniture",
   "price" : 0,
-  "description" : "A broken N.R.U unit. Perhaps some useful components can be extracted from this it.",
+  "description" : "A broken N.R.U unit. Perhaps some useful components can be extracted from it.",
   "shortdescription" : "Broken Navigation Router Unit",
   "race" : "generic",
   "printable" : false,
