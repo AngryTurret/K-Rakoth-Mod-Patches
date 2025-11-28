@@ -7,10 +7,15 @@
 	"path" : "/deploymentConfig/thea-randomEventValidPlanetTypes/-",
 	"value" : "atprk_ashworld"
   },
+  { "op" : "add",
+	"path" : "/deploymentConfig/thea-randomEventValidPlanetTypes/-",
+	"value" : "atprk_chthonianmoon"
+  },
 { "op" : "add",
 	"path" : "/deploymentConfig/thea-randomEventValidPlanetTypes/-",
 	"value" : "atprk_ruinedworld"
   },
 { "op" : "add", "path" : "/deploymentConfig/thea-randomEvents/-", "value" : "atprk_theadevoutambush"},
 { "op" : "add", "path" : "/deploymentConfig/thea-randomEvents/-", "value" : "atprk_theashapelessambush"}
+
 ]
