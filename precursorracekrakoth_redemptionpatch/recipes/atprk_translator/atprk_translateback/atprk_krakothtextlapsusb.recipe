@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "atprk_krakothtextlapsus-codex", "count" : 1 }
+    { "item" : "atprk_krakothcodexlapsus-codex", "count" : 1 }
   ],
   "output" : {
     "item" : "atprk_krakothtextlapsus",
