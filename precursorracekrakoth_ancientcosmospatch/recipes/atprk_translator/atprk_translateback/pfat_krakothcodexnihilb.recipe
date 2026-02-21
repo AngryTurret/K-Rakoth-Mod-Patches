@@ -3,7 +3,7 @@
     { "item" : "pfat_krakothcodexnihil-codex", "count" : 1 }
   ],
   "output" : {
-    "item" : "pfat_krakothcodexnihil",
+    "item" : "pfat_krakothtextnihil",
     "count" : 1
   },
   "groups" : [ "atprk_translator", "atprk_translateback", "nouncrafting" ]
