@@ -1,5 +1,5 @@
 {
-  "kind" : "iwrmp_consolespark",
+  "kind" : "atprk_consolespark",
   "definition" : {
     "type" : "ember",
     "size" : 1.0,

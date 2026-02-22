@@ -1,8 +1,8 @@
 {
-  "kind" : "iwrmp_rustshard",
+  "kind" : "atprk_rustshard",
   "definition" : {
     "type" : "animated",
-    "animation" : "/animations/shards/iwrmp_rustshard.animation",
+    "animation" : "/animations/shards/atprk_rustshard.animation",
     "initialVelocity" : [0.0, 10.0],
     "finalVelocity" : [0.0, -60.0],
     "approach" : [0.3, 60],

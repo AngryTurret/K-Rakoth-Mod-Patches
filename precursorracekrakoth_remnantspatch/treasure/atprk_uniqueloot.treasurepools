@@ -7,10 +7,10 @@
   //    Navigation Router / Navigation Console
   // ============================================
 
-  "iwrmp_atpkrRouterLoot" : [
+  "atprk_RouterLoot" : [
     [1, {
       "fill" : [
-        {"item" : "iwrmp_atpkrrouterscrap" }
+        {"item" : "atprk_routerscrap" }
       ],
       "poolRounds" : [
         [0.90, 1],
@@ -21,19 +21,19 @@
         {"weight" : 0.35, "item" : [ "ironbar", 3 ]},
         {"weight" : 0.25, "item" : "siliconboard" },
         {"weight" : 0.30, "item" : [ "wire", 2 ]},
-        {"weight" : 0.05, "item" : "iwrmp_atpkrrouterscrap" }
+        {"weight" : 0.05, "item" : "atprk_routerscrap" }
       ],
       "allowDuplication" : false
     } ]
   ],
 
-  "iwrmp_atpkrConsoleLoot" : [
+  "atprk_ConsoleLoot" : [
     [1, {
       "pool" : [
         {"weight" : 0.35, "item" : [ "siliconboard", 2 ]},
         {"weight" : 0.25, "item" : [ "stickofram", 2 ]},
         {"weight" : 0.05, "item" : "atprk_betastarmap" },
-        {"weight" : 0.15, "item" : "iwrmp_atprk1stastraeus2-codex" }
+        {"weight" : 0.15, "item" : "atprk_1stastraeus2-codex" }
       ],
       "poolRounds" : [
         [0.90, 1],

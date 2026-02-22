@@ -1,9 +1,9 @@
 {
-  "id" : "iwrmp_atprk1stastraeus2",
+  "id" : "atprk_1stastraeus2",
   "species" : "human",
   "title" : "This place should not be",
   "description" : "A series of audio files stored on a very old recorder.",
-  "icon" : "atprkprotectorate2.png",
+  "icon" : "atprk_protectorate2.png",
   "contentPages" : [ 
   
   "^#c58d44;Audio File AMR090731 - 0300^reset;

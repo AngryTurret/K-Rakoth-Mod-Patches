@@ -1,6 +1,6 @@
 {
-  "objectName" : "iwrmp_atpkr1stastraeusconsole1",
-  "colonyTags" : ["iwrmp_atpkrastraeus"],
+  "objectName" : "atprk_1stastraeusconsole1",
+  "colonyTags" : ["atprk_astraeus"],
   "rarity" : "Legendary",
   "tooltipKind" : "base",
   "category" : "storage",
@@ -23,7 +23,7 @@
 
   "orientations" : [
     {
-      "imageLayers" : [ { "image" : "atpkr1stastraeusconsole1.png:default" }, { "image" : "atpkr1stastraeusconsole1lit.png:default", "fullbright" : true  } ],
+      "imageLayers" : [ { "image" : "atprk_1stastraeusconsole1.png:default" }, { "image" : "atprk_1stastraeusconsole1lit.png:default", "fullbright" : true  } ],
       "imagePosition" : [-16, 0],
 
       "direction" : "left",
@@ -33,7 +33,7 @@
       "anchors" : [ "bottom" ]
     },
     {
-      "imageLayers" : [ { "image" : "atpkr1stastraeusconsole1.png:default" }, { "image" : "atpkr1stastraeusconsole1lit.png:default", "fullbright" : true  } ],
+      "imageLayers" : [ { "image" : "atprk_1stastraeusconsole1.png:default" }, { "image" : "atprk_1stastraeusconsole1lit.png:default", "fullbright" : true  } ],
       "imagePosition" : [-16, 0],
 
       "direction" : "right",
@@ -43,19 +43,19 @@
     }
   ],
 
-  "animation" : "atpkr1stastraeusconsole1.animation",
+  "animation" : "atprk_1stastraeusconsole1.animation",
   "animationPosition" : [-16, 0],
 
   "scripts" : ["/objects/scripts/treasureburst.lua"],
   "scriptDelta" : 0,
 
-  "burstTreasurePool" : "iwrmp_atpkrConsoleLoot",
+  "burstTreasurePool" : "atprk_ConsoleLoot",
   "burstItemVelocityRange" : [15, 30],
   "burstAngleVariance" : 0.5,
   "burstOffset" : [0.5, 0],
   "burstIntangibleTimeRange" : [0.25, 0.5],
 
   "breakDropOptions" : [
-    [ [ "iwrmp_atpkr1stastraeusconsole2", 1, { } ] ]
+    [ [ "atprk_1stastraeusconsole2", 1, { } ] ]
   ]
 }

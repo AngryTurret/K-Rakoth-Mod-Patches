@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "atprk_routerscrap", "count" : 3},
+    { "item" : "siliconboard", "count" : 2},
+    { "item" : "wire", "count" : 4}
+  ],
+  "output" : {
+    "item" : "atprk_1stastraeusrouter2",
+    "count" : 1
+  },
+  "duration" : 4,
+  "groups" : [ "atprk_reconstructiontable" ]
+}

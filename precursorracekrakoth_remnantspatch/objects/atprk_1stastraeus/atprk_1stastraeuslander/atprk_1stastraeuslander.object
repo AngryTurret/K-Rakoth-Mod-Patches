@@ -1,6 +1,6 @@
 {
-  "objectName" : "iwrmp_atpkr1stastraeuslander",
-  "colonyTags" : ["iwrmp_atpkrastraeus"],
+  "objectName" : "atprk_1stastraeuslander",
+  "colonyTags" : ["atprk_astraeus"],
   "rarity" : "Legendary",
   "category" : "furniture",
   "price" : 1865,
@@ -19,7 +19,7 @@
   "inventoryIcon" : "icon.png",
   "orientations" : [
     {
-      "dualImage" : "atpkr1stastraeuslander.png:<color>",
+      "dualImage" : "atprk_1stastraeuslander.png:<color>",
       "imagePosition" : [-32, 0],
 
       "spaceScan" : 0.1,
@@ -29,7 +29,7 @@
   ],
 
   "objectType" : "loungeable",
-  "sitCoverImage" : "/objects/iwrmp_atpkr1stastraeus/iwrmp_atpkr1stastraeuslander/atpkr1stastraeuslander.png",
+  "sitCoverImage" : "/objects/atprk_1stastraeus/atprk_1stastraeuslander/atprk_1stastraeuslander.png",
   "sitFlipDirection" : false,
   "sitPosition" : [0, 76]
 

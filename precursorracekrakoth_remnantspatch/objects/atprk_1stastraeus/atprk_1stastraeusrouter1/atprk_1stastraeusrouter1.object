@@ -1,6 +1,6 @@
 {
-  "objectName" : "iwrmp_atpkr1stastraeusrouter1",
-  "colonyTags" : ["iwrmp_atpkrastraeus"],
+  "objectName" : "atprk_1stastraeusrouter1",
+  "colonyTags" : ["atprk_astraeus"],
   "rarity" : "Rare",
   "category" : "furniture",
   "price" : 0,
@@ -20,7 +20,7 @@
   "inventoryIcon" : "icon.png",
   "orientations" : [
     {
-      "dualImage" : "atpkr1stastraeusrouter1.png:<color>",
+      "dualImage" : "atprk_1stastraeusrouter1.png:<color>",
       "imagePosition" : [-8, 0],
 
       "spaceScan" : 0.1,
@@ -33,7 +33,7 @@
   "scriptDelta" : 0,
 
   "smashable" : false,
-  "smashSounds" : [ "/sfx/objects/iwrmp_routerbreak.ogg" ],
-  "smashParticles" : [ { "count" : 10, "particle" : "iwrmp_rustshard" }, { "count" : 2, "particle" : "electricswoosh1" }, { "count" : 2, "particle" : "electricswoosh2" } ],
-  "breakDropPool" : "iwrmp_atpkrRouterLoot"
+  "smashSounds" : [ "/sfx/objects/atprk_routerbreak.ogg" ],
+  "smashParticles" : [ { "count" : 10, "particle" : "atprk_rustshard" }, { "count" : 2, "particle" : "electricswoosh1" }, { "count" : 2, "particle" : "electricswoosh2" } ],
+  "breakDropPool" : "atprk_RouterLoot"
 }
