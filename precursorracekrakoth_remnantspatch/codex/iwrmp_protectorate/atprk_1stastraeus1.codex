@@ -1,9 +1,9 @@
 {
-  "id" : "iwrmp_atprk1stastraeus1",
+  "id" : "atprk_1stastraeus1",
   "species" : "human",
   "title" : "Our Journey to the Stars",
   "description" : "A message for pilots of the first Astraeus Mission.",
-  "icon" : "atprkprotectorate1.png",
+  "icon" : "atprk_protectorate1.png",
   "contentPages" : [ 
   
   "THE ASTRAEUS MISSION BEGINS

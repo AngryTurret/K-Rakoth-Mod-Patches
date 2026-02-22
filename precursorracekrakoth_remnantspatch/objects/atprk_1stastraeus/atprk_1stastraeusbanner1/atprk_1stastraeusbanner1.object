@@ -1,6 +1,6 @@
 {
-  "objectName" : "iwrmp_atpkr1stastraeusbanner1",
-  "colonyTags" : ["iwrmp_atpkrastraeus"],
+  "objectName" : "atprk_1stastraeusbanner1",
+  "colonyTags" : ["atprk_astraeus"],
   "rarity" : "Rare",
   "category" : "decorative",
   "price" : 500,
@@ -19,14 +19,14 @@
   "inventoryIcon" : "icon.png",
   "orientations" : [
     {
-      "dualImage" : "atpkr1stastraeusbanner1.png:<color>",
+      "dualImage" : "atprk_1stastraeusbanner1.png:<color>",
       "imagePosition" : [-16, -40],
 
       "spaceScan" : 0.1,
       "bgAnchors" : [ [-2, 0], [-1, 0], [0, 0], [1, 0] ]
     },
     {
-      "dualImage" : "atpkr1stastraeusbanner1.png:<color>",
+      "dualImage" : "atprk_1stastraeusbanner1.png:<color>",
       "imagePosition" : [-16, -40],
 
       "spaceScan" : 0.1,
