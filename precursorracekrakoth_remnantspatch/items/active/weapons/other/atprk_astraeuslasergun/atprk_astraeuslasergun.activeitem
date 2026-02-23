@@ -5,7 +5,7 @@
   "inventoryIcon" : "atprk_astraeuslasergun.png",
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "description" : "An old Modular Laser Carbine; one of its kind.",
+  "description" : "An old Modular Laser Carbine; one of the last of its kind.",
   "shortdescription" : "ML-1 Venture Carbine",
   "tooltipKind" : "gun",
   "category" : "uniqueWeapon",
