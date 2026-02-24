@@ -7,7 +7,7 @@
   "rarity" : "Legendary",
   "description" : "An old Modular Laser Carbine; one of the last of its kind.",
   "shortdescription" : "ML-1 Venture Carbine",
-  "tooltipKind" : "gun",
+  "tooltipKind" : "base",
   "category" : "uniqueWeapon",
   "itemTags" : ["weapon","ranged","upgradeableWeapon"],
   "twoHanded" : true,
@@ -95,6 +95,8 @@
       }
     }
   },
+
+  "altAbilityType" : "atprk_flarelauncher",
 
   "builder" : "/items/buildscripts/buildunrandweapon.lua",
 

@@ -1,0 +1,56 @@
+{
+  "animationCustom" : {
+    "sounds" : {
+      "altFire" : [ "/sfx/atprk_flareshot.ogg" ]
+    },
+    "particleEmitters" : {
+      "altMuzzleFlash" : {
+        "active" : false,
+        "emissionRate" : 8,
+        "transformationGroups" : ["muzzle"],
+        "offsetRegion" : [-0.25, -0.5, -0.25, -0.5],
+        "particles" : [
+          { "particle" : "rocketbarrelpuff", "offset" : [0.0, 0.0] },
+          { "particle" : "rocketbarrelpuff", "offset" : [-2.625, 0.0] }
+        ]
+      }
+    }
+  },
+
+  "ability" : {
+    "name" : "Flare Launcher",
+    "type" : "iwgyjet_flarelauncher",
+    "scripts" : ["/items/active/weapons/ranged/abilities/altfire.lua"],
+    "class" : "AltFireAttack",
+
+    "projectileType" : "flare",
+    "projectileParameters" : {},
+
+    "projectileCount" : 1,
+    "inaccuracy" : 0,
+    "energyUsage" : 25,
+    "fireTime" : 2.5,
+    "fireType" : "auto",
+
+    "stances" : {
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 5,
+        "weaponRotation" : 5,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "cooldown" : {
+        "duration" : 0.2,
+        "armRotation" : 5,
+        "weaponRotation" : 5,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  }
+}
