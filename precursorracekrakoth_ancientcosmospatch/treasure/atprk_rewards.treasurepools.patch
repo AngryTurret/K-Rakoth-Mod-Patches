@@ -1,0 +1,10 @@
+[
+  {
+    "op": "add",
+    "path": "/atprk_restoredcodex2/0/1/pool/-",
+    "value": {
+      "weight": 0.1,
+      "item": "pfat_krakothtextnihil"
+    }
+  }
+]

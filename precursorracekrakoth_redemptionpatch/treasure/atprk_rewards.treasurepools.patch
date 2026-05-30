@@ -34,6 +34,11 @@
 	"value" :
 	  {"weight" : 0.10, "item" : "novakidpsych-codex"}
   },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "floranwar-codex"}
+  },
   {"op" : "add",
 	"path" : "/atprk_unpackedfossilgoodspool/0/1/pool/-",
 	"value" :
@@ -58,5 +63,13 @@
 	"path" : "/atprk_unpackedmilitarygoodspool/0/1/pool/-",
 	"value" :
 	  {"weight" : 0.02, "item" : "r-platinumarmorlegs"}
+  },
+{
+    "op": "add",
+    "path": "/atprk_restoredcodex1/0/1/pool/-",
+    "value": {
+      "weight": 0.1,
+      "item": "pfat_krakothtextnihil"
+    }
   }
 ]

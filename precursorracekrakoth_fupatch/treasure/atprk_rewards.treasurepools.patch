@@ -218,5 +218,22 @@
 	"path":"/atprk_unpackedloregoodspool/0/1/pool/-",
 	"value":
         {"weight" : 0.01, "item" : "greg1-codex"}
-}
+},
+{
+    "op": "add",
+    "path": "/atprk_restoredcodex2/0/1/pool/-",
+    "value": {
+      "weight": 0.1,
+      "item": "atprk_fukrakothtextduo"
+    }
+  },
+{
+    "op": "add",
+    "path": "/atprk_restoredcodex2/0/1/pool/-",
+    "value": {
+      "weight": 0.1,
+      "item": "atprk_fukrakothtextdzhe"
+    }
+  }
+
 ]
