@@ -1,14 +1,14 @@
 [
-{"op" : "add", "path" : "/parallax", "value" : "/parallax/surface/aliensub2.parallax" },
+{"op" : "add", "path" : "/parallax", "value" : "/parallax/surface/mountainous.parallax" },
       {
         "op": "add",
         "path": "/ambientNoises",
         "value": {
           "day" : {
-            "tracks" : [ "/sfx/environmental/forest_day2.ogg" ]
+            "tracks" : [ "/sfx/environmental/arid_day.ogg" ]
           },
           "night" : {
-            "tracks" : [ "/sfx/environmental/forest_night2.ogg" ]
+            "tracks" : [ "/sfx/environmental/arid_night.ogg" ]
           }
         }
       },
