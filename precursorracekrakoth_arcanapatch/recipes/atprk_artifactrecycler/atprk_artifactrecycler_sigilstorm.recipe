@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "arcana_sigils_stormSigil", "count" : 1 }
-  ],
-  "output" : { "item" : "money", "count" : 750 },
-  "groups" : [ "atprk_artifactrecycler", "nouncrafting" ]
-}
