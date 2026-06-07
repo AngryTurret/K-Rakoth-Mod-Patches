@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "Ash-covered rocks.\n^green;Extractable^reset;, ^orange;Crushable^reset;."
+    }
+]
