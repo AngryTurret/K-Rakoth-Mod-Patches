@@ -1,5 +1,5 @@
 [
-{"op" : "add", "path" : "/parallax", "value" : "/parallax/surface/mountainous.parallax" },
+{"op" : "add", "path" : "/parallax", "value" : "/parallax/surface/desert.parallax" },
       {
         "op": "add",
         "path": "/ambientNoises",
