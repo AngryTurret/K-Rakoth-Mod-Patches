@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "crystal", "count" : 100 },
+    { "item" : "teleportercore", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "atprk_crystallineteleporter",
+    "count" : 1
+  },
+  "groups" : [ "prototyper3", "furniture" ]
+}
