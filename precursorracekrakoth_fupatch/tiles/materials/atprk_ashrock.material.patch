@@ -1,0 +1,25 @@
+[
+{"op":"replace","path":"/itemDrop","value":"atprk_ashrock"},
+
+  {
+    "op": "add",
+    "path": "/liquidInteractions",
+    "value": [
+      {
+        "liquidId": 52,
+        "consumeLiquid": 0.05,
+        "transformMaterialId": 42293
+      },
+      {
+        "liquidId": 2,
+        "consumeLiquid": 0.05,
+        "transformMaterialId": 36
+      },
+      {
+        "liquidId": 56,
+        "consumeLiquid": 0.05,
+        "transformMaterialId": 6531
+      }
+    ]
+  }
+]
