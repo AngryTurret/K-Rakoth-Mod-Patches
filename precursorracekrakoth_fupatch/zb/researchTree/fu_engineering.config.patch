@@ -1,0 +1,74 @@
+[
+{
+    "op" : "add",
+    "path" : "/researchTree/fu_engineering/teleporters/unlocks/-",
+    "value" : "atprk_corporateteleporter"
+  },
+{
+    "op" : "add",
+    "path" : "/researchTree/fu_engineering/teleporters/unlocks/-",
+    "value" : "atprk_crystallineteleporter"
+  },
+{
+    "op" : "add",
+    "path" : "/researchTree/fu_engineering/teleporters/unlocks/-",
+    "value" : "atprk_overgrownteleporter"
+  },
+
+{
+    "op" : "add",
+    "path" : "/researchTree/fu_engineering/microformer/unlocks/-",
+    "value" : "atprk_microformeramber"
+  },
+{
+    "op" : "add",
+    "path" : "/researchTree/fu_engineering/microformer/unlocks/-",
+    "value" : "atprk_microformerancientnecropolis"
+  },
+{
+    "op" : "add",
+    "path" : "/researchTree/fu_engineering/microformer/unlocks/-",
+    "value" : "atprk_microformerbluecaves"
+  },
+{
+    "op" : "add",
+    "path" : "/researchTree/fu_engineering/microformer/unlocks/-",
+    "value" : "atprk_microformerforgottenmountains"
+  },
+{
+    "op" : "add",
+    "path" : "/researchTree/fu_engineering/microformer/unlocks/-",
+    "value" : "atprk_microformerglaciovolcanic"
+  },
+{
+    "op" : "add",
+    "path" : "/researchTree/fu_engineering/microformer/unlocks/-",
+    "value" : "atprk_microformergrosscatacombs"
+  },
+{
+    "op" : "add",
+    "path" : "/researchTree/fu_engineering/microformer/unlocks/-",
+    "value" : "atprk_microformerhungergrove"
+  },
+{
+    "op" : "add",
+    "path" : "/researchTree/fu_engineering/microformer/unlocks/-",
+    "value" : "atprk_microformerpolluted"
+  },
+{
+    "op" : "add",
+    "path" : "/researchTree/fu_engineering/microformer/unlocks/-",
+    "value" : "atprk_microformerradiotrophic"
+  },
+{
+    "op" : "add",
+    "path" : "/researchTree/fu_engineering/microformer/unlocks/-",
+    "value" : "atprk_microformershipgraveyard"
+  },
+
+{
+    "op" : "add",
+    "path" : "/researchTree/fu_engineering/terraformer/unlocks/-",
+    "value" : "atprk_terraformerashy"
+  }
+]
