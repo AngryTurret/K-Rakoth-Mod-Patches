@@ -378,15 +378,6 @@
 		},
 		{
 			"op": "add",
-			"path": "/atprk_riftdiver/partParameters/liquidImmunities",
-			"value": {
-				"darkwater": true,
-				"liquidnitrogen": true
-			}
-		},
-
-		{
-			"op": "add",
 			"path": "/atprk_krakothrobo/stats/mechMass",
 			"value": 7
 		},

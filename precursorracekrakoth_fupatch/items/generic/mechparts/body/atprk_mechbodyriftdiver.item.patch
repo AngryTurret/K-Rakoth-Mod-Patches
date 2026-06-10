@@ -1,0 +1,9 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value":
+      "^cyan;Immune^reset;: Mild Radiation, Extreme Cold/Poison, Desert/Tropical Heat, L. Nitro, ^magenta;Spacial Distortion^reset;."
+
+  }
+]
