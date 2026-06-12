@@ -1,0 +1,30 @@
+[
+{"op":"add","path":"/surfacePlaceables/items/-","value":{
+  "mode" : "floor",
+  "priority" : 1.0,
+  "variants" : 1,
+  "distribution" : "/biomes/distributions.config:surfaceCrops",
+
+  "type" : "object",
+  "objectSets" : [
+    {
+      "pool" : [ 
+      [0.75, "oceaniteseed" ],
+      [0.25, "emeraseed" ]
+      ],
+      "parameters" : { "startingStage" : 3 }
+    }
+  ]
+}
+},
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+        "select" : 3,
+        "pool" : [ 
+          [ 0.1, "fufish" ],
+          [ 0.15, "clearjelly" ],
+          [ 0.05, "deathjellypeaceful" ]
+        ]
+      }
+}
+]

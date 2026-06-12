@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/statusEffects",
+    "value": [
+      "ffbiomeheat2"
+    ]
+  },
+	{	"op":"add",
+		"path":"/weather",
+		"value": [
+			[0, [
+			  "/weather.config:atprk_boilingoceanfu1",
+			  "/weather.config:atprk_boilingoceanfu2",
+			  "/weather.config:atprk_boilingoceanfu3",
+			  "/weather.config:atprk_boilingoceanfu4",
+			  "/weather.config:atprk_boilingoceanfu5"
+			]]
+		]
+	},
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+        "select" : 2,
+        "pool" : [ 
+          [ 0.1, "fufirecrab" ],
+          [ 0.1, "pyropod" ], 
+          [ 0.1, "volpin" ], 
+          [ 0.1, "firetop" ]
+        ]
+      }
+},
+    {"op":"add","path":"/surfacePlaceables/items/-","value":{
+            "mode" : "floor",
+            "priority" : 1.0,
+            "variants" : 1,
+             "distribution" : "/biomes/distributions.config:rareClumpyLarge",
+
+            "type" : "tree",
+            "treeFoliageHueShiftMax" : 170,
+            "treeStemHueShiftMax" : 170,
+            "treeStemList" : [ "energyorbstem" ],
+            "treeFoliageList" : [ "energyorbfoliage" ]
+        } 
+    },
+{"op":"add","path":"/surfacePlaceables/items/-","value":{
+  "mode" : "floor",
+  "priority" : 1.0,
+  "variants" : 1,
+  "distribution" : "/biomes/distributions.config:rareClumpyLarge",
+
+  "type" : "object",
+  "objectSets" : [
+    {
+      "pool" : [ 
+      [0.35, "wildenergiflowerseed" ]
+      ],
+      "parameters" : { "startingStage" : 3 }
+    }
+  ]
+}
+}
+]
