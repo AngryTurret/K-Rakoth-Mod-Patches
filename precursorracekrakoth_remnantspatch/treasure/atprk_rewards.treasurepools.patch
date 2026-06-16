@@ -1,0 +1,57 @@
+[
+ {"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "iwrmp_aureatebrotherhood1-codex"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "iwrmp_envoylore2"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "iwrmp_envoylore3"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "iwrmp_envoylore4"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "iwrmp_envoylore3"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "iwrmp_protectoratelore1"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "iwrmp_protectoratelore2"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "iwrmp_protectoratelore3"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "iwrmp_rosenfieldlore1"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "iwrmp_rosenfieldlore2"}
+  },
+{"op" : "add",
+	"path" : "/atprk_unpackedloregoodspool/0/1/pool/-",
+	"value" :
+	  {"weight" : 0.10, "item" : "iwrmp_rosenfieldlore3"}
+  }
+]
