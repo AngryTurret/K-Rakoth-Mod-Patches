@@ -19,7 +19,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJztl1EKwyAMhnuKvu6ie90Fdq1dqgiTijOaGGPs+n8QOgpG8xnL3DYAwN34fAP8Ajd+wD0N3PgB9zRw4wfc08CNH3BPAzd+wD0N3ICrEnv3lf0GJ7kbnPe5wDcN3PgB9zR3c\/N8nOHNDPdW9aZ5LfKv1peW9Vq7lGLt\/souV+vLwKwzDnRoPWIfxqHt6yvcx9+FsKLk8l\/u47nDUOcMpz2s7LjUjzN7lKLXmdf3mOMw7dEVyB3vldAg3ZPW2eb0plUfUH1Zcyf1Sq1d+t+P66\/kM4zpWXsLTp7anJx11cbG2iR3Eom7PXlqQuJEMy7WPsJvmk\/iMo4d4U277rT+Xpd5HuvQeCudg9EeWy6peXvXNXMPqG9JrR5J7tL7mkvOPCv5HOGp1yPHJYIfcGnnEoCVOAAWSdZ9",
+         "data":"eJztl1EOwjAIhneKvXpRX72A1\/JSZonNmgotlFI6\/b+EzJiUwjc63bYBAP6N1yfAN3ATB9zzwE0ccM8DN3HAPQ\/cxAH3PHATB9zzwA24Kml2H8VncFK6wXmfC3zzwE0ccM\/zb27utzOimeHeq988r0f+1ebSs19vl1q83V\/Z5WpzeTDrjAMbVo+4D+OwzvUV3sefRHhBufyV9\/HS4dHnDKc9rOyYmseZM8rR6yzqeSxxmM\/oCpSO90rMpHW2JbPpNQfcXNbcab1ytWt\/H6X+KJ\/Hmp7aW0jy1PaU1FVbm3rT\/I\/WuNuzqyU0TizrUv8j\/Ob5NC7T2hHerHXn\/fe6LPN4h8UbdRZGe2y55PbtrWvmPaD8tfrR5Ka+r7mU7LOSzxGeej1KXCLkAZd+LgFYiTcBGNQR",
          "encoding":"base64",
          "height":43,
          "id":22,
@@ -37,27 +37,6 @@
          "id":3,
          "name":"mods",
          "objects":[
-                {
-                 "height":8,
-                 "id":858,
-                 "name":"",
-                 "properties":
-                    {
-                     "material":"rock17",
-                     "mod":"savannahgrass"
-                    },
-                 "propertytypes":
-                    {
-                     "material":"string",
-                     "mod":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":72,
-                 "y":64
-                }, 
                 {
                  "height":9,
                  "id":885,
