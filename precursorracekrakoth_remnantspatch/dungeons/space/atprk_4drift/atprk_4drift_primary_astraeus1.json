@@ -1,4 +1,5 @@
 { "backgroundcolor":"#000000",
+ "compressionlevel":-1,
  "height":100,
  "infinite":false,
  "layers":[
@@ -2359,30 +2360,6 @@
                  "y":320
                 }, 
                 {
-                 "gid":731,
-                 "height":16,
-                 "id":1394,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":568,
-                 "y":432
-                }, 
-                {
-                 "gid":716,
-                 "height":16,
-                 "id":1395,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":584,
-                 "y":432
-                }, 
-                {
                  "gid":792,
                  "height":24,
                  "id":1396,
@@ -2393,18 +2370,6 @@
                  "width":32,
                  "x":984,
                  "y":424
-                }, 
-                {
-                 "gid":932,
-                 "height":16,
-                 "id":1397,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":552,
-                 "y":432
                 }, 
                 {
                  "gid":1045,
@@ -2515,17 +2480,6 @@
                  "y":392
                 }, 
                 {
-                 "height":32,
-                 "id":1407,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":40,
-                 "x":576,
-                 "y":440
-                }, 
-                {
                  "gid":2124,
                  "height":8,
                  "id":1410,
@@ -2592,6 +2546,50 @@
                  "width":32,
                  "x":696,
                  "y":408
+                }, 
+                {
+                 "gid":2147492424,
+                 "height":18,
+                 "id":1478,
+                 "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\":[\"atprk_4driftStabilizer\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":576,
+                 "y":472
+                }, 
+                {
+                 "gid":8787,
+                 "height":16,
+                 "id":1479,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":24,
+                 "x":616,
+                 "y":472
+                }, 
+                {
+                 "gid":8725,
+                 "height":32,
+                 "id":1481,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":576,
+                 "y":448
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2681,10 +2679,10 @@
          "y":0
         }],
  "nextlayerid":11,
- "nextobjectid":1478,
+ "nextobjectid":1483,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.2.2",
+ "tiledversion":"1.11.2",
  "tileheight":8,
  "tilesets":[
         {
@@ -2826,13 +2824,13 @@
         {
          "firstgid":8730,
          "source":"..\/..\/..\/..\/..\/mods\/precursorracekrakoth_remnantspatch\/tilesets\/precursorracekrakoth_custom\/atprk_firstastraeus1.json"
-        },
+        }, 
         {
-         "firstgid":8827,
+         "firstgid":8737,
          "source":"..\/..\/..\/..\/..\/mods\/precursorracekrakoth\/tilesets\/precursorracekrakoth_custom\/atprk-krakothdungeonset3.json"
-        },
+        }, 
         {
-         "firstgid":9268,
+         "firstgid":8806,
          "source":"..\/..\/..\/..\/..\/mods\/precursorracekrakoth\/tilesets\/precursorracekrakoth_custom\/atprk-glitchdevoutset1.json"
         }],
  "tilewidth":8,

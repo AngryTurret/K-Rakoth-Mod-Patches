@@ -1,0 +1,17 @@
+[
+{
+  "op": "add",
+  "path": "/parts/-",
+  "value":  
+    {
+      "name" : "iwrmp_mainroom_krakoth1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "maxSpawnCount", [1] ],
+        [ "doNotCombineWith", [ "iwrmp_mainroom7", "iwrmp_mainroom8", "iwrmp_mainroom9" ] ]
+      ],
+      "def" : [ "tmx", "iwrmp_mainroom_krakoth1.json" ],
+      "chance" : 1
+    }	
+}
+]
