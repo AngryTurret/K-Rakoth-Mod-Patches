@@ -116,6 +116,30 @@
           },
           {
             "item": {
+              "name": "atprk_betacaptainschair"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "atprk_betadungeonpod"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "atprk_betashiplockeralt"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "atprk_betashiplockerprop"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
               "name": "salvagearm"
             },
             "rarity": 0.005
